@@ -61,7 +61,7 @@ def date_accuracy(df, date_col:str, year_list:list):
     print(df_unique)
 
 # -- 3.-- OUTLIERS DETECTION
-def ouliers_auto_detection(df, multiplier=1.5):
+def outliers_auto_detection(df, multiplier=1.5):
     """
     Automatically detects outliers in all numeric columns of a DataFrame using 
     the Interquartile Range (IQR) method. 
@@ -279,7 +279,7 @@ def quantity_exception_manage(df, product_col, quantity_col, uom_col, conversion
             print(f"Converted {mask.sum()} rows of {product} from {from_unit} to {to_unit}")
             
     if converted_count == 0:
-         print("No conversion applied. Verify that the names and units match.")
+        print("No conversion applied. Verify that the names and units match.")
             
     return df_c
 
