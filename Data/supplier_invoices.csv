@@ -1,0 +1,1611 @@
+﻿fattura_id,riga_fattura,data_fattura,fornitore,codice_fornitore,codice_prodotto,descrizione_prodotto,categoria,quantita,unita_misura,prezzo_unitario,importo_totale,iva_pct,pagato,data_scadenza
+50001,1,03/01/2023,Molino Pasta Artigianale,FORN-006,SKU-4926,Olio EVO,Condimenti,15.63,lt,8.6401,135.04,22,SI,02/02/2023
+50001,2,03/01/2023,Molino Pasta Artigianale,FORN-006,SKU-3520,Sale 100/kg,Condimenti,9.408,Kg,,,22,SI,03/04/2023
+50001,3,03-01-2023,Molino Pasta Artigianale,FORN-006,SKU-5876,Insalata mista,,2.359,KG,2.2757,5.37,10,NO,
+50002,1,05/01/2023,Latteria Alpina Coop,FORN-005,SKU-7962,Olio EVO,Condimenti,5.49,l,8.2628,45.36,22,SI,04/02/2023
+50002,2,05/01/2023,Latteria Alpina Coop,FORN-005,SKU-9212,Costata di manzo,Carni,6.016,kilo,32.5656,195.91,5,si,04/02/2023
+50002,3,05/01/2023,Latteria Alpina Coop,FORN-005,SKU-2930,chianti 75cl,Vini,21.0,BT,6.0701,127.47,10,NO,05/04/2023
+50002,4,05/01/2023,Latteria Alpina Coop,FORN-005,SKU-7223,Sale fino,Condimenti,25.411,kilo,0.4573,11.62,22,SI,06/03/2023
+50002,5,05/01/2023,Latteria Alpina Coop,FORN-005,SKU-3749,Pasta tagliatelle,Secchi,23.482,KG,1.9833,46.57,10,NO,05/04/2023
+50003,1,08/01/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-6187,Panna fresca,Latticini,2.98,0.75,2.0582,6.13,4,SI,07/02/2023
+50003,2,08/01/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7628,latte intero lt,Latticini,10.03,l,1.0371,10.4,4,SI,09/03/2023
+50003,3,08-01-2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-1172,Porcini kg,Funghi,16.092,kg,43.6854,702.99,10,SI,07/02/2023
+50003,4,08/01/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7274,Filetto di manzo,Carni,5.352,g,38.0,203.38,22,SI,09/03/2023
+50004,1,12/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8544,Burr@ta,,265.0,pz,3.1727,840.77,4,SI,13/03/2023
+50004,2,12/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2846,Parmigiano 24m,Latticini,2.441,g,16.5,40.28,10,SI,12/04/2023
+50004,3,12/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2940,Sale 100/kg,Condimenti,19.063,kilo,0.4432,8.45,22,SI,11/02/2023
+50004,4,12/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1465,Riso Carnaroli,Secchi,17.543,kilo,3.4211,60.02,4,NO,11/02/2023
+50005,1,14/01/2023,Distribuzione Generale,FORN-008,SKU-2508,Vino Tignanello,Vini,26.0,BT,74.1196,1927.11,10,SI,14/04/2023
+50005,2,14/01/2023,Distribuzione Generale,FORN-008,SKU-8715,Insalata mista,Verdure,23.56,g,2.5,58.9,22,NO,15/03/2023
+50005,3,14/01/2023,Distribuzione Generale,FORN-008,SKU-2353,Farina 00,Secchi,4.26,Kg,0.7512,3.2,22,NO,
+50005,4,14/01/2023,Distribuzione Generale,FORN-008,SKU-3857,Panna fresca,Latticini,5.66,1000ml,2.6925,15.24,10,SI,13/02/2023
+50005,5,14/01/2023,Distribuzione Generale,FORN-008,SKU-8046,LATTE 1L,Latticini,18.04,1000ml,1.3148,23.72,10,NO,13/02/2023
+50005,6,14/01/2023,Distribuzione Generale,FORN-008,SKU-4318,Costata di manzo,Carni,28.994,1000g,26.6364,772.3,10,NO,13/02/2023
+50005,7,14/01/2023,Distribuzione Generale,FORN-008,SKU-2027,Sale fino,Condimenti,21.078,1000g,0.354,7.46,10,SI,14/04/2023
+50006,1,16/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-9617,Acqua minerale 1L,,131.0,pz,,,22,0,16/04/2023
+50006,2,16/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-1646,Porcini freschi kg,Funghi,24.426,g,45.0,1099.17,22,SI,16/04/2023
+50006,3,2023/01/16,Cantina Vinicola Toscana,FORN-004,SKU-1649,Sale fin,,2.634,1000g,0.3816,1.01,22,NO,17/03/2023
+50006,4,16/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-6346,Pomodorini ciliegino,Verdure,26.542,g,3.2,84.93,10,SI,17/03/2023
+50006,5,16/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-3026,Insalata mista,Verdure,21.498,1000g,2.5846,55.56,10,SI,17/03/2023
+50006,6,16/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-2768,Caffe miscela bar,Bevande,5.363,kilo,15.4298,82.75,10,SI,15/02/2023
+50006,7,16/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-8062,Salmone intero,Pesce,15.059,kilo,14.8568,223.73,,NO,17/03/2023
+50007,1,20/01/2023,Beverages Distribution,FORN-007,SKU-4812,Olio EVO,Condimenti,14.42,1000ml,9.9099,142.9,10,NO,21/03/2023
+50007,2,20-01-2023,Beverages Distribution,FORN-007,SKU-5258,  Latte intero,Latticini,3.67,1000ml,1.0814,3.97,22,SI,19/02/2023
+50007,3,20/01/2023,Beverages Distribution,FORN-007,SKU-4129,Pomodorini ciliegino,Verdure,25.489,kilo,2.9293,74.66,5,SI,21/03/2023
+50007,4,2023/01/20,Beverages Distribution,FORN-007,SKU-2951,  Rucola,Verdure,29.684,g,4.0,118.74,,NO,21/03/2023
+50007,5,20/01/2023,Beverages Distribution,FORN-007,SKU-9743,Farina 00,Secchi,14.012,1000g,0.7939,11.12,5,SI,20/04/2023
+50007,6,2023/01/20,Beverages Distribution,FORN-007,SKU-4316,Insalata mista,Verdure,26.057,kg,2.3449,61.1,22,no,21/03/2023
+50007,7,20/01/2023,Beverages Distribution,FORN-007,SKU-2081,Porcini freschi,Funghi,25.259,1000g,0.45,11.37,10,SI,19/02/2023
+50007,8,20/01/2023,Beverages Distribution,FORN-007,SKU-9065,Vino Chi@nti DOCG bt,Vini,25.0,bottiglia,5.9412,148.53,22,NO,19/02/2023
+50008,1,22/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-7562,Farina 00,Secchi,22.388,kg,0.9206,20.61,10,SI,23/03/2023
+50008,2,22/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1228,Olio oliva EVO,Condimenti,7.06,0.75,9.3693,66.15,22,SI,22/04/2023
+50008,3,22/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-5233,Panna fresca,Latticini,12.71,lt,2.2391,28.46,22,no,23/03/2023
+50008,4,22/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8463,chianti 75cl,Vini,46.0,1,7.0985,326.53,22,NO,21/02/2023
+50008,5,22/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1990,Vino Tignanello,Vini,8.0,BT,70.6647,565.32,10,NO,21/02/2023
+50008,6,22/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4680,Sale fino,Condimenti,21.068,KG,,,5,SI,22/04/2023
+50008,7,22/01/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2271,Latte fresco int,Latticini,19.73,1000ml,1.207,23.81,22,SI,22/04/2023
+50009,1,25/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-7878,Prosecco DOC,Vini,32.0,750ml,,,22,NO,24/02/2023
+50009,2,25/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-4448,uova fresche,Latticini,218.0,nr,0.3324,72.46,22,0,24/02/2023
+50009,3,25/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-8271,Burrata,Latticini,144.0,pezzi,3.3113,476.83,22,SI,26/03/2023
+50009,4,25/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-2126,Vino Chianti DOCG bt,Vini,15.0,750ml,7.6818,115.23,22,NO,08/01/2023
+50009,5,25/01/2023,Cantina Vinicola Toscana,FORN-004,SKU-7773,ACQUA NAT 1L,Bevande,156.0,PZ,0.2991,46.66,22,NO,26/03/2023
+50010,1,28/01/2023,Macelleria Bianchi SRL,FORN-001,SKU-3672,Uova fresche cat. A,Latticini,298.0,1,0.2482,73.96,10,SI,29/03/2023
+50010,2,28-01-2023,Macelleria Bianchi SRL,FORN-001,SKU-9925,acqua minerale,Bevande,86.0,nr,0.41,35.26,22,1,29/03/2023
+50010,3,28/01/2023,Macelleria Bianchi SRL,FORN-001,SKU-3896,Insalata mista,Verdure,29.639,Kg,2.9223,86.61,,NO,
+50011,1,29/01/2023,Distribuzione Generale,FORN-008,SKU-2337,Riso Carnaroli,Secchi,9.336,kg,3.5986,33.6,4,NO,30/03/2023
+50011,2,29/01/2023,Distribuzione Generale,FORN-008,SKU-2353,Costata di manzo,,19.257,kg,31.5794,608.12,10,SI,30/03/2023
+50011,3,29/01/2023,Distribuzione Generale,FORN-008,SKU-2570,Vongole fresche,Pesce,8.092,g,9.0,72.83,22,SI,
+50012,1,02/02/2023,Molino Pasta Artigianale,FORN-006,SKU-4595,Pasta tagliatelle,Secchi,13.747,g,2.1,28.87,22,NO,03/04/2023
+50012,2,02/02/2023,Molino Pasta Artigianale,FORN-006,SKU-7927,Vongole fresche,Pesce,15.13,kilo,10.1969,154.28,22,SI,03/04/2023
+50012,3,02/02/2023,Molino Pasta Artigianale,FORN-006,SKU-5183,Pomodorini ciliegino,Verdure,13.66,kilo,0.032,0.44,22,SI,04/03/2023
+50012,4,02/02/2023,Molino Pasta Artigianale,FORN-006,SKU-5283,Uova Cat.A 30pz,Latticini,143.0,nr,0.2647,37.85,22,SI,04/03/2023
+50013,1,05/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-9842,Pasta tagliatelle,Secchi,7.472,kg,2.5148,18.79,10,SI,06/05/2023
+50013,2,05/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-8956,Rucola,Verdure,29.25,1000g,4.6417,135.77,22,NO,07/03/2023
+50013,3,05/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-2625,Petto di pollo,Carni,21.876,g,8.5,185.95,10,0,07/03/2023
+50013,4,05/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-9913,Panna fresca,Latticini,3.32,lt,2.4034,7.98,10,SI,07/03/2023
+50013,5,05/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-7826,Caffe miscela bar,Bevande,14.118,1000g,13.3167,188.01,22,NO,06/04/2023
+50013,6,05/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-3167,Prosecco DOC,Vini,20.0,bt,5.0121,100.24,22,S,
+50013,7,05/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-6525,Fil. Manzo,Carni,28.728,Kg,34.5414,992.31,10,SI,06/04/2023
+50014,1,07/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4962,Vongole fresche,Pesce,22.252,1000g,10.2782,228.71,10,NO,09/03/2023
+50014,2,07/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7017,Rucola,Verdure,6.247,g,4.0,24.99,10,SI,08/04/2023
+50014,3,07/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8670,Uova fresche cat. A,Latticini,98.0,pezzi,0.2621,25.69,,NO,08/05/2023
+50015,1,08/02/2023,Cantina Vinicola Toscana,FORN-004,SKU-3400,Salmone intero,Pesce,17.727,1000g,16.7787,297.44,22,NO,09/04/2023
+50015,2,08/02/2023,Cantina Vinicola Toscana,FORN-004,SKU-4574,Branzino fresco,Pesce,15.777,g,18.0,283.99,22,SI,09/05/2023
+50015,3,08/02/2023,Cantina Vinicola Toscana,FORN-004,SKU-5888,Farina 00,Secchi,19.325,Kg,0.9266,17.91,10,NO,10/03/2023
+50015,4,08/02/2023,Cantina Vinicola Toscana,FORN-004,SKU-1297,Latte intero,Latticini,6.14,L,1.1704,7.19,10,SI,10/03/2023
+50016,1,12/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-6587,Panna fresca ,Latticini,18.13,0.75,2.8342,51.38,4,SI,25/01/2023
+50016,2,12/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-6830,Costata di manzo,Carni,1.314,kilo,26.2234,34.46,10,NO,13/05/2023
+50016,3,12/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7912,Riso Carnaroli ,Secchi,14.953,g,3.2,47.85,10,SI,14/03/2023
+50016,4,12/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8795,Insalata mista,Verdure,25.684,1000g,2.9274,75.19,10,NO,14/03/2023
+50016,5,12/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8214,Rucola,Verdure,8.817,g,4.0,35.27,10,SI,13/05/2023
+50016,6,12/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4623,Vongole fresche,Pesce,17.388,KG,9.2672,161.14,5,SI,14/03/2023
+50016,7,12/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7762,Pomodorini ciliegino,Verdure,21.537,g,3.2,68.92,10,no,14/03/2023
+50017,1,15/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-3897,  Rucola,Verdure,16.591,kilo,3.5192,58.39,10,,17/03/2023
+50017,2,15/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-5688,Vino  Chianti  DOCG  bt,Vini,41.0,bt,5.9651,244.57,10,NO,16/04/2023
+50017,3,15/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-5175,Riso Carnaroli,Secchi,5.495,kilo,3.1094,17.09,10,SI,17/03/2023
+50017,4,15/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-5184,Pomodorini ciliegino,,10.871,KG,2.9564,32.14,10,NO,17/03/2023
+50017,5,15/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-4177,Caffe miscela bar,Bevande,11.076,g,14.0,155.06,10,NO,16/05/2023
+50017,6,15/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-9799,Burrata,Latticini,167.0,nr,2.7863,465.31,22,NO,16/05/2023
+50018,1,18/02/2023,Beverages Distribution,FORN-007,SKU-2677,Parmigiano 24m,Latticini,11.787,Kg,16.6406,196.14,10,NO,20/03/2023
+50018,2,18/02/2023,Beverages Distribution,FORN-007,SKU-6317,Chianti bt 0.75,Vini,18.0,750ml,7.4835,134.7,10,NO,19/05/2023
+50018,3,18-02-2023,Beverages Distribution,FORN-007,SKU-8840,Salmone intero,,11.395,1000g,15.9419,181.66,10,NO,19/04/2023
+50018,4,18/02/2023,Beverages Distribution,FORN-007,SKU-7265,Sale fino kg,Condimenti,4.942,1000g,0.4721,2.33,10,S,19/04/2023
+50018,5,18/02/2023,Beverages Distribution,FORN-007,SKU-4642,Olio extra vergine,Condimenti,7.26,l,10.0742,73.14,4,SI,19/04/2023
+50019,1,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-3749,Riso Carnaroli,Secchi,14.729,kg,3.3881,49.9,22,SI,22/03/2023
+50019,2,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-3045,Caffe miscela bar,Bevande,3.872,1000g,15.5307,60.13,10,si,21/05/2023
+50019,3,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-5102,Vino Chianti DOCG bt,Vini,11.0,750ml,6.4351,70.79,10,SI,22/03/2023
+50019,4,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-8101,Vino Tignanello,Vini,47.0,1,75.1429,3531.72,10,1,21/05/2023
+50019,5,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-9960,Panna fresca,Latticini,15.85,LT,2.6063,41.31,10,no,21/05/2023
+50019,6,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-6782,LATTE 1L,Latticini,19.13,1000ml,1.2797,24.48,4,NO,21/05/2023
+50019,7,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-3952,Filetto manzo,Carni,27.561,g,38.0,1047.32,10,si,21/05/2023
+50019,8,20/02/2023,Pescheria Del Mare SNC,FORN-002,SKU-7763,ACQUA NAT 1L,Bevande,254.0,PZ,0.3171,80.54,10,NO,22/03/2023
+50020,1,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-3946,Vino Tignanello,Vini,39.0,bott,80.517,3140.16,10,SI,25/04/2023
+50020,2,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-3156,Latte intero,Latticini,12.44,L,1.0438,12.98,22,SI,15/02/2023
+50020,3,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-9385,Pomodorini ciliegino,Verdure,18.143,Kg,3.1137,56.49,10,NO,25/05/2023
+50020,4,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-9324,Burrata,Latticini,67.0,1,2.6882,180.11,5,SI,
+50020,5,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-9607,Prosecco DOC,Vini,38.0,bt,4.3219,164.23,22,0,25/04/2023
+50020,6,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-9222,Farina 00,Secchi,18.922,Kg,0.9875,18.69,22,SI,25/04/2023
+50020,7,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-6585,Branzino fresco,Pesce,29.597,g,18.0,532.75,5,SI,26/03/2023
+50020,8,24/02/2023,Macelleria Bianchi SRL,FORN-001,SKU-4112,Petto di pollo,Carni,3.139,g,8.5,26.68,22,S,25/04/2023
+50021,1,26/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-2888,Burrata,Latticini,161.0,PZ,3.2363,521.04,4,si,28/03/2023
+50021,2,26/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-5030,Vongole fresche,Pesce,12.555,KG,8.5075,106.81,5,SI,28/03/2023
+50021,3,2023/02/26,BIANCHI CARNI s.r.l.,FORN-001,SKU-1640,Riso Carnaroli,Secchi,4.344,KG,3.4182,14.85,,SI,28/03/2023
+50021,4,26/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8878,Pasta tagliatelle,Secchi,6.266,KG,2.1234,13.31,10,NO,27/05/2023
+50021,5,26/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7893,Branzino fresco,Pesce,11.294,kilo,19.7112,222.62,5,0,
+50021,6,26/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-2012,Pomodorini ciliegino,Verdure,20.159,Kg,2.9227,58.92,,SI,27/05/2023
+50021,7,26/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4245,Rucola,Verdure,11.62,KG,4.2686,49.6,4,NO,27/05/2023
+50021,8,26/02/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3434,Petto di pollo,,16.758,kg,7.9987,134.04,10,SI,
+50022,1,28/02/2023,Beverages Distribution,FORN-007,SKU-3297,Vino rosso Chianti,Vini,45.0,750ml,6.4329,289.48,10,1,29/05/2023
+50022,2,28/02/2023,Beverages Distribution,FORN-007,SKU-9312,sale grosso,Condimenti,13.046,g,0.4,5.22,4,NO,29/05/2023
+50022,3,28/02/2023,Beverages Distribution,FORN-007,SKU-6172,Insalata mista,Verdure,16.272,kilo,2.5849,42.06,22,NO,29/04/2023
+50022,4,28/02/2023,Beverages Distribution,FORN-007,SKU-6933,Farina 00,Secchi,16.76,KG,0.7409,12.42,22,NO,29/04/2023
+50022,5,28/02/2023,Beverages Distribution,FORN-007,SKU-6838,Uova Cat.A 30pz,Latticini,205.0,cad,0.268,54.94,22,NO,29/04/2023
+50022,6,28/02/2023,Beverages Distribution,FORN-007,SKU-2482,Porcini freschi,Funghi,19.465,g,45.0,875.92,10,SI,29/05/2023
+50023,1,01/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-4070,Rucola,Verdure,4.68,kg,3.6933,17.28,10,SI,31/03/2023
+50023,2,01/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-7695,Olio EVO,Condimenti,12.27,lt,10.0512,123.33,22,si,30/05/2023
+50023,3,01/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-7703,Farina 00,Secchi,28.352,KG,0.854,24.21,22,NO,31/03/2023
+50023,4,01/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-6445,LATTE 1L,Latticini,8.31,ml,1.1,9.14,4,SI,30/04/2023
+50023,5,01/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-7625,Vino Tignanello,Vini,21.0,1,86.5657,1817.88,10,,
+50023,6,01/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-5007,ACQUA NAT 1L,Bevande,234.0,cad,0.2988,69.92,22,SI,31/03/2023
+50023,7,01-03-2023,Macelleria Bianchi SRL,FORN-001,SKU-2264,riso carnaroli,Secchi,11.09,1000g,3.5338,39.19,10,SI,30/04/2023
+50024,1,05/03/2023,Latteria Alpina Coop,FORN-005,SKU-3298,Vongole fresche,Pesce,21.775,kilo,9.0644,197.38,10,1,03/06/2023
+50024,2,05/03/2023,Latteria Alpina Coop,FORN-005,SKU-7684,Sale fino kg,Condimenti,20.556,KG,0.4549,9.35,10,SI,04/04/2023
+50024,3,05/03/2023,Latteria Alpina Coop,FORN-005,SKU-8912,Acqua 1000ml,Bevande,261.0,nr,0.32,83.52,5,SI,03/06/2023
+50024,4,05/03/2023,Latteria Alpina Coop,FORN-005,SKU-5813,Prosecco DOC,Vini,32.0,bott,5.5935,178.99,22,NO,04/04/2023
+50024,5,05/03/2023,Latteria Alpina Coop,FORN-005,SKU-5276,Caffe miscela bar,Bevande,22.681,Kg,15.1552,343.74,10,NO,04/04/2023
+50024,6,05/03/2023,Latteria Alpina Coop,FORN-005,SKU-3535,Pomodorini ciliegino,Verdure,25.927,1000g,3.2827,85.11,10,NO,03/06/2023
+50024,7,05/03/2023,Latteria Alpina Coop,FORN-005,SKU-9563,Salmone intero,,8.89,g,14.0,124.46,4,SI,03/06/2023
+50025,1,08/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-2910,Porcini freschi,Funghi,9.059,kg,50.2078,454.83,22,NO,07/05/2023
+50025,2,08-03-2023,Macelleria Bianchi SRL,FORN-001,SKU-1093,Caffe miscela bar,Bevande,5.403,g,14.0,75.64,10,SI,07/04/2023
+50025,3,08/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-4297,Vino rosso Chianti,Vini,13.0,750ml,6.9927,90.91,5,0,07/05/2023
+50025,4,08/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-3305,Vino Tignanello,Vini,30.0,0.75,,,22,NO,07/04/2023
+50025,5,08/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-1642,Parmigiano Reggiano 24m,,4.483,kg,14.9449,67.0,10,si,07/05/2023
+50025,6,08/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-6404,Farina 00 ,Secchi,12.234,KG,0.8882,10.87,10,SI,06/06/2023
+50025,7,08/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-4370,Olio EVO,Condimenti,10.35,l,8.3921,86.86,10,SI,06/06/2023
+50025,8,08/03/2023,Macelleria Bianchi SRL,FORN-001,SKU-4994,Salmone intero,Pesce,7.845,kilo,13.4221,105.3,22,1,
+50026,1,12/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3949,Panna fresca,Latticini,11.11,l,2.8322,31.47,4,SI,11/05/2023
+50026,2,12/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2828,Costata di manzo,Carni,18.901,KG,32.6487,617.09,22,SI,11/05/2023
+50026,3,12/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6640,Olio EVO,Condimenti,7.04,l,8.1606,57.45,10,SI,11/04/2023
+50026,4,12/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4157,Vongole fresche,Pesce,21.417,Kg,10.6524,228.14,10,NO,10/06/2023
+50027,1,14/03/2023,Latteria Alpina Coop,FORN-005,SKU-7780,Salmone intero,Pesce,12.358,Kg,14.321,176.98,22,NO,13/05/2023
+50027,2,14/03/2023,Latteria Alpina Coop,FORN-005,SKU-3877,  Riso Carnaroli,Secchi,18.795,Kg,3.4928,65.65,10,SI,13/04/2023
+50027,3,14/03/2023,Latteria Alpina Coop,FORN-005,SKU-7408,Caffe miscela bar,Bevande,11.13,Kg,15.7097,174.85,4,SI,13/04/2023
+50027,4,14/03/2023,Latteria Alpina Coop,FORN-005,SKU-6740,Rucola,Verdure,4.726,KG,3.7955,17.94,22,SI,12/06/2023
+50027,5,14/03/2023,Latteria Alpina Coop,FORN-005,SKU-5223,Costata di manzo,Carni,22.802,g,28.0,638.46,22,NO,13/05/2023
+50027,6,14/03/2023,Latteria Alpina Coop,FORN-005,SKU-3184,Latte intero,Latticini,5.58,1000ml,1.272,7.1,22,,12/06/2023
+50028,1,18/03/2023,Beverages Distribution,FORN-007,SKU-6110,FILETTO DI MANZO,Carni,28.529,g,38.0,1084.1,10,NO,17/05/2023
+50028,2,18/03/2023,Beverages Distribution,FORN-007,SKU-1521,Farina 00,Secchi,17.469,kilo,0.9623,16.81,22,NO,16/06/2023
+50028,3,18/03/2023,Beverages Distribution,FORN-007,SKU-2916,Costata di manzo,Carni,6.601,kg,25.3224,167.15,10,NO,17/05/2023
+50028,4,18/03/2023,Beverages Distribution,FORN-007,SKU-7410,uova fresche,Latticini,129.0,pz,0.3165,40.83,10,SI,16/06/2023
+50028,5,18/03/2023,Beverages Distribution,FORN-007,SKU-8061,Rucola,Verdure,27.787,g,4.0,111.15,22,NO,17/04/2023
+50028,6,18/03/2023,Beverages Distribution,FORN-007,SKU-2024,latte intero lt,Latticini,13.18,1000ml,1.3043,17.19,10,NO,17/04/2023
+50028,7,18/03/2023,Beverages Distribution,FORN-007,SKU-5397,Petto di pollo,Carni,1.032,1000g,8.5645,8.84,10,SI,17/04/2023
+50029,1,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-9252,Parmigiano Reggiano,Latticini,22.758,KG,17.7887,404.84,22,1,19/05/2023
+50029,2,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-7073,Vino Tignanello,Vini,44.0,750ml,71.3585,3139.77,22,SI,19/04/2023
+50029,3,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-3679,Salmone intero,Pesce,6.895,kilo,12.7072,87.62,10,SI,19/05/2023
+50029,4,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-4059,Pomodorini ciliegino,Verdure,10.312,kg,3.119,32.16,10,SI,18/06/2023
+50029,5,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-2331,Branzino fresco,Pesce,13.933,Kg,17.6004,245.23,10,NO,11/03/2023
+50029,6,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-1506,Rucola,Verdure,20.385,Kg,4.7031,95.87,10,NO,19/05/2023
+50029,7,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-2663,  Uova fresche cat. A,Latticini,32.0,nr,,,10,S,
+50029,8,20/03/2023,Latteria Alpina Coop,FORN-005,SKU-6219,Latte intero,Latticini,11.61,l,1.0459,12.14,22,NO,19/05/2023
+50030,1,21/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9122,Filetto di manzo,,1.514,Kg,,,10,SI,20/05/2023
+50030,2,21/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8606,Panna fresca,Latticini,7.92,0.75,,,4,NO,20/05/2023
+50030,3,21/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2326,Petto di pollo,Carni,9.15,KG,9.1932,84.12,,NO,19/06/2023
+50030,4,21/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9771,Acqua minerale 1L,Bevande,294.0,pz,0.3906,114.84,22,no,20/05/2023
+50030,5,21/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-7013,Rucola,Verdure,10.011,g,4.0,40.04,,SI,20/05/2023
+50030,6,21/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2362,Parmigiano Reggiano 24m,Latticini,29.98,kg,,,10,SI,20/05/2023
+50030,7,21/03/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4985,Uova 30pz,Latticini,51.0,pz,0.2435,12.42,22,SI,20/04/2023
+50031,1,25/03/2023,Distribuzione Generale,FORN-008,SKU-8594,Olio EVO,Condimenti,7.5,0.75,9.5964,71.97,22,SI,24/04/2023
+50031,2,25/03/2023,Distribuzione Generale,FORN-008,SKU-9432,Costata di manzo,Carni,14.825,1000g,24.8654,368.63,22,SI,23/06/2023
+50031,3,25/03/2023,Distribuzione Generale,FORN-008,SKU-8449,Vino rosso Chianti,Vini,7.0,750ml,6.2467,43.73,10,SI,24/04/2023
+50032,1,28/03/2023,Cantina Vinicola Toscana,FORN-004,SKU-3421,Rucola,Verdure,5.371,1000g,3.9196,21.05,22,SI,27/04/2023
+50032,2,28/03/2023,Cantina Vinicola Toscana,FORN-004,SKU-1773,Vino Tignanello,Vini,32.0,1,85.7085,2742.67,,SI,27/05/2023
+50032,3,28/03/2023,Cantina Vinicola Toscana,FORN-004,SKU-9824,Acqua 1000ml,Bevande,93.0,pz,0.3457,32.15,10,NO,27/04/2023
+50032,4,28/03/2023,Cantina Vinicola Toscana,FORN-004,SKU-4475,Petto di pollo,Carni,18.468,kilo,7.9535,146.89,22,NO,27/05/2023
+50032,5,28/03/2023,Cantina Vinicola Toscana,FORN-004,SKU-1712,Farina 00,Secchi,26.977,1000g,0.773,20.85,10,SI,
+50033,1,31/03/2023,Pescheria Del Mare SNC,FORN-002,SKU-1627,sale grosso,Condimenti,19.589,kilo,0.4284,8.39,22,SI,30/05/2023
+50033,2,31/03/2023,Pescheria Del Mare SNC,FORN-002,SKU-8925,Farina 00,Secchi,19.053,Kg,0.8811,16.79,22,,30/04/2023
+50033,3,31/03/2023,Pescheria Del Mare SNC,FORN-002,SKU-8055,Panna fresca,Latticini,3.47,LT,2.2542,7.82,10,SI,30/05/2023
+50033,4,31/03/2023,Pescheria Del Mare SNC,FORN-002,SKU-5014,UOVA,Latticini,84.0,PZ,0.2715,22.81,22,SI,
+50033,5,31/03/2023,Pescheria Del Mare SNC,FORN-002,SKU-8894,Prosecco DOC,Vini,23.0,bt,4.9127,112.99,4,SI,30/04/2023
+50033,6,31/03/2023,Pescheria Del Mare SNC,FORN-002,SKU-7979,porcini fr.,,6.051,1000g,45.3642,274.5,5,SI,30/05/2023
+50034,1,03/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-6956,parmigiano,Latticini,20.16,KG,15.0855,304.12,10,NO,02/07/2023
+50034,2,03/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-3708,Latte intero,Latticini,16.39,1000ml,1.1947,19.58,10,SI,02/06/2023
+50034,3,03/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-6202,Riso Carnaroli,Secchi,28.814,KG,3.666,105.63,5,SI,02/06/2023
+50034,4,03/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-5557,Panna fresca,Latticini,4.55,L,2.2878,10.41,4,NO,02/07/2023
+50034,5,03/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-2099,Salmone intero,Pesce,21.303,g,14.0,298.24,22,SI,02/06/2023
+50034,6,2023/04/03,Macelleria Bianchi SRL,FORN-001,SKU-5438,Vongole fresche,Pesce,25.143,Kg,7.6905,193.36,,NO,03/05/2023
+50034,7,03/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-3540,Caffe miscela bar,Bevande,16.591,kilo,13.0236,216.07,10,NO,02/06/2023
+50035,1,06/04/2023,Cantina Toscana SpA,FORN-004,SKU-6998,Pomodorini ciliegino,Verdure,17.051,KG,3.5036,59.74,4,NO,05/06/2023
+50035,2,06/04/2023,Cantina Toscana SpA,FORN-004,SKU-9464,LATTE INTERO,Latticini,6.4,LT,1.1924,7.63,22,SI,
+50035,3,06/04/2023,Cantina Toscana SpA,FORN-004,SKU-4952,Filetto manzo,Carni,21.319,g,38.0,810.12,22,,05/07/2023
+50035,4,06/04/2023,Cantina Toscana SpA,FORN-004,SKU-5355,Burrata,Latticini,86.0,pz,2.9684,255.28,4,SI,05/06/2023
+50036,1,08/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8918,pomodorini ciliegino,Verdure,22.338,Kg,3.4252,76.51,22,SI,07/06/2023
+50036,2,08/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3786,Rucola,Verdure,29.138,KG,4.6163,134.51,22,NO,07/07/2023
+50036,3,08/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4511,Latte fresco int,Latticini,4.03,LT,1.17,4.72,4,SI,07/06/2023
+50036,4,08/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3982,Branzino fresco,Pesce,28.363,g,18.0,510.53,5,NO,08/05/2023
+50037,1,09/04/2023,Pescheria Del Mare SNC,FORN-002,SKU-2880,Vino rosso Chianti,Vini,30.0,bottiglia,5.7599,172.8,10,SI,08/06/2023
+50037,2,09-04-2023,Pescheria Del Mare SNC,FORN-002,SKU-7725,Olio extra vergine,Condimenti,6.76,lt,7.7997,52.73,10,si,08/07/2023
+50037,3,09/04/2023,Pescheria Del Mare SNC,FORN-002,SKU-8307,Uova Cat.A 30pz,Latticini,206.0,pz,0.3225,66.44,10,SI,09/05/2023
+50038,1,10/04/2023,Beverages Distribution,FORN-007,SKU-4227,Vino Tignanello,Vini,22.0,0.75,72.991,1605.8,10,NO,09/06/2023
+50038,2,10/04/2023,Beverages Distribution,FORN-007,SKU-6572,Prosecco DOC,Vini,45.0,bott,4.6873,210.93,4,SI,09/07/2023
+50038,3,10/04/2023,Beverages Distribution,FORN-007,SKU-9034,Vongole fresche,Pesce,1.364,kg,7.9947,10.9,22,SI,10/05/2023
+50038,4,10/04/2023,Beverages Distribution,FORN-007,SKU-9127,Salmone intero,Pesce,23.269,1000g,13.1652,306.34,22,S,
+50038,5,10/04/2023,Beverages Distribution,FORN-007,SKU-4876,Uova fresche cat. A,Latticini,169.0,pezzi,0.3027,51.16,10,SI,10/05/2023
+50039,1,12/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-7149,Vongole fresche,Pesce,18.534,g,9.0,166.81,10,NO,11/07/2023
+50039,2,2023/04/12,Cantina Vinicola Toscana,FORN-004,SKU-7604,Panna fresca,Latticini,12.64,lt,2.5886,32.72,10,NO,11/06/2023
+50039,3,12/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-3253,Latte intero,Latticini,2.11,l,0.9522,2.01,,NO,11/06/2023
+50040,1,14/04/2023,Latteria Alpina Coop,FORN-005,SKU-9209,CHIANTI DOCG,Vini,46.0,BT,7.5392,346.8,5,SI,13/06/2023
+50040,2,14/04/2023,Latteria Alpina Coop,FORN-005,SKU-5447,Pasta tagliatelle,Secchi,20.621,kilo,2.2925,47.27,4,NO,13/06/2023
+50040,3,14/04/2023,Latteria Alpina Coop,FORN-005,SKU-2663,Sale fino,Condimenti,8.245,1000g,,,4,NO,14/05/2023
+50040,4,14/04/2023,Latteria Alpina Coop,FORN-005,SKU-1401,Petto  di  pollo,Carni,16.371,1000g,8.9656,146.78,10,NO,14/05/2023
+50040,5,14/04/2023,Latteria Alpina Coop,FORN-005,SKU-3977,Panna fresca,Latticini,12.35,1000ml,2.6734,33.02,22,SI,13/06/2023
+50040,6,14/04/2023,Latteria Alpina Coop,FORN-005,SKU-4067,F@rina 00,Secchi,12.569,g,0.85,10.68,22,SI,13/07/2023
+50041,1,16/04/2023,Molino Pasta Artigianale,FORN-006,SKU-9433,Branzino fresco,Pesce,13.236,g,18.0,238.25,22,si,16/05/2023
+50041,2,16/04/2023,Molino Pasta Artigianale,FORN-006,SKU-4044,VONGOLE FRESCHE,Pesce,9.123,1000g,9.1105,83.12,10,SI,15/06/2023
+50041,3,16/04/2023,Molino Pasta Artigianale,FORN-006,SKU-8898,sale grosso,,18.72,g,0.4,7.49,4,SI,15/06/2023
+50041,4,16/04/2023,Molino Pasta Artigianale,FORN-006,SKU-7423,Caffe miscela bar,Bevande,26.105,1000g,12.2913,320.86,10,NO,21/03/2023
+50041,5,16/04/2023,Molino Pasta Artigianale,FORN-006,SKU-7594,Petto di pollo,Carni,20.079,Kg,8.0814,162.27,,NO,15/06/2023
+50041,6,16/04/2023,Molino Pasta Artigianale,FORN-006,SKU-4801,filetto manzo kg,Carni,19.108,g,38.0,726.1,22,SI,15/07/2023
+50042,1,18/04/2023,Pescheria Del Mare SNC,FORN-002,SKU-9826,Pomodorini ciliegino,Verdure,23.783,g,3.2,76.11,22,0,17/06/2023
+50042,2,18/04/2023,Pescheria Del Mare SNC,FORN-002,SKU-7183,Vongole fresche,Pesce,6.785,1000g,9.7546,66.18,10,SI,18/05/2023
+50042,3,18/04/2023,Pescheria Del Mare SNC,FORN-002,SKU-4355,Costata di manzo ,Carni,3.465,g,28.0,97.02,10,SI,17/07/2023
+50042,4,18/04/2023,Pescheria Del Mare SNC,FORN-002,SKU-5670,Uova XL,Latticini,154.0,pezzi,0.2659,40.95,10,SI,18/05/2023
+50043,1,19/04/2023,Beverages Distribution,FORN-007,SKU-2131,Vongole fresche,,2.611,kg,10.1859,26.6,10,SI,19/05/2023
+50043,2,19/04/2023,Beverages Distribution,FORN-007,SKU-6152,porcini fr.,Funghi,8.935,g,45.0,402.08,4,NO,19/05/2023
+50043,3,19/04/2023,Beverages Distribution,FORN-007,SKU-1961,Costata di manzo,Carni,17.77,kg,32.6902,580.9,10,NO,18/06/2023
+50043,4,19/04/2023,Beverages Distribution,FORN-007,SKU-6996,Acqua 1lt,,248.0,nr,0.3248,80.55,22,NO,
+50043,5,19/04/2023,Beverages Distribution,FORN-007,SKU-6487,Riso Carnaroli,Secchi,26.728,g,3.2,85.53,10,NO,18/07/2023
+50043,6,19/04/2023,Beverages Distribution,FORN-007,SKU-8322,Filetto manzo,Carni,12.655,kg,33.2652,420.97,22,SI,19/05/2023
+50044,1,21/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-9350,Insalata mista,Verdure,28.617,KG,2.2607,64.69,10,SI,20/06/2023
+50044,2,21/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-2035,Burrata,Latticini,282.0,cad,2.511,708.1,10,0,21/05/2023
+50044,3,21/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-4473,Rucola,Verdure,20.415,g,4.0,81.66,4,SI,21/05/2023
+50044,4,21/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-5657,Vongole fresche,Pesce,11.122,Kg,9.1927,102.24,10,SI,21/05/2023
+50044,5,21/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-9648,Pasta tagliatelle,Secchi,28.567,KG,2.2323,63.77,10,NO,20/06/2023
+50044,6,21/04/2023,Cantina Vinicola Toscana,FORN-004,SKU-9927,Pomodorini  ciliegino,Verdure,27.821,Kg,3.769,104.86,22,NO,20/07/2023
+50045,1,24/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-1575,latte intero lt,Latticini,14.06,LT,1.1391,16.02,22,SI,24/05/2023
+50045,2,24/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-3736,Panna fresca,Latticini,3.3,1000ml,2.8273,9.33,22,NO,24/05/2023
+50045,3,24/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-1678,Uova fresche cat. A,Latticini,214.0,cad,,,4,SI,23/07/2023
+50045,4,24/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-9293,Vino Chianti DOCG bt,Vini,13.0,bott,7.5671,98.37,22,S,24/05/2023
+50045,5,24/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-5836,OLIO EVO lt,Condimenti,5.69,ml,8.5,48.37,5,SI,24/05/2023
+50045,6,24/04/2023,Macelleria Bianchi SRL,FORN-001,SKU-8523,Pomodorini ciliegino,Verdure,20.41,kilo,3.5532,72.52,10,NO,23/07/2023
+50046,1,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6804,Insalata mista,Verdure,20.445,g,2.5,51.11,10,SI,28/05/2023
+50046,2,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8425,Costata di manzo,Carni,9.455,1000g,32.3831,306.18,22,SI,27/06/2023
+50046,3,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6912,Branzino fresco,Pesce,12.923,g,18.0,232.61,10,si,27/06/2023
+50046,4,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2327,Sale fino kg,Condimenti,2.019,1000g,0.4646,0.94,22,SI,27/07/2023
+50046,5,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-7375,Vino Tignanello,,42.0,bottiglia,69.808,2931.94,4,1,27/06/2023
+50046,6,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6946,riso carnaroli,Secchi,11.229,g,3.2,35.93,10,SI,27/06/2023
+50046,7,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3023,Farina 00,,4.424,kilo,1.0019,4.43,22,SI,27/06/2023
+50046,8,28/04/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-2329,Prosecco DOC,Vini,11.0,1,5.2529,57.78,4,S,
+50047,1,2023/05/02,Pescheria Del Mare SNC,FORN-002,SKU-8729,sale grosso,Condimenti,13.197,g,0.4,5.28,10,1,01/06/2023
+50047,2,02/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-7577,ACQUA NAT 1L,Bevande,67.0,pezzi,0.3833,25.68,10,NO,01/06/2023
+50047,3,2023/05/02,Pescheria Del Mare SNC,FORN-002,SKU-9491,F@rina 00,Secchi,3.234,1000g,0.8025,2.6,10,SI,01/06/2023
+50047,4,02/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-2798,Burrata,Latticini,135.0,1,,,4,NO,01/07/2023
+50047,5,02/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-4084,Insalata mista,Verdure,11.356,Kg,2.9256,33.22,10,SI,01/06/2023
+50048,1,06/05/2023,Cantina Toscana SpA,FORN-004,SKU-9024,Porcini freschi kg,Funghi,14.969,Kg,42.5162,636.42,22,SI,05/07/2023
+50048,2,06/05/2023,Cantina Toscana SpA,FORN-004,SKU-7161,Farina 00,Secchi,27.258,kg,0.9397,25.61,4,SI,05/07/2023
+50048,3,06/05/2023,Cantina Toscana SpA,FORN-004,SKU-2010,SALE FINO,Condimenti,29.08,kg,0.4711,13.7,10,SI,05/06/2023
+50048,4,06/05/2023,Cantina Toscana SpA,FORN-004,SKU-1444,Vino Chianti DOCG bt,Vini,39.0,bt,5.5343,215.84,10,SI,05/07/2023
+50048,5,06/05/2023,Cantina Toscana SpA,FORN-004,SKU-2853,Vino Tignanello,Vini,33.0,bottiglia,79.8314,2634.44,22,,04/08/2023
+50049,1,09/05/2023,Macelleria Bianchi SRL,FORN-001,SKU-4864,Uova Cat.A 30pz,Latticini,268.0,pezzi,0.314,84.15,10,SI,08/06/2023
+50049,2,09/05/2023,Macelleria Bianchi SRL,FORN-001,SKU-9316,Salmone intero,Pesce,13.313,g,14.0,186.38,4,NO,07/08/2023
+50049,3,09/05/2023,Macelleria Bianchi SRL,FORN-001,SKU-3160,Panna fresca,Latticini,9.53,0.75,2.3894,22.77,4,si,08/07/2023
+50049,4,09/05/2023,Macelleria Bianchi SRL,FORN-001,SKU-2953,Porcini freschi,Funghi,6.408,1000g,51.7414,331.56,10,NO,08/06/2023
+50050,1,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-9682,Branzino fresco,Pesce,6.882,g,18.0,123.88,10,SI,11/08/2023
+50050,2,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-4028,Riso Carnaroli,Secchi,17.283,g,3.2,55.31,22,SI,12/06/2023
+50050,3,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-8537,Pasta tagliatelle,Secchi,18.779,KG,2.3774,44.65,10,1,12/07/2023
+50050,4,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-7067,Petto di pollo,Carni,13.676,kg,8.5181,116.49,22,SI,11/08/2023
+50050,5,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-3378,UOVA,Latticini,54.0,PZ,0.334,18.04,22,SI,12/06/2023
+50050,6,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-3015,Salmone intero,Pesce,20.323,kg,16.3513,332.31,4,NO,10/05/2023
+50050,7,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-8940,Burrata,Latticini,110.0,1,2.6046,286.51,22,NO,11/08/2023
+50050,8,13/05/2023,Cantina Toscana SpA,FORN-004,SKU-3918,porcini fr.,Funghi,14.478,kilo,,,10,SI,11/08/2023
+50051,1,15/05/2023,Latteria Alpina Coop,FORN-005,SKU-4400,Riso Carnaroli,Secchi,12.89,Kg,2.9347,37.83,10,NO,14/07/2023
+50051,2,15/05/2023,Latteria Alpina Coop,FORN-005,SKU-4848,Acqua 1000ml,Bevande,162.0,pz,0.3253,52.7,10,NO,14/06/2023
+50051,3,15/05/2023,Latteria Alpina Coop,FORN-005,SKU-9688,Rucola,Verdure,20.225,1000g,3.5586,71.97,10,si,14/06/2023
+50051,4,15/05/2023,Latteria Alpina Coop,FORN-005,SKU-9331,Salmone intero,Pesce,1.776,kilo,11.9157,21.16,10,NO,13/08/2023
+50051,5,15/05/2023,Latteria Alpina Coop,FORN-005,SKU-5275,Vongole fresche,Pesce,17.424,1000g,10.4174,181.51,10,NO,13/08/2023
+50051,6,15/05/2023,Latteria Alpina Coop,FORN-005,SKU-2091,VINO CHIANTI DOCG BT,Vini,29.0,1,5.696,165.18,10,no,13/08/2023
+50052,1,18/05/2023,Molino Pasta Artigianale,FORN-006,SKU-4799,Filetto di manzo,Carni,4.587,KG,40.0622,183.77,10,SI,17/07/2023
+50052,2,18/05/2023,Molino Pasta Artigianale,FORN-006,SKU-8137,Rucola,Verdure,14.32,KG,4.282,61.32,10,NO,17/06/2023
+50052,3,18/05/2023,Molino Pasta Artigianale,FORN-006,SKU-5541,Sale fino,Condimenti,17.507,g,0.4,7.0,22,SI,17/07/2023
+50052,4,18/05/2023,Molino Pasta Artigianale,FORN-006,SKU-7177,Farina 00,Secchi,11.213,kg,0.9079,10.18,10,SI,17/07/2023
+50052,5,18/05/2023,Molino Pasta Artigianale,FORN-006,SKU-5085,UOVA,Latticini,243.0,pz,0.2728,66.29,10,SI,25/04/2023
+50052,6,18/05/2023,Molino Pasta Artigianale,FORN-006,SKU-7983,Branzino fresco,Pesce,25.078,Kg,20.5395,515.09,10,SI,17/07/2023
+50053,1,22/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-4832,Branzino fresco,Pesce,13.502,kg,20.0559,270.79,22,SI,20/08/2023
+50053,2,22/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-5057,Latte fresco int,Latticini,19.46,LT,1.1401,22.19,10,NO,20/08/2023
+50053,3,22/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-4955,Uova fresche cat. A,Latticini,122.0,PZ,0.307,37.45,10,NO,20/08/2023
+50053,4,22/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-3440,Costata di manzo,,12.691,kilo,25.6192,325.13,22,NO,21/06/2023
+50053,5,22/05/2023,Pescheria Del Mare SNC,FORN-002,SKU-1128,Rucola,Verdure,12.399,kilo,3.8265,47.44,22,SI,20/08/2023
+50054,1,24/05/2023,Beverages Distribution,FORN-007,SKU-3226,Parmigiano Reggiano 24m,Latticini,2.141,kg,17.0797,36.57,22,S,23/07/2023
+50054,2,24/05/2023,Beverages Distribution,FORN-007,SKU-6731,CHIANTI DOCG,Vini,14.0,1,6.3708,89.19,10,SI,23/07/2023
+50054,3,24/05/2023,Beverages Distribution,FORN-007,SKU-6018,Vino Tignanello,Vini,48.0,BT,73.8851,3546.48,22,SI,23/06/2023
+50054,4,24/05/2023,Beverages Distribution,FORN-007,SKU-2147,Prosecco DOC,Vini,23.0,BT,5.0398,115.92,10,NO,22/08/2023
+50055,1,26/05/2023,Cantina Vinicola Toscana,FORN-004,SKU-6666,Farina 00,Secchi,18.03,kilo,0.886,15.97,22,NO,25/06/2023
+50055,2,26/05/2023,Cantina Vinicola Toscana,FORN-004,SKU-3293,Pomodorini ciliegin,Verdure,12.87,Kg,3.7852,48.72,4,NO,24/08/2023
+50055,3,26/05/2023,Cantina Vinicola Toscana,FORN-004,SKU-8540,Vongole fresche,Pesce,15.269,KG,8.2849,126.5,10,SI,25/07/2023
+50055,4,26/05/2023,Cantina Vinicola Toscana,FORN-004,SKU-5672,Pasta tagliatelle,Secchi,16.722,kg,2.3503,39.3,4,0,25/07/2023
+50056,1,27/05/2023,Cantina Vinicola Toscana,FORN-004,SKU-1635,Costata di manzo,Carni,15.957,KG,31.1819,497.57,22,SI,26/07/2023
+50056,2,27/05/2023,Cantina Vinicola Toscana,FORN-004,SKU-3527,chianti 75cl,Vini,13.0,0.75,6.8216,88.68,10,NO,
+50056,3,27/05/2023,Cantina Vinicola Toscana,FORN-004,SKU-9498,filetto manzo kg,Carni,26.121,kilo,32.4447,847.49,22,SI,26/06/2023
+50057,1,28/05/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3703,Filetto di manzo,Carni,22.422,kilo,37.6632,844.48,22,SI,27/06/2023
+50057,2,28/05/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8381,Olio EVO,Condimenti,5.06,L,,,10,SI,27/06/2023
+50057,3,28/05/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-9649,Petto di pollo,Carni,15.091,KG,7.7891,117.55,10,si,27/06/2023
+50057,4,2023/05/28,BIANCHI CARNI s.r.l.,FORN-001,SKU-4114,Insalata mista,Verdure,21.209,kg,2.5164,53.37,22,SI,26/08/2023
+50057,5,28/05/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-2345,CHIANTI DOCG,Vini,20.0,bott,0.065,1.3,22,NO,26/08/2023
+50058,1,31/05/2023,Distribuzione Generale,FORN-008,SKU-5788,Fil. Manzo,Carni,26.46,kilo,39.0198,1032.46,22,NO,30/07/2023
+50058,2,31/05/2023,Distribuzione Generale,FORN-008,SKU-9642,FUNGHI PORCINI,Funghi,9.657,kilo,39.4572,381.04,22,SI,30/06/2023
+50058,3,2023/05/31,Distribuzione Generale,FORN-008,SKU-5894,Insalata mista,Verdure,4.78,kg,2.2877,10.94,10,no,30/06/2023
+50059,1,02/06/2023,Beverages Distribution,FORN-007,SKU-1615,Salmone intero,Pesce,19.208,g,14.0,268.91,,no,01/08/2023
+50059,2,02/06/2023,Beverages Distribution,FORN-007,SKU-9376,Petto di pollo,Carni,10.665,KG,9.978,106.42,22,SI,01/08/2023
+50059,3,02/06/2023,Beverages Distribution,FORN-007,SKU-2840,Riso Carnaroli,Secchi,16.041,kg,3.2929,52.82,22,NO,31/08/2023
+50059,4,02/06/2023,Beverages Distribution,FORN-007,SKU-3640,Pasta tagliatelle,Secchi,22.067,Kg,1.8252,40.28,22,SI,02/07/2023
+50059,5,02-06-2023,Beverages Distribution,FORN-007,SKU-5266,chianti 75cl,Vini,13.0,750ml,7.2071,93.69,10,SI,01/08/2023
+50059,6,02/06/2023,Beverages Distribution,FORN-007,SKU-1167,Vongole fresche,,23.028,Kg,9.7411,224.32,4,SI,01/08/2023
+50059,7,02/06/2023,Beverages Distribution,FORN-007,SKU-6015,Cost@ta di manzo,Carni,28.003,1000g,24.7511,693.11,10,NO,31/08/2023
+50060,1,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-7987,Branzino fresco,Pesce,27.77,Kg,17.1173,475.35,10,NO,04/08/2023
+50060,2,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-5427,Acqua 1000ml,Bevande,115.0,1,,,22,si,05/07/2023
+50060,3,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-2095,Pasta tagliatelle ,Secchi,17.473,KG,2.4185,42.26,5,SI,03/09/2023
+50060,4,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-5378,Vongole fresche,Pesce,29.104,g,9.0,261.94,10,NO,05/07/2023
+50060,5,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-6814,Insalata mista,Verdure,23.194,g,2.5,57.98,,NO,05/07/2023
+50060,6,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-9048,Pomodorini ciliegino,Verdure,17.022,Kg,,,4,SI,04/08/2023
+50060,7,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-7762,Filetto di manzo,Carni,21.606,g,38.0,821.03,5,SI,05/07/2023
+50060,8,05/06/2023,Molino Pasta Artigianale,FORN-006,SKU-1548,Farina 00,Secchi,14.217,kilo,0.968,13.76,10,SI,04/08/2023
+50061,1,09/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-4483,Caffe miscela bar,Bevande,19.132,g,14.0,267.85,10,SI,08/08/2023
+50061,2,09/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-4793,Burrata,Latticini,57.0,1,3.0556,174.17,10,SI,09/07/2023
+50061,3,09/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-4810,Riso Carnaroli,Secchi,29.231,KG,3.3683,98.46,22,SI,07/09/2023
+50061,4,09/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-8861,Pasta tagliatelle,Secchi,5.035,g,2.1,10.57,10,si,08/08/2023
+50061,5,09/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-5662,Pomodorini ciliegino,Verdure,1.977,kilo,2.9746,5.88,5,NO,07/09/2023
+50061,6,09/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-3046,Uova XL,Latticini,152.0,1,0.2668,40.55,10,NO,09/07/2023
+50062,1,12/06/2023,Latteria Alpina Coop,FORN-005,SKU-9397,Caffe miscela bar,Bevande,26.056,KG,15.6614,408.07,10,SI,12/07/2023
+50062,2,12/06/2023,Latteria Alpina Coop,FORN-005,SKU-5259,COSTATA DI MANZO,Carni,8.044,kilo,,,10,SI,11/08/2023
+50062,3,12/06/2023,Latteria Alpina Coop,FORN-005,SKU-3674,Uova 30pz,Latticini,218.0,cad,0.3132,68.28,10,SI,11/08/2023
+50062,4,12/06/2023,Latteria Alpina Coop,FORN-005,SKU-6549,Vino Chianti DOCG bt,Vini,15.0,bott,7.7608,116.41,22,NO,12/07/2023
+50062,5,2023/06/12,Latteria Alpina Coop,FORN-005,SKU-9843,Acqua minerale 1L,Bevande,226.0,pz,0.4067,91.91,,no,12/07/2023
+50063,1,15/06/2023,Pescheria Del Mare SNC,FORN-002,SKU-2462,Olio EV,Condimenti,12.15,0.75,9.3681,113.82,10,NO,13/09/2023
+50063,2,15/06/2023,Pescheria Del Mare SNC,FORN-002,SKU-1545,Uova fresche cat. A,Latticini,129.0,pezzi,0.2632,33.95,4,NO,14/08/2023
+50063,3,15/06/2023,Pescheria Del Mare SNC,FORN-002,SKU-5658,Parmigiano 24m,Latticini,18.882,1000g,19.3061,364.54,10,0,13/09/2023
+50063,4,15/06/2023,Pescheria Del Mare SNC,FORN-002,SKU-3624,  Insalata mista,Verdure,29.2,kg,2.9395,85.83,10,0,13/09/2023
+50063,5,15/06/2023,Pescheria Del Mare SNC,FORN-002,SKU-5989,Prosecco DOC,Vini,10.0,bottiglia,5.0813,50.81,10,NO,
+50063,6,15-06-2023,Pescheria Del Mare SNC,FORN-002,SKU-2720,Pomodorini ciliegino,Verdure,1.504,kilo,3.3067,4.97,22,SI,15/07/2023
+50064,1,19/06/2023,Distribuzione Generale,FORN-008,SKU-7409,Pasta tagliatelle,Secchi,24.835,kilo,1.9686,48.89,22,SI,19/07/2023
+50064,2,19/06/2023,Distribuzione Generale,FORN-008,SKU-3443,FUNGHI PORCINI,Funghi,2.428,1000g,38.4838,93.44,22,SI,18/08/2023
+50064,3,19/06/2023,Distribuzione Generale,FORN-008,SKU-3961,Salmone intero,,15.735,KG,14.7883,232.69,4,SI,17/09/2023
+50064,4,2023/06/19,Distribuzione Generale,FORN-008,SKU-8777,Parmigiano Reggiano 24m,Latticini,28.382,kg,14.3318,406.77,10,NO,17/09/2023
+50064,5,19/06/2023,Distribuzione Generale,FORN-008,SKU-3267,Insalata mista,Verdure,13.814,KG,,,22,SI,19/07/2023
+50064,6,19/06/2023,Distribuzione Generale,FORN-008,SKU-2299,Latte intero,Latticini,19.12,1000ml,,,22,SI,19/07/2023
+50064,7,19/06/2023,Distribuzione Generale,FORN-008,SKU-2549,Rucola,Verdure,24.75,KG,3.9232,97.1,10,NO,19/07/2023
+50065,1,23/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-1156,Acqua minerale 1L,Bevande,134.0,pezzi,0.362,48.51,22,NO,22/08/2023
+50065,2,23/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-9411,Costata di manzo,Carni,5.795,Kg,31.6661,183.51,4,no,21/09/2023
+50065,3,2023/06/23,Cantina Vinicola Toscana,FORN-004,SKU-8889,Burrata,Latticini,57.0,pezzi,2.7819,158.57,22,NO,22/08/2023
+50065,4,23/06/2023,Cantina Vinicola Toscana,FORN-004,SKU-6654,Vino Tignanello,Vini,12.0,0.75,83.8851,1006.62,4,SI,23/07/2023
+50066,1,26/06/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3852,Salmone intero,Pesce,9.547,kilo,15.462,147.62,10,0,25/08/2023
+50066,2,26/06/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3180,SALE,Condimenti,6.876,Kg,0.3423,2.35,10,SI,25/08/2023
+50066,3,26/06/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8622,filetto manzo kg,Carni,16.718,Kg,35.7673,597.96,22,SI,25/08/2023
+50066,4,26/06/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-1279,Farina 00,Secchi,19.91,g,0.85,16.92,10,SI,21/06/2023
+50066,5,26/06/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7484,Rucola ,Verdure,25.694,kg,3.9705,102.02,10,SI,24/09/2023
+50067,1,29/06/2023,Molino Pasta Artigianale,FORN-006,SKU-4223,Rucola,Verdure,16.457,KG,3.4054,56.04,4,SI,27/09/2023
+50067,2,29/06/2023,Molino Pasta Artigianale,FORN-006,SKU-6608,Filetto di manzo,Carni,14.77,kg,44.8508,662.45,22,NO,27/09/2023
+50067,3,29/06/2023,Molino Pasta Artigianale,FORN-006,SKU-7114,Olio EVO,Condimenti,9.66,L,8.5467,82.56,10,no,27/09/2023
+50067,4,29/06/2023,Molino Pasta Artigianale,FORN-006,SKU-8455,Latte intero,Latticini,8.09,ml,1.1,8.9,22,SI,28/08/2023
+50067,5,29/06/2023,Molino Pasta Artigianale,FORN-006,SKU-4742,Panna fresca,Latticini,15.79,l,2.7898,44.05,22,SI,27/09/2023
+50067,6,29/06/2023,Molino Pasta Artigianale,FORN-006,SKU-5947,Pasta tagliatelle,,4.628,kilo,2.4778,11.47,5,0,29/07/2023
+50068,1,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4149,Burrata,Latticini,109.0,pz,2.6567,289.58,10,NO,31/07/2023
+50068,2,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-1763,Rucola,,16.115,Kg,3.7685,60.73,,NO,31/07/2023
+50068,3,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-9425,Riso Carnaroli,Secchi,7.93,kg,3.6094,28.62,10,S,
+50068,4,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3314,Prosecco DOC,Vini,13.0,750ml,5.3926,70.1,22,SI,29/09/2023
+50068,5,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3684,Costata di manzo,Carni,9.237,kilo,30.2248,279.19,5,SI,31/07/2023
+50068,6,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4196,Vino Tignanello,Vini,9.0,bottiglia,81.7138,735.42,5,SI,31/07/2023
+50068,7,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-2171,Panna fresca,Latticini,12.05,0.75,2.2732,27.39,10,NO,29/09/2023
+50068,8,01/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-6331,Olio EVO,Condimenti,18.61,0.75,9.4231,175.36,10,NO,30/08/2023
+50069,1,04/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-3609,Salmone intero,Pesce,6.908,KG,14.4839,100.05,22,SI,02/10/2023
+50069,2,04/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-5142,Costata di manzo,Carni,26.888,kilo,30.8195,828.67,10,SI,03/08/2023
+50069,3,04/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-8278,Sale 100/kg,Condimenti,6.847,kilo,0.4135,2.83,22,NO,02/10/2023
+50069,4,04/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-3138,Farina 00,Secchi,5.102,Kg,0.8557,4.37,4,NO,02/09/2023
+50069,5,04/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-9544,Vongole fresche,Pesce,18.206,KG,7.9242,144.27,22,SI,03/08/2023
+50069,6,04/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-5097,Vino Tignanello,Vini,25.0,750ml,67.6248,1690.62,22,NO,02/10/2023
+50069,7,04/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-4146,Pasta tagliatelle,Secchi,13.845,Kg,2.3391,32.38,5,S,02/10/2023
+50070,1,07-07-2023,Distribuzione Generale,FORN-008,SKU-9316,Vongole fresche,Pesce,10.257,kg,8.9406,91.7,10,SI,06/08/2023
+50070,2,07/07/2023,Distribuzione Generale,FORN-008,SKU-7303,Porcini freschi,Funghi,12.181,g,45.0,548.14,22,NO,05/09/2023
+50070,3,07/07/2023,Distribuzione Generale,FORN-008,SKU-2229,Pasta tagliatelle,Secchi,1.247,1000g,1.8513,2.31,22,SI,06/08/2023
+50070,4,07/07/2023,Distribuzione Generale,FORN-008,SKU-7885,Insalata mista,Verdure,18.476,KG,2.259,41.74,22,NO,05/10/2023
+50071,1,08/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-4558,Parmigiano Reggiano 24m,Latticini,5.229,g,16.5,86.28,10,NO,07/08/2023
+50071,2,08/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-7297,Vino Chianti DOCG bt,Vini,24.0,bott,7.6096,182.63,10,SI,03/07/2023
+50071,3,08/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-4600,Salmone intero,Pesce,11.156,1000g,14.6329,163.24,4,SI,06/09/2023
+50071,4,08/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-4257,Riso Carnaroli,Secchi,2.561,Kg,3.6551,9.36,10,0,06/10/2023
+50071,5,08/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-3946,Latte fresco int,Latticini,12.71,lt,1.1657,14.82,22,SI,06/10/2023
+50071,6,08/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-7555,Pomodorini ciliegino,Verdure,27.046,kilo,2.763,74.73,,SI,06/09/2023
+50072,1,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-9923,Parmigiano 24m,Latticini,24.668,g,,,10,no,
+50072,2,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-3683,Sale 100/kg,Condimenti,5.459,Kg,0.4074,2.22,22,SI,09/09/2023
+50072,3,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-4036,Vongole fresche,,20.29,1000g,8.6284,175.07,22,SI,09/10/2023
+50072,4,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-8522,Caffe miscela bar,Bevande,5.045,Kg,11.9925,60.5,22,SI,09/09/2023
+50072,5,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-4600,Farina 00,Secchi,13.486,kg,0.9618,12.97,4,0,
+50072,6,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-6277,Olio EVO,,8.55,lt,8.5852,73.4,22,SI,09/10/2023
+50072,7,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-1507,Filetto di manzo,Carni,27.75,1000g,38.5314,1069.25,10,NO,09/09/2023
+50072,8,11/07/2023,Pescheria Del Mare SNC,FORN-002,SKU-7874,Petto di pollo,Carni,6.315,1000g,7.9176,50.0,10,NO,10/08/2023
+50073,1,14/07/2023,Latteria Alpina Coop,FORN-005,SKU-2615,Parmigiano Reggiano 24m,Latticini,23.775,1000g,14.6986,349.46,10,NO,12/09/2023
+50073,2,14/07/2023,Latteria Alpina Coop,FORN-005,SKU-9768,Burrata,Latticini,233.0,1,2.6073,607.5,10,SI,12/10/2023
+50073,3,14/07/2023,Latteria Alpina Coop,FORN-005,SKU-9830,FILETTO DI MANZO,Carni,6.422,1000g,43.3562,278.43,10,SI,12/09/2023
+50074,1,2023/07/16,BIANCHI CARNI s.r.l.,FORN-001,SKU-5691,Riso Carnaroli,Secchi,1.273,KG,3.6086,4.59,5,,14/10/2023
+50074,2,16/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-1764,Chianti bt 0.75,Vini,37.0,0.75,5.6572,209.32,10,NO,14/09/2023
+50074,3,16/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8641,Vino Tignanello,Vini,36.0,bott,83.3416,3000.3,10,NO,14/09/2023
+50074,4,16/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-5468,Costata di manzo,Carni,18.587,g,28.0,520.44,10,NO,15/08/2023
+50074,5,16/07/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-1246,Salmone intero,Pesce,5.802,KG,14.3338,83.16,22,SI,14/09/2023
+50075,1,20/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-5909,Costata di manzo,Carni,21.832,1000g,29.5078,644.21,22,NO,19/08/2023
+50075,2,20/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6200,Petto di pollo,Carni,3.594,Kg,8.3742,30.1,22,SI,19/08/2023
+50075,3,2023/07/20,Ortofrutta Rossi e Figli,FORN-003,SKU-2352,chianti 75cl,Vini,35.0,1,6.3121,220.92,10,NO,18/09/2023
+50075,4,20/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-5857,Pasta tagliatelle,Secchi,20.268,kg,2.0302,41.15,22,NO,18/10/2023
+50075,5,20/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4200,farina 00,Secchi,25.578,g,0.85,21.74,10,no,19/08/2023
+50075,6,20/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3121,Panna fresca,Latticini,5.53,lt,2.7027,14.95,4,SI,19/08/2023
+50076,1,22/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-3622,Salmone intero,Pesce,16.6,1000g,14.7563,244.95,5,SI,21/08/2023
+50076,2,22/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-8744,Branzino fresco,Pesce,28.4,Kg,19.7776,561.68,10,SI,20/09/2023
+50076,3,22/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-1778,Farina 00,,16.776,g,0.85,14.26,22,NO,
+50076,4,22/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-7135,Pasta tagliatelle,Secchi,10.362,kilo,2.21,22.9,4,1,20/10/2023
+50076,5,22/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-6905,insalata mista,Verdure,23.187,KG,2.5028,58.03,22,NO,20/09/2023
+50076,6,22/07/2023,Cantina Vinicola Toscana,FORN-004,SKU-4762,Filetto di manzo,Carni,29.17,kilo,39.1322,1141.49,5,no,20/10/2023
+50077,1,26/07/2023,Distribuzione Generale,FORN-008,SKU-5933,P@sta tagliatelle,Secchi,18.692,KG,0.21,3.93,22,no,24/09/2023
+50077,2,26/07/2023,Distribuzione Generale,FORN-008,SKU-5633,Burrata,Latticini,92.0,1,3.2671,300.57,22,SI,25/08/2023
+50077,3,26/07/2023,Distribuzione Generale,FORN-008,SKU-8797,Filetto manzo,,10.227,KG,38.7075,395.86,10,NO,24/10/2023
+50077,4,26/07/2023,Distribuzione Generale,FORN-008,SKU-5487,SALMONE INTERO,Pesce,25.658,1000g,15.8098,405.65,22,SI,24/10/2023
+50077,5,26-07-2023,Distribuzione Generale,FORN-008,SKU-5764,Parmigiano Reggiano,Latticini,15.219,kilo,17.3584,264.18,10,no,25/08/2023
+50077,6,26/07/2023,Distribuzione Generale,FORN-008,SKU-9900,Branzino fresco,Pesce,26.966,g,18.0,485.39,22,NO,25/08/2023
+50078,1,28/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6793,Costata di manzo,Carni,24.997,g,28.0,699.92,10,NO,27/08/2023
+50078,2,28/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-7967,Salmone inter,Pesce,10.024,kg,15.7599,157.98,5,no,27/08/2023
+50078,3,2023/07/28,Ortofrutta Rossi e Figli,FORN-003,SKU-3337,Petto di pollo,Carni,18.862,1000g,9.4805,178.82,10,NO,27/08/2023
+50078,4,28/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-5536,FILETTO DI MANZO,Carni,27.657,Kg,38.4005,1062.04,10,SI,26/10/2023
+50078,5,28/07/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3846,Vongole fresche,Pesce,21.812,KG,8.8901,193.91,10,NO,26/09/2023
+50078,6,28-07-2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9334,Chianti bt 0.75,Vini,41.0,bt,5.8813,241.13,4,SI,26/10/2023
+50079,1,29/07/2023,Latteria Alpina Coop,FORN-005,SKU-7061,Burrata,Latticini,152.0,nr,,,10,SI,27/10/2023
+50079,2,29/07/2023,Latteria Alpina Coop,FORN-005,SKU-5874,Petto di pollo,Carni,26.389,1000g,7.9227,209.07,4,SI,28/08/2023
+50079,3,29/07/2023,Latteria Alpina Coop,FORN-005,SKU-8876,Filetto di manzo,Carni,16.724,g,0.38,6.36,22,NO,24/07/2023
+50079,4,29/07/2023,Latteria Alpina Coop,FORN-005,SKU-6704,Vino Tignanello,Vini,47.0,BT,87.083,4092.9,4,si,27/10/2023
+50079,5,29/07/2023,Latteria Alpina Coop,FORN-005,SKU-6519,Pomodorini ciliegino,Verdure,19.376,1000g,3.3127,64.19,10,NO,28/08/2023
+50079,6,29/07/2023,Latteria Alpina Coop,FORN-005,SKU-9599,Parmigiano Reggiano 24m,Latticini,25.94,kilo,15.36,398.44,22,SI,27/09/2023
+50079,7,29/07/2023,Latteria Alpina Coop,FORN-005,SKU-6785,Farina 00,Secchi,14.782,kilo,0.8754,12.94,22,SI,28/08/2023
+50080,1,02/08/2023,Cantina Vinicola Toscana,FORN-004,SKU-4508,Branzino fresco,Pesce,21.174,kg,19.2849,408.34,10,SI,30/07/2023
+50080,2,02/08/2023,Cantina Vinicola Toscana,FORN-004,SKU-5801,LATTE 1L,Latticini,6.68,1000ml,1.0891,7.28,10,no,01/10/2023
+50080,3,02/08/2023,Cantina Vinicola Toscana,FORN-004,SKU-7867,Vongole fresche,Pesce,6.538,g,9.0,58.84,10,SI,
+50080,4,02/08/2023,Cantina Vinicola Toscana,FORN-004,SKU-8395,Prosecco DOC,Vini,7.0,bottiglia,4.5778,32.04,22,no,31/10/2023
+50081,1,03/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-9394,Uova fresche cat. A,Latticini,178.0,pezzi,0.2552,45.43,10,SI,02/09/2023
+50081,2,03/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-5292,Rucola,Verdure,10.726,kilo,4.0455,43.39,4,SI,01/11/2023
+50081,3,03/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-2095,Salmone intero,Pesce,6.486,g,14.0,90.8,5,SI,02/09/2023
+50081,4,03/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-5944,Latte intero,Latticini,13.22,LT,1.0405,13.76,4,si,02/10/2023
+50081,5,03/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-1065,Olio EVO,,14.08,lt,7.2723,102.39,10,NO,02/09/2023
+50081,6,03/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-6279,Vino Tignanello,Vini,40.0,0.75,68.3597,2734.39,22,SI,02/10/2023
+50081,7,03/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-9673,FUNGHI PORCINI,Funghi,21.125,g,45.0,950.62,10,SI,02/09/2023
+50082,1,06/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-2103,Salmone intero,Pesce,7.909,KG,15.2914,120.94,22,no,05/09/2023
+50082,2,06/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-2305,Branzino fresco,Pesce,4.251,kilo,16.3038,69.31,10,S,05/10/2023
+50082,3,06/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-5702,sale grosso,Condimenti,15.558,kg,0.4161,6.47,4,NO,04/11/2023
+50082,4,06/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-8451,Vino Tignanello,Vini,23.0,0.75,85.0979,1957.25,22,SI,05/09/2023
+50083,1,10/08/2023,Distribuzione Generale,FORN-008,SKU-9793,chianti 75cl,Vini,38.0,750ml,6.2766,238.51,10,0,09/10/2023
+50083,2,10/08/2023,Distribuzione Generale,FORN-008,SKU-7207,Prosecco DOC,Vini,40.0,0.75,240.0,9600.0,22,NO,09/08/2023
+50083,3,10/08/2023,Distribuzione Generale,FORN-008,SKU-6213,Riso Carnaroli,Secchi,5.999,Kg,,,4,S,09/09/2023
+50083,4,10/08/2023,Distribuzione Generale,FORN-008,SKU-2406,Costata di manzo,Carni,10.586,kg,2800.0,29640.8,10,NO,08/11/2023
+50084,1,12/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-7396,Prosecco DOC,Vini,6.0,bott,5.3992,32.4,22,NO,11/10/2023
+50084,2,12/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-6285,Insalata mista,Verdure,15.864,kg,2.2821,36.2,,SI,11/09/2023
+50084,3,12/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-3953,FILETTO DI MANZO,Carni,15.738,1000g,36.8273,579.59,22,SI,11/10/2023
+50085,1,13/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-4588,Petto di pollo,Carni,18.288,Kg,9.0378,165.28,10,NO,12/09/2023
+50085,2,13/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-8538,Burrata,Latticini,104.0,1,2.5101,261.05,10,S,12/09/2023
+50085,3,13/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-5510,acqua minerale,Bevande,143.0,PZ,0.3919,56.04,22,SI,12/09/2023
+50085,4,13/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-9133,Salmone intero,Pesce,3.999,kg,11.9745,47.89,22,NO,12/10/2023
+50085,5,13/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-8384,Caffe miscela bar,Bevande,12.8,1000g,15.9113,203.66,22,NO,
+50085,6,13/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-2231,Prosecco DOC,,42.0,0.75,5.4933,230.72,22,SI,12/09/2023
+50085,7,2023/08/13,Pescheria Del Mare SNC,FORN-002,SKU-7379,Riso Carnaroli,Secchi,18.325,kg,2.9697,54.42,10,SI,11/11/2023
+50086,1,16/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-3431,Branzino fresco,Pesce,20.81,kg,15.7345,327.43,4,0,14/11/2023
+50086,2,16/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-2991,Sale 100/kg,Condimenti,16.894,KG,0.4015,6.78,10,si,15/09/2023
+50086,3,16/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-7922,Vongole fresche,Pesce,28.47,1000g,8.6151,245.27,4,SI,15/10/2023
+50086,4,16-08-2023,Pescheria Del Mare SNC,FORN-002,SKU-4983,Costata di manzo,Carni,20.328,g,28.0,569.18,10,NO,14/11/2023
+50087,1,19/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-8599,Burrata,Latticini,151.0,1,3.341,504.49,10,SI,17/11/2023
+50087,2,19/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-2123,Costata di manzo,Carni,19.281,kg,24.876,479.63,10,SI,18/09/2023
+50087,3,19/08/2023,Macelleria Bianchi SRL,FORN-001,SKU-2882,Petto di pollo,Carni,26.541,kg,9.679,256.89,10,SI,18/09/2023
+50088,1,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-9723,Pomodorini ciliegino,Verdure,26.1,1000g,160.0,4176.0,22,NO,21/11/2023
+50088,2,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-1280,Pasta tagliatelle,,3.511,1000g,,,5,SI,22/10/2023
+50088,3,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-9265,Acqua minerale 1L,,272.0,cad,0.4032,109.67,4,NO,22/09/2023
+50088,4,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-7831,Branzino fresco,Pesce,28.176,Kg,21.0003,591.7,,SI,21/11/2023
+50088,5,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-7736,Salmone intero,Pesce,14.947,kilo,12.7086,189.96,10,NO,22/10/2023
+50088,6,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-2886,uova fresche,Latticini,96.0,nr,,,22,SI,22/09/2023
+50088,7,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-4620,Caffe miscela bar,Bevande,10.233,g,14.0,143.26,22,SI,22/09/2023
+50088,8,23/08/2023,Cantina Toscana SpA,FORN-004,SKU-7795,Vongole fresche,Pesce,26.842,g,9.0,241.58,10,si,22/10/2023
+50089,1,26/08/2023,Beverages Distribution,FORN-007,SKU-2241,Branzino fresco,Pesce,11.891,kg,16.7852,199.59,5,SI,25/09/2023
+50089,2,26/08/2023,Beverages Distribution,FORN-007,SKU-9449,Parmigiano Reggiano 24m,Latticini,15.128,KG,19.3394,292.57,10,no,25/09/2023
+50089,3,26/08/2023,Beverages Distribution,FORN-007,SKU-6381,Pomodorini ciliegino,Verdure,14.546,Kg,,,5,si,25/09/2023
+50089,4,26/08/2023,Beverages Distribution,FORN-007,SKU-9713,Rucola,Verdure,14.06,kilo,4.0374,56.77,10,NO,24/11/2023
+50089,5,26/08/2023,Beverages Distribution,FORN-007,SKU-8436,Vongole fresche,,23.517,g,9.0,211.65,10,si,25/10/2023
+50089,6,26/08/2023,Beverages Distribution,FORN-007,SKU-2311,Vino Chianti DOCG bt,Vini,32.0,750ml,6.8564,219.4,4,SI,25/10/2023
+50089,7,26/08/2023,Beverages Distribution,FORN-007,SKU-4965,Petto di pollo,Carni,13.215,Kg,9.2208,121.85,10,SI,25/10/2023
+50089,8,26/08/2023,Beverages Distribution,FORN-007,SKU-4037,Salmone intero,Pesce,20.861,g,14.0,292.05,22,SI,25/09/2023
+50090,1,30/08/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9618,UOVA,,31.0,nr,0.3122,9.68,22,si,29/09/2023
+50090,2,30/08/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3276,ACQUA NAT 1L,,219.0,cad,0.4167,91.26,10,NO,29/09/2023
+50090,3,30/08/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8083,Insalata mista,Verdure,15.946,Kg,2.7231,43.42,22,NO,29/10/2023
+50090,4,30/08/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1743,Caffe miscela bar,Bevande,5.756,Kg,12.351,71.09,4,SI,29/10/2023
+50091,1,31/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-3802,Vongole fresche,Pesce,4.992,kg,8.492,42.39,22,SI,30/10/2023
+50091,2,31/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-2909,F@rina 00,Secchi,7.484,kilo,0.7694,5.76,10,NO,29/11/2023
+50091,3,31/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-5008,Uova fresche cat. A,Latticini,235.0,pz,0.2574,60.49,22,SI,29/11/2023
+50091,4,31/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-2662,Latte fresco int,Latticini,14.94,L,0.9664,14.44,10,NO,30/10/2023
+50091,5,31/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-4331,Porcini kg,,15.738,kilo,47.9343,754.39,22,NO,29/11/2023
+50091,6,31/08/2023,Pescheria Del Mare SNC,FORN-002,SKU-3565,Riso Carnaroli,Secchi,12.318,kg,3.1692,39.04,22,si,
+50091,7,2023/08/31,Pescheria Del Mare SNC,FORN-002,SKU-3886,FILETTO DI MANZO,Carni,4.173,kg,44.9772,187.69,4,NO,30/09/2023
+50092,1,04/09/2023,Beverages Distribution,FORN-007,SKU-8964,Vongole fresche,Pesce,28.646,Kg,9.8035,280.83,10,NO,03/12/2023
+50092,2,04/09/2023,Beverages Distribution,FORN-007,SKU-1283,Vino Tignanello,Vini,46.0,BT,75.8897,3490.93,10,SI,03/12/2023
+50092,3,04/09/2023,Beverages Distribution,FORN-007,SKU-3086,latte intero lt,Latticini,9.98,L,1.2576,12.55,22,,03/11/2023
+50092,4,04/09/2023,Beverages Distribution,FORN-007,SKU-5901,Sale fino,Condimenti,19.465,kilo,0.04,0.78,22,SI,04/10/2023
+50092,5,04/09/2023,Beverages Distribution,FORN-007,SKU-2733,Costata di manzo,Carni,14.911,Kg,,,22,NO,04/10/2023
+50093,1,07/09/2023,Cantina Vinicola Toscana,FORN-004,SKU-8763,Salmone intero,Pesce,29.793,1000g,12.7644,380.29,22,SI,06/11/2023
+50093,2,07/09/2023,Cantina Vinicola Toscana,FORN-004,SKU-5252,Branzino fresco,Pesce,11.32,kg,16.1438,182.75,,S,06/11/2023
+50093,3,07-09-2023,Cantina Vinicola Toscana,FORN-004,SKU-1081,Uova fresche cat. A,Latticini,99.0,pz,0.2754,27.26,4,NO,07/10/2023
+50093,4,07/09/2023,Cantina Vinicola Toscana,FORN-004,SKU-6853,porcini fr.,Funghi,17.859,1000g,50.711,905.65,10,SI,21/08/2023
+50093,5,07/09/2023,Cantina Vinicola Toscana,FORN-004,SKU-3647,Burrata,Latticini,109.0,cad,2.9937,326.31,10,NO,20/08/2023
+50093,6,07/09/2023,Cantina Vinicola Toscana,FORN-004,SKU-9487,PARM.REGG.,Latticini,26.574,Kg,17.5468,466.29,22,1,06/11/2023
+50094,1,10/09/2023,Cantina Toscana SpA,FORN-004,SKU-7591,  Salmone intero,Pesce,22.01,Kg,0.14,3.08,22,SI,09/11/2023
+50094,2,10/09/2023,Cantina Toscana SpA,FORN-004,SKU-8180,Farina 00,Secchi,8.072,kg,0.8979,7.25,,NO,09/11/2023
+50094,3,10/09/2023,Cantina Toscana SpA,FORN-004,SKU-3690,Costata di manzo,Carni,21.698,kilo,25.9817,563.75,22,SI,10/10/2023
+50094,4,10/09/2023,Cantina Toscana SpA,FORN-004,SKU-2204,sale grosso,Condimenti,27.808,KG,0.3546,9.86,10,NO,09/12/2023
+50095,1,13/09/2023,Latteria Alpina Coop,FORN-005,SKU-8065,  Riso Carnaroli,Secchi,1.803,kilo,3.6721,6.62,4,NO,12/12/2023
+50095,2,13/09/2023,Latteria Alpina Coop,FORN-005,SKU-7460,Vongole fresch,,4.053,kg,10.2317,41.47,10,SI,13/10/2023
+50095,3,13/09/2023,Latteria Alpina Coop,FORN-005,SKU-3884,Panna fresca,Latticini,5.28,lt,2.1292,11.24,22,SI,14/08/2023
+50095,4,13/09/2023,Latteria Alpina Coop,FORN-005,SKU-1107,Branzino fresco ,Pesce,6.09,kg,15.8752,96.68,22,NO,13/10/2023
+50095,5,13/09/2023,Latteria Alpina Coop,FORN-005,SKU-3900,Porcini freschi kg,Funghi,4.775,1000g,51.3027,244.97,22,si,12/12/2023
+50095,6,13/09/2023,Latteria Alpina Coop,FORN-005,SKU-1338,Parmigiano Reggiano 24m,Latticini,23.231,kilo,16.7874,389.99,,0,13/10/2023
+50095,7,13-09-2023,Latteria Alpina Coop,FORN-005,SKU-5221,Rucola,Verdure,29.694,1000g,3.8783,115.16,22,SI,12/12/2023
+50095,8,13/09/2023,Latteria Alpina Coop,FORN-005,SKU-6623,Burrata,Latticini,101.0,pz,3.0026,303.26,10,si,12/11/2023
+50096,1,14/09/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-9751,Salmone intero,Pesce,11.86,kilo,15.0453,178.44,4,1,01/09/2023
+50096,2,14/09/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-6180,Vino Tignanello,Vini,11.0,bt,89.4638,984.1,22,SI,13/11/2023
+50096,3,14/09/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-9829,Farina 00,Secchi,23.086,kg,1.0119,23.36,22,SI,13/12/2023
+50096,4,2023/09/14,BIANCHI CARNI s.r.l.,FORN-001,SKU-7087,Olio oliva EVO,Condimenti,10.91,ml,8.5,92.73,4,S,13/12/2023
+50096,5,14/09/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4542,Vongole fresche,Pesce,17.16,kg,900.0,15444.0,22,NO,14/10/2023
+50096,6,14/09/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8630,INSALATA MISTA,Verdure,14.322,kilo,125.0,1790.25,4,SI,14/10/2023
+50097,1,15/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-7248,Farina 00,Secchi,15.472,1000g,,,10,SI,15/10/2023
+50097,2,15/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-3491,Acqua minerale 1L,Bevande,106.0,cad,0.3086,32.71,10,SI,14/12/2023
+50097,3,15/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-1911,Vongole  fresche,Pesce,5.008,1000g,9.637,48.26,22,0,
+50097,4,15/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-3254,Branzino fresco,Pesce,19.681,kilo,19.4271,382.34,4,SI,14/11/2023
+50097,5,15/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-7584,Pasta tagliatelle,,22.162,g,2.1,46.54,22,no,15/10/2023
+50097,6,15/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-6567,Costata di manzo,Carni,14.711,g,28.0,411.91,10,SI,14/11/2023
+50097,7,15/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-1332,Prosecco DOC,Vini,41.0,bt,4.9081,201.23,4,SI,
+50098,1,18/09/2023,Distribuzione Generale,FORN-008,SKU-9652,Petto di pollo,Carni,13.723,g,8.5,116.65,10,0,17/11/2023
+50098,2,18/09/2023,Distribuzione Generale,FORN-008,SKU-1989,C@ffe miscela bar,Bevande,3.698,1000g,14.0552,51.98,10,SI,17/11/2023
+50098,3,18/09/2023,Distribuzione Generale,FORN-008,SKU-5247,sale grosso,Condimenti,14.121,kg,0.3433,4.85,22,SI,17/12/2023
+50098,4,18/09/2023,Distribuzione Generale,FORN-008,SKU-7134,Vino Tignanello,,29.0,bt,86.1336,2497.87,10,NO,17/11/2023
+50098,5,18/09/2023,Distribuzione Generale,FORN-008,SKU-8319,Olio extra vergine,Condimenti,11.13,l,9.1786,102.16,22,SI,17/11/2023
+50098,6,18/09/2023,Distribuzione Generale,FORN-008,SKU-7997,Branzino fresco,Pesce,12.711,kilo,17.8963,227.48,22,SI,18/10/2023
+50098,7,18/09/2023,Distribuzione Generale,FORN-008,SKU-1220,FILETTO DI MANZO,Carni,6.613,kg,44.2026,292.31,5,NO,18/10/2023
+50099,1,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-8381,Branzino fresco,Pesce,11.285,g,18.0,203.13,5,NO,19/11/2023
+50099,2,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-5201,Caffe miscela bar,Bevande,8.677,g,14.0,121.48,22,si,20/10/2023
+50099,3,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-1990,Vino Tignanello,Vini,25.0,750ml,70.2637,1756.59,10,SI,20/10/2023
+50099,4,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-5960,Panna fresc,Latticini,15.26,l,2.5285,38.58,4,1,20/10/2023
+50099,5,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-1494,Latte intero,,15.37,l,1.21,18.6,10,SI,19/11/2023
+50099,6,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-7049,Parmigiano Reggiano 24m,,29.765,kg,14.6488,436.02,5,SI,21/08/2023
+50099,7,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-4113,Pasta tagliatelle,Secchi,5.657,KG,2.2002,12.45,22,S,20/10/2023
+50099,8,20/09/2023,Latteria Alpina Coop,FORN-005,SKU-6566,uova fresche,Latticini,264.0,cad,0.2433,64.23,22,SI,20/10/2023
+50100,1,22/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-7035,Salmone intero,Pesce,16.105,g,14.0,225.47,,NO,21/11/2023
+50100,2,22/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-4802,Olio EVO,,9.17,LT,10.1026,92.64,10,SI,22/10/2023
+50100,3,22/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-4044,Burrata,Latticini,87.0,PZ,2.528,219.94,10,NO,21/12/2023
+50100,4,22/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-2321,PARM.REGG.,,29.757,1000g,14.8073,440.62,10,SI,21/11/2023
+50100,5,22/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-5711,Caffe miscela bar,Bevande,25.513,Kg,12.4362,317.28,10,NO,21/11/2023
+50100,6,22/09/2023,Macelleria Bianchi SRL,FORN-001,SKU-5506,Fil. Manzo,Carni,22.528,g,38.0,856.06,10,NO,21/12/2023
+50101,1,25/09/2023,Distribuzione Generale,FORN-008,SKU-7327,Insalata mista,Verdure,18.717,g,2.5,46.79,4,SI,24/11/2023
+50101,2,25/09/2023,Distribuzione Generale,FORN-008,SKU-8675,Sale 100/kg,Condimenti,14.479,Kg,0.4048,5.86,22,SI,24/12/2023
+50101,3,25/09/2023,Distribuzione Generale,FORN-008,SKU-3562,Vongole fresche,Pesce,29.036,g,9.0,261.32,22,SI,24/11/2023
+50102,1,29/09/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1673,SALE,Condimenti,16.581,1000g,0.3702,6.14,10,SI,28/12/2023
+50102,2,2023/09/29,Ortofrutta Rossi e Figli,FORN-003,SKU-7757,Farina 00,Secchi,25.411,1000g,1.006,25.56,22,SI,28/12/2023
+50102,3,29/09/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8964,Insalata mista,Verdure,21.827,kg,2.1406,46.72,22,SI,28/12/2023
+50102,4,29/09/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9676,Caffe miscela bar,Bevande,12.741,kilo,14.9623,190.63,10,SI,28/12/2023
+50102,5,29/09/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9909,Pomodorini ciliegino,Verdure,8.456,kilo,3.2289,27.3,22,NO,28/11/2023
+50103,1,03/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-5046,Rucola ,Verdure,13.104,kg,4.2175,55.27,4,NO,01/01/2024
+50103,2,03/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-9399,Pomodorini ciliegino,Verdure,21.377,kg,2.8619,61.18,10,SI,
+50103,3,03/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-2385,Olio oliva EVO,Condimenti,8.53,l,8.8553,75.54,22,si,02/11/2023
+50103,4,03/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7310,Prosecco DOC,Vini,31.0,bott,4.188,129.83,22,,02/11/2023
+50104,1,04/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4294,Farina 00,Secchi,25.455,1000g,0.9682,24.65,4,SI,02/01/2024
+50104,2,04/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-5978,PARM.REGG.,Latticini,3.698,kilo,18.0158,66.62,10,SI,03/12/2023
+50104,3,04/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7585,Vino Chianti DOCG bt,Vini,39.0,BT,7.5803,295.63,22,SI,02/01/2024
+50104,4,04-10-2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4132,Olio oliva EVO,,19.34,L,8.7359,168.95,10,NO,02/01/2024
+50105,1,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-5319,Latte intero,Latticini,7.3,lt,1.0012,7.31,4,NO,06/12/2023
+50105,2,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-1921,Insalata mista,Verdure,1.171,kilo,2.1433,2.51,10,0,05/01/2024
+50105,3,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-7637,Burrata,Latticini,193.0,PZ,2.3842,460.15,22,SI,06/11/2023
+50105,4,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-5945,Petto di pollo,Carni,26.804,g,8.5,227.83,22,,05/01/2024
+50105,5,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-9721,Rucola,Verdure,16.019,Kg,4.5185,72.38,5,SI,06/12/2023
+50105,6,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-4296,parmigiano,Latticini,19.867,KG,18.7464,372.43,22,SI,05/01/2024
+50105,7,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-8487,Costata di manzo,Carni,24.434,Kg,28.1736,688.39,10,NO,06/12/2023
+50105,8,07/10/2023,Latteria Alpina Coop,FORN-005,SKU-4453,Panna fresca,Latticini,8.61,l,2.0416,17.58,10,SI,06/12/2023
+50106,1,09/10/2023,Beverages Distribution,FORN-007,SKU-4631,Petto di pollo,Carni,4.511,Kg,8.4219,37.99,,S,08/12/2023
+50106,2,09/10/2023,Beverages Distribution,FORN-007,SKU-6776,Porcini freschi,Funghi,29.142,Kg,43.915,1279.77,10,NO,08/12/2023
+50106,3,09/10/2023,Beverages Distribution,FORN-007,SKU-1914,Pomodorini ciliegino,Verdure,19.296,Kg,3.1634,61.04,10,S,08/12/2023
+50106,4,09/10/2023,Beverages Distribution,FORN-007,SKU-9407,Pasta tagliatelle,,25.619,g,2.1,53.8,,NO,08/11/2023
+50106,5,09/10/2023,Beverages Distribution,FORN-007,SKU-7915,Panna fresca,,6.54,0.75,2.3242,15.2,10,no,08/11/2023
+50106,6,09/10/2023,Beverages Distribution,FORN-007,SKU-1878,Insalata mista,Verdure,5.036,kg,2.5368,12.78,10,SI,08/11/2023
+50106,7,09/10/2023,Beverages Distribution,FORN-007,SKU-1572,filetto manzo kg,Carni,24.113,KG,43.1986,1041.65,10,SI,08/12/2023
+50106,8,09/10/2023,Beverages Distribution,FORN-007,SKU-6911,Costata di manzo,Carni,9.988,kg,30.3982,303.62,10,NO,08/11/2023
+50107,1,11/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-5111,Rucola,Verdure,28.642,KG,4.3388,124.27,22,SI,10/11/2023
+50107,2,11/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8458,Vongole fresche,Pesce,5.434,kg,10.6145,57.68,22,NO,10/12/2023
+50107,3,11/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-6703,Caffe miscela bar,Bevande,24.153,g,14.0,338.14,4,SI,10/12/2023
+50107,4,2023/10/11,BIANCHI CARNI s.r.l.,FORN-001,SKU-7631,Vino Tignanello,Vini,36.0,1,72.1998,2599.19,22,S,09/01/2024
+50108,1,14/10/2023,Macelleria Bianchi SRL,FORN-001,SKU-7828,Petto di pollo,Carni,11.556,KG,7.3253,84.65,22,SI,13/12/2023
+50108,2,14/10/2023,Macelleria Bianchi SRL,FORN-001,SKU-4729,Pasta tagliatelle,Secchi,10.177,kilo,1.8067,18.39,22,NO,13/11/2023
+50108,3,14/10/2023,Macelleria Bianchi SRL,FORN-001,SKU-9213,Farina 00,Secchi,4.69,kg,0.7299,3.42,4,NO,12/01/2024
+50108,4,14/10/2023,Macelleria Bianchi SRL,FORN-001,SKU-4394,Chianti bt 0.75,Vini,19.0,750ml,7.6689,145.71,22,SI,13/11/2023
+50108,5,14/10/2023,Macelleria Bianchi SRL,FORN-001,SKU-5853,acqua minerale,Bevande,125.0,pz,0.38,47.5,10,SI,12/01/2024
+50108,6,14/10/2023,Macelleria Bianchi SRL,FORN-001,SKU-1585,Insalata mista,Verdure,12.715,g,2.5,31.79,22,NO,12/01/2024
+50109,1,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-9887,  Pasta tagliatelle,Secchi,28.064,g,2.1,58.93,10,,16/01/2024
+50109,2,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-9793,Riso Carnaroli,Secchi,9.486,kilo,3.5226,33.42,22,NO,16/01/2024
+50109,3,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-7959,Parmigiano  Reggiano  24m,Latticini,29.624,kg,18.3703,544.2,4,1,17/12/2023
+50109,4,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-6410,Filetto manzo,Carni,18.949,kg,42.2211,800.05,10,NO,17/11/2023
+50109,5,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-1376,Porcini kg,Funghi,18.213,g,45.0,819.59,10,SI,02/10/2023
+50109,6,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-9427,ACQUA NAT 1L,Bevande,208.0,1,0.3797,78.98,22,SI,17/11/2023
+50109,7,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-5397,Prosecco DOC,Vini,16.0,bottiglia,5.4217,86.75,4,NO,
+50109,8,18/10/2023,Cantina Toscana SpA,FORN-004,SKU-7181,Pomodorini ciliegino,Verdure,7.243,kg,2.8598,20.71,4,si,17/11/2023
+50110,1,21/10/2023,Cantina Toscana SpA,FORN-004,SKU-2692,Farina 00,Secchi,14.8,kg,0.9897,14.65,4,NO,20/12/2023
+50110,2,21/10/2023,Cantina Toscana SpA,FORN-004,SKU-3669,Rucola ,,5.45,g,4.0,21.8,10,SI,19/01/2024
+50110,3,21/10/2023,Cantina Toscana SpA,FORN-004,SKU-9700,CHIANTI DOCG,Vini,24.0,0.75,5.8293,139.9,4,SI,19/01/2024
+50110,4,21/10/2023,Cantina Toscana SpA,FORN-004,SKU-2040,Caffe miscela bar,Bevande,2.471,Kg,13.3021,32.87,10,,19/01/2024
+50110,5,21/10/2023,Cantina Toscana SpA,FORN-004,SKU-1614,Salmone intero,Pesce,22.006,KG,12.1674,267.76,22,1,19/01/2024
+50110,6,21/10/2023,Cantina Toscana SpA,FORN-004,SKU-5157,Vino  Tignanello,Vini,26.0,1,74.3884,1934.1,10,S,19/01/2024
+50110,7,21/10/2023,Cantina Toscana SpA,FORN-004,SKU-9604,Acqua minerale 1L,Bevande,160.0,pezzi,0.4149,66.38,22,NO,20/11/2023
+50111,1,24/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8332,FILETTO DI MANZO,Carni,10.331,KG,43.9461,454.01,22,SI,23/12/2023
+50111,2,24/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8390,porcini fr.,Funghi,8.352,KG,46.8549,391.33,22,SI,23/12/2023
+50111,3,24/10/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3152,Burrata,Latticini,97.0,pz,2.6351,255.6,10,SI,23/12/2023
+50112,1,26/10/2023,Beverages Distribution,FORN-007,SKU-6575,Rucola,Verdure,11.353,Kg,400.0,4541.2,4,no,25/11/2023
+50112,2,26/10/2023,Beverages Distribution,FORN-007,SKU-7791,Acqua minerale 1L,Bevande,202.0,1,0.4076,82.34,10,si,17/10/2023
+50112,3,26/10/2023,Beverages Distribution,FORN-007,SKU-8874,Vino Tignanello,Vini,48.0,bott,76.5005,3672.02,10,SI,25/12/2023
+50112,4,26/10/2023,Beverages Distribution,FORN-007,SKU-4479,Petto di pollo,Carni,21.659,1000g,8.5926,186.11,4,SI,17/10/2023
+50112,5,26/10/2023,Beverages Distribution,FORN-007,SKU-8341,FILETTO DI MANZO,Carni,10.926,g,38.0,415.19,22,SI,25/11/2023
+50112,6,26/10/2023,Beverages Distribution,FORN-007,SKU-5339,Riso Carnaroli,Secchi,20.088,g,3.2,64.28,22,NO,25/12/2023
+50113,1,29/10/2023,Cantina Vinicola Toscana,FORN-004,SKU-4729,Olio  EVO,Condimenti,4.0,ml,8.5,34.0,4,S,27/01/2024
+50113,2,29/10/2023,Cantina Vinicola Toscana,FORN-004,SKU-5286,Salmone intero,Pesce,11.187,kg,13.5219,151.27,10,SI,28/12/2023
+50113,3,29/10/2023,Cantina Vinicola Toscana,FORN-004,SKU-4318,Pomodorini ciliegino,Verdure,2.556,g,3.2,8.18,4,NO,28/11/2023
+50113,4,29/10/2023,Cantina Vinicola Toscana,FORN-004,SKU-4601,Farina 00,Secchi,6.756,kg,0.7405,5.0,10,SI,28/11/2023
+50114,1,31/10/2023,Pescheria Del Mare SNC,FORN-002,SKU-5039,filetto manzo kg,Carni,28.205,kilo,44.8911,1266.15,4,si,30/11/2023
+50114,2,31/10/2023,Pescheria Del Mare SNC,FORN-002,SKU-6708,Parmigiano Reggiano 24m,Latticini,29.501,kilo,17.6467,520.6,10,NO,30/12/2023
+50114,3,31/10/2023,Pescheria Del Mare SNC,FORN-002,SKU-5521,Rucola,Verdure,3.72,Kg,3.5501,13.21,22,SI,29/01/2024
+50114,4,31/10/2023,Pescheria Del Mare SNC,FORN-002,SKU-3863,Uova XL,Latticini,117.0,cad,0.2398,28.06,5,no,30/11/2023
+50114,5,31/10/2023,Pescheria Del Mare SNC,FORN-002,SKU-3755,Sale 100/kg,Condimenti,16.9,Kg,0.4652,7.86,10,NO,30/12/2023
+50114,6,31/10/2023,Pescheria Del Mare SNC,FORN-002,SKU-8100,Vongole fresche,Pesce,3.75,kg,10.021,37.58,10,SI,29/01/2024
+50114,7,2023/10/31,Pescheria Del Mare SNC,FORN-002,SKU-3878,Panna fresca,Latticini,15.99,l,2.7828,44.5,22,SI,30/12/2023
+50115,1,01/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-7209,Parmigiano Reggiano 24m,Latticini,16.83,1000g,14.8039,249.15,10,SI,30/01/2024
+50115,2,01/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-3480,Costata di manzo,Carni,28.615,KG,30.7726,880.56,5,SI,01/12/2023
+50115,3,01/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-7810,Vino Tignanello,Vini,46.0,BT,85.3724,3927.13,10,SI,30/01/2024
+50115,4,01/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-5664,Petto di pollo,Carni,1.013,KG,7.6903,7.79,10,NO,06/10/2023
+50115,5,01/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-2677,Prosecco DOC,,14.0,BT,240.0,3360.0,4,si,30/01/2024
+50115,6,01/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-6072,Panna fresca,Latticini,14.73,ml,2.4,35.35,10,SI,01/12/2023
+50115,7,01/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-6426,farina 00,,25.81,Kg,0.9848,25.42,10,SI,31/12/2023
+50116,1,02/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-7848,Costata di manzo,Carni,29.874,g,28.0,836.47,,SI,01/01/2024
+50116,2,02/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-1159,Acqua 1000ml,Bevande,227.0,nr,17.5,3972.5,22,NO,01/01/2024
+50116,3,02/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-8488,Petto di pollo,,7.674,kilo,9.1131,69.93,10,SI,01/01/2024
+50116,4,02/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-5495,Vino  Tignanello,Vini,39.0,bottiglia,86.0076,3354.3,22,NO,01/01/2024
+50116,5,02/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-2741,Vino rosso Chianti,Vini,35.0,750ml,6.0578,212.02,,SI,31/01/2024
+50117,1,04/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-6418,Vino Chianti DOCG bt,Vini,13.0,1,7.7997,101.4,,SI,02/02/2024
+50117,2,04/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-1106,SALE,Condimenti,8.236,kg,0.419,3.45,10,SI,03/01/2024
+50117,3,04/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-6235,Pomodorini ciliegino,Verdure,22.927,kg,3.1046,71.18,10,0,04/12/2023
+50117,4,04/11/2023,Macelleria Bianchi SRL,FORN-001,SKU-5424,Acqua 1000ml,Bevande,273.0,pezzi,0.3224,88.02,10,SI,03/01/2024
+50117,5,04-11-2023,Macelleria Bianchi SRL,FORN-001,SKU-7929,Latte intero,Latticini,12.47,0.75,1.2061,15.04,10,SI,03/01/2024
+50118,1,05/11/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9988,Caffe miscela bar,Bevande,8.572,kilo,15.5112,132.96,22,NO,04/01/2024
+50118,2,05/11/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1712,Prosecco DOC,Vini,44.0,1,5.6292,247.68,10,SI,05/12/2023
+50118,3,05/11/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-8564,Parmigiano Reggiano 24m,Latticini,9.677,kg,18.8622,182.53,5,SI,04/01/2024
+50118,4,2023/11/05,Ortofrutta Rossi e Figli,FORN-003,SKU-9706,Porcini kg,Funghi,16.912,KG,41.3994,700.15,22,SI,03/02/2024
+50118,5,05/11/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6955,ACQUA NAT 1L,Bevande,139.0,pz,0.3386,47.07,22,NO,05/12/2023
+50118,6,05/11/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4531,Uova  fresche  cat.  A,Latticini,240.0,nr,0.2807,67.37,10,NO,04/01/2024
+50119,1,07/11/2023,Beverages Distribution,FORN-007,SKU-6783,Parmigiano Reggiano 24m,Latticini,12.804,1000g,17.8835,228.98,22,SI,07/12/2023
+50119,2,07/11/2023,Beverages Distribution,FORN-007,SKU-2098,Caffe miscela bar,,24.689,kilo,14.9346,368.72,22,SI,07/12/2023
+50119,3,07/11/2023,Beverages Distribution,FORN-007,SKU-5990,Riso Carnaroli,Secchi,29.688,KG,3.3212,98.6,22,SI,05/02/2024
+50119,4,07/11/2023,Beverages Distribution,FORN-007,SKU-7519,Prosecco DOC,Vini,37.0,bott,4.2659,157.84,22,SI,06/01/2024
+50119,5,07/11/2023,Beverages Distribution,FORN-007,SKU-9875,Rucola,Verdure,6.585,g,4.0,26.34,,NO,06/01/2024
+50119,6,07/11/2023,Beverages Distribution,FORN-007,SKU-5016,FILETTO DI MANZO,Carni,9.795,KG,32.8993,322.25,22,SI,06/01/2024
+50119,7,07/11/2023,Beverages Distribution,FORN-007,SKU-7465,Uova fresche cat. A,Latticini,246.0,cad,0.2626,64.6,10,SI,06/01/2024
+50119,8,07-11-2023,Beverages Distribution,FORN-007,SKU-6152,Vongole fresche,Pesce,14.237,Kg,10.0273,142.76,4,NO,06/01/2024
+50120,1,11/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-2380,Insalata mista ,,4.077,g,2.5,10.19,10,1,11/12/2023
+50120,2,11/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-6946,CHIANTI DOCG,Vini,48.0,750ml,7.558,362.78,22,SI,09/02/2024
+50120,3,2023/11/11,Cantina Vinicola Toscana,FORN-004,SKU-5925,PARM.REGG.,Latticini,19.334,g,16.5,319.01,5,SI,10/01/2024
+50121,1,13/11/2023,Pescheria Del Mare SNC,FORN-002,SKU-9912,Riso Carnaroli,Secchi,15.179,KG,3.3957,51.54,10,S,11/02/2024
+50121,2,13/11/2023,Pescheria Del Mare SNC,FORN-002,SKU-1100,Latte intero,Latticini,8.85,l,1.0722,9.49,22,NO,13/12/2023
+50121,3,13/11/2023,Pescheria Del Mare SNC,FORN-002,SKU-3183,Branzino fresco,Pesce,16.148,kg,16.0222,258.73,10,SI,11/02/2024
+50121,4,13/11/2023,Pescheria Del Mare SNC,FORN-002,SKU-5605,Vongole fresche,Pesce,17.58,KG,9.9015,174.07,10,SI,12/01/2024
+50122,1,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-5655,Sale fino,,7.021,kg,0.4777,3.35,10,SI,14/12/2023
+50122,2,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-4612,Rucola,Verdure,11.605,g,4.0,46.42,22,SI,13/01/2024
+50122,3,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-4229,Salmone intero,Pesce,24.345,kilo,13.8514,337.21,22,NO,14/12/2023
+50122,4,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-5699,Pasta tagliatelle,Secchi,20.923,1000g,1.8718,39.16,4,NO,14/12/2023
+50122,5,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-5365,Latte fresco int,Latticini,8.17,1000ml,1.1558,9.44,10,SI,14/12/2023
+50122,6,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-9577,Burrata,Latticini,121.0,1,2.8471,344.5,4,SI,13/01/2024
+50122,7,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-6013,insalata mista,Verdure,19.064,1000g,2.3385,44.58,10,SI,12/02/2024
+50122,8,14/11/2023,Cantina Vinicola Toscana,FORN-004,SKU-2286,Branzino  fresco,Pesce,8.933,g,18.0,160.79,10,SI,12/02/2024
+50123,1,15/11/2023,Molino Pasta Artigianale,FORN-006,SKU-1973,Rucola,Verdure,11.033,g,4.0,44.13,10,0,13/02/2024
+50123,2,15/11/2023,Molino Pasta Artigianale,FORN-006,SKU-4915,Vongole fresche,Pesce,7.524,kilo,8.4225,63.37,22,SI,
+50123,3,15/11/2023,Molino Pasta Artigianale,FORN-006,SKU-4270,Branzino fresco,Pesce,1.395,Kg,17.2211,24.02,10,SI,14/01/2024
+50123,4,15/11/2023,Molino Pasta Artigianale,FORN-006,SKU-5748,Latte fresco int,Latticini,9.71,LT,1.0081,9.79,10,si,13/02/2024
+50124,1,19/11/2023,Distribuzione Generale,FORN-008,SKU-7172,Vino Tignanello,Vini,6.0,1,88.4217,530.53,4,NO,17/02/2024
+50124,2,19/11/2023,Distribuzione Generale,FORN-008,SKU-9455,Farina 00,Secchi,25.746,1000g,0.8623,22.2,10,NO,17/02/2024
+50124,3,19/11/2023,Distribuzione Generale,FORN-008,SKU-9119,Costata di manzo,Carni,23.657,Kg,29.7343,703.42,4,SI,19/12/2023
+50124,4,19/11/2023,Distribuzione Generale,FORN-008,SKU-6741,Petto di pollo,Carni,27.778,kg,9.334,259.28,10,,17/02/2024
+50125,1,23/11/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-8267,VINO TIGNANELLO,Vini,41.0,0.75,89.269,3660.03,22,SI,23/12/2023
+50125,2,23/11/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-1576,Costata di manzo,Carni,21.424,g,28.0,599.87,22,NO,21/02/2024
+50125,3,23-11-2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-7979,Latte fresco int,Latticini,11.8,L,1.0409,12.28,22,SI,22/01/2024
+50125,4,23/11/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-4140,Acqua minerale 1L,Bevande,296.0,cad,0.3089,91.43,22,SI,22/01/2024
+50125,5,23/11/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-3440,Riso Carnaroli,Secchi,7.14,Kg,,,10,NO,21/02/2024
+50125,6,23/11/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-9922,Insalata  mista,Verdure,9.602,g,2.5,24.01,10,SI,21/02/2024
+50125,7,23/11/2023,BIANCHI CARNI s.r.l.,FORN-001,SKU-1857,OLIO EVO lt,Condimenti,4.75,lt,8.4671,40.22,10,SI,22/01/2024
+50126,1,26/11/2023,Beverages Distribution,FORN-007,SKU-9509,Branzino fresco,Pesce,13.371,kg,16.671,222.91,22,si,26/12/2023
+50126,2,26/11/2023,Beverages Distribution,FORN-007,SKU-6848,Prosecco DOC,Vini,47.0,bott,4.3538,204.63,4,NO,25/01/2024
+50126,3,26/11/2023,Beverages Distribution,FORN-007,SKU-3786,Vongole  fresche,,15.978,Kg,,,4,NO,24/02/2024
+50126,4,26/11/2023,Beverages Distribution,FORN-007,SKU-5736,Salmone intero,Pesce,26.884,Kg,12.9701,348.69,10,SI,24/02/2024
+50126,5,26/11/2023,Beverages Distribution,FORN-007,SKU-8112,Panna fresca,Latticini,10.68,ml,2.4,25.63,4,si,26/12/2023
+50126,6,26/11/2023,Beverages Distribution,FORN-007,SKU-5527,Rucola,Verdure,2.495,KG,3.6174,9.03,22,SI,25/01/2024
+50127,1,28-11-2023,Cantina Toscana SpA,FORN-004,SKU-8060,Branzino fresco,Pesce,23.608,KG,16.5277,390.19,10,SI,26/02/2024
+50127,2,28/11/2023,Cantina Toscana SpA,FORN-004,SKU-9097,Vino Chianti DOCG bt,Vini,10.0,1,5.5741,55.74,22,si,28/12/2023
+50127,3,28/11/2023,Cantina Toscana SpA,FORN-004,SKU-8567,Insalata mista,Verdure,14.241,1000g,,,4,SI,26/02/2024
+50127,4,28/11/2023,Cantina Toscana SpA,FORN-004,SKU-4606,Acqua minerale 1L,Bevande,144.0,nr,0.327,47.09,4,,28/12/2023
+50127,5,28/11/2023,Cantina Toscana SpA,FORN-004,SKU-9397,Parmigiano Reggiano 24m,Latticini,6.657,Kg,18.9295,126.01,4,SI,26/02/2024
+50127,6,28-11-2023,Cantina Toscana SpA,FORN-004,SKU-1770,Vongole fresche,Pesce,26.257,KG,10.7867,283.23,10,,28/12/2023
+50127,7,28/11/2023,Cantina Toscana SpA,FORN-004,SKU-5869,Porcini freschi,Funghi,11.821,kilo,53.9648,637.92,10,SI,28/12/2023
+50127,8,28/11/2023,Cantina Toscana SpA,FORN-004,SKU-2352,Farina 00,Secchi,3.557,Kg,,,10,NO,06/11/2023
+50128,1,01/12/2023,Cantina Vinicola Toscana,FORN-004,SKU-1681,Olio EVO,,8.0,0.75,8.314,66.51,22,SI,30/01/2024
+50128,2,01/12/2023,Cantina Vinicola Toscana,FORN-004,SKU-4412,Panna fresca,Latticini,12.97,ml,2.4,31.13,10,SI,30/01/2024
+50128,3,01/12/2023,Cantina Vinicola Toscana,FORN-004,SKU-6662,Insalata mista,Verdure,15.398,kg,2.7848,42.88,10,SI,30/01/2024
+50128,4,01/12/2023,Cantina Vinicola Toscana,FORN-004,SKU-6648,Pasta tagliatelle,Secchi,24.636,Kg,2.1715,53.5,22,SI,31/12/2023
+50129,1,2023/12/05,Ortofrutta Rossi e Figli,FORN-003,SKU-8870,Panna fresca,Latticini,15.78,0.75,2.2954,36.22,10,NO,04/01/2024
+50129,2,05/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4502,Uova fresche cat. A,Latticini,134.0,cad,0.3009,40.32,22,SI,03/02/2024
+50129,3,2023/12/05,Ortofrutta Rossi e Figli,FORN-003,SKU-7468,Vino Chianti DOCG bt,Vini,48.0,bott,6.1139,293.47,22,SI,04/03/2024
+50129,4,2023/12/05,Ortofrutta Rossi e Figli,FORN-003,SKU-9871,Costata di manzo,Carni,26.099,Kg,25.1028,655.16,4,SI,04/03/2024
+50129,5,05/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-5205,OLIO EVO,Condimenti,19.9,0.75,8.6905,172.94,10,,03/02/2024
+50129,6,05/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6352,Pomodorini ciliegino,Verdure,10.601,KG,3.3037,35.02,10,SI,04/03/2024
+50130,1,09/12/2023,Beverages Distribution,FORN-007,SKU-4250,Farina 00,Secchi,14.065,KG,0.7883,11.09,10,SI,08/03/2024
+50130,2,09/12/2023,Beverages Distribution,FORN-007,SKU-6602,Vongole fresche,Pesce,2.384,KG,8.8987,21.21,4,NO,08/01/2024
+50130,3,09/12/2023,Beverages Distribution,FORN-007,SKU-8768,  Burrata,,258.0,pezzi,3.0041,775.06,22,SI,07/02/2024
+50130,4,09/12/2023,Beverages Distribution,FORN-007,SKU-3605,Pasta tagliatelle,Secchi,13.701,g,2.1,28.77,4,SI,08/03/2024
+50130,5,09/12/2023,Beverages Distribution,FORN-007,SKU-5221,Olio EVO,Condimenti,18.19,LT,9.5023,172.85,4,si,07/02/2024
+50130,6,09/12/2023,Beverages Distribution,FORN-007,SKU-7294,VINO TIGNANELLO,Vini,15.0,bottiglia,,,4,SI,07/02/2024
+50130,7,09/12/2023,Beverages Distribution,FORN-007,SKU-8251,Rucola,Verdure,10.89,KG,4.6362,50.49,22,SI,08/03/2024
+50130,8,09/12/2023,Beverages Distribution,FORN-007,SKU-7764,Porcini freschi,Funghi,22.854,kilo,43.6249,997.0,22,,08/01/2024
+50131,1,13/12/2023,Cantina Toscana SpA,FORN-004,SKU-4320,Burrata,Latticini,283.0,nr,,,22,NO,12/03/2024
+50131,2,13/12/2023,Cantina Toscana SpA,FORN-004,SKU-9653,Prosecco DOC,Vini,13.0,bottiglia,4.2623,55.41,22,NO,11/02/2024
+50131,3,13/12/2023,Cantina Toscana SpA,FORN-004,SKU-4052,Branzino fresco,,1.537,g,18.0,27.67,22,S,11/02/2024
+50131,4,13/12/2023,Cantina Toscana SpA,FORN-004,SKU-1093,Salmone intero,Pesce,13.108,g,,,22,0,12/03/2024
+50131,5,13/12/2023,Cantina Toscana SpA,FORN-004,SKU-2668,sale grosso,Condimenti,2.992,kg,0.4416,1.32,22,SI,12/01/2024
+50132,1,16/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-9152,Latte fresco int,Latticini,17.5,1000ml,1.0046,17.58,10,NO,15/01/2024
+50132,2,2023/12/16,Ortofrutta Rossi e Figli,FORN-003,SKU-8943,Petto di pollo ,Carni,5.328,g,425.0,2264.4,10,NO,14/02/2024
+50132,3,16/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1305,Branzino fresco,Pesce,26.458,Kg,17.8222,471.54,10,no,14/02/2024
+50132,4,16/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-5375,Insalata mista,Verdure,20.466,1000g,2.5174,51.52,22,1,
+50132,5,16/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3094,Panna fresc,Latticini,2.0,0.75,,,22,SI,15/03/2024
+50132,6,16/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-5528,Rucola,Verdure,1.381,kilo,4.2413,5.86,22,SI,15/03/2024
+50132,7,16/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-3085,Vino Tignanello,Vini,37.0,0.75,63.9678,2366.81,5,no,14/02/2024
+50133,1,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-4076,SALE,Condimenti,14.319,g,0.4,5.73,10,1,18/03/2024
+50133,2,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-1560,Vongole fresche,Pesce,12.43,Kg,9.1597,113.86,4,SI,17/02/2024
+50133,3,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-9191,Pomodorini ciliegino,Verdure,29.244,kg,3.5605,104.12,22,SI,18/01/2024
+50133,4,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-4496,Riso Carnaroli,Secchi,10.867,g,3.2,34.77,22,S,17/02/2024
+50133,5,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-7811,Petto di pollo,Carni,16.984,g,8.5,144.36,22,SI,18/03/2024
+50133,6,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-8111,OLIO EVO lt,,15.38,lt,8.9479,137.62,22,si,18/01/2024
+50133,7,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-6870,latte intero lt,Latticini,4.17,l,1.0063,4.2,22,0,18/01/2024
+50133,8,19/12/2023,Cantina Toscana SpA,FORN-004,SKU-5437,  Prosecco DOC,Vini,41.0,bottiglia,5.4358,222.87,10,SI,18/03/2024
+50134,1,23/12/2023,Beverages Distribution,FORN-007,SKU-2707,Pasta tagliatelle,Secchi,24.473,kilo,2.0298,49.68,22,SI,21/02/2024
+50134,2,23-12-2023,Beverages Distribution,FORN-007,SKU-2915,acqua minerale,Bevande,124.0,cad,,,10,SI,22/01/2024
+50134,3,23/12/2023,Beverages Distribution,FORN-007,SKU-9381,Rucola,,27.662,kg,3.4349,95.02,22,SI,21/02/2024
+50135,1,25/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-4401,Pasta tagliatelle,,29.346,kilo,1.8815,55.21,10,SI,24/03/2024
+50135,2,25/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-7854,Rucola,Verdure,8.17,KG,4.5564,37.23,10,SI,24/01/2024
+50135,3,25/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-6869,Caffe miscela bar,,1.127,KG,13.5912,15.32,22,NO,02/12/2023
+50135,4,25/12/2023,Ortofrutta Rossi e Figli,FORN-003,SKU-1762,Pomodorini ciliegino,Verdure,11.419,Kg,2.8354,32.38,10,0,24/03/2024
+50136,1,28/12/2023,Latteria Alpina Coop,FORN-005,SKU-2727,acqua minerale 1l,Bevande,49.0,cad,0.0035,0.17,10,no,27/01/2024
+50136,2,28/12/2023,Latteria Alpina Coop,FORN-005,SKU-1110,Panna fresca,Latticini,14.57,1000ml,2.362,34.41,4,NO,26/02/2024
+50136,3,28/12/2023,Latteria Alpina Coop,FORN-005,SKU-1528,Burrata,Latticini,292.0,1,2.6447,772.25,4,SI,27/01/2024
+50136,4,28/12/2023,Latteria Alpina Coop,FORN-005,SKU-5426,Caffe miscela bar,Bevande,20.725,KG,12.1094,250.97,5,,27/03/2024
+50136,5,28/12/2023,Latteria Alpina Coop,FORN-005,SKU-8101,PARM.REGG.,Latticini,21.133,kg,18.6018,393.11,4,SI,27/03/2024
+50136,6,28/12/2023,Latteria Alpina Coop,FORN-005,SKU-4699,Branzino fresco,,2.285,g,18.0,41.13,4,SI,27/01/2024
+50136,7,28-12-2023,Latteria Alpina Coop,FORN-005,SKU-7671,Salmone intero,,29.158,g,14.0,408.21,22,NO,
+50136,8,28/12/2023,Latteria Alpina Coop,FORN-005,SKU-9399,Prosecco DOC,Vini,7.0,BT,4.8031,33.62,22,SI,27/03/2024
+50137,1,29/12/2023,Latteria Alpina Coop,FORN-005,SKU-6217,Insalata mista,Verdure,3.968,g,2.5,9.92,10,SI,27/02/2024
+50137,2,29/12/2023,Latteria Alpina Coop,FORN-005,SKU-5519,sale grosso,Condimenti,15.355,kilo,0.3567,5.48,22,SI,
+50137,3,29/12/2023,Latteria Alpina Coop,FORN-005,SKU-4758,Panna fresca,Latticini,13.1,L,2.1083,27.62,10,SI,27/02/2024
+50137,4,29/12/2023,Latteria Alpina Coop,FORN-005,SKU-4704,Branzino fresco,Pesce,20.926,kg,18.1617,380.05,4,SI,28/03/2024
+50137,5,29/12/2023,Latteria Alpina Coop,FORN-005,SKU-1571,Vino Tignanello,Vini,12.0,0.75,66.4556,797.47,10,SI,27/02/2024
+50137,6,29/12/2023,Latteria Alpina Coop,FORN-005,SKU-2281,Porcini kg,,14.877,g,45.0,669.47,22,0,28/03/2024
+50137,7,29/12/2023,Latteria Alpina Coop,FORN-005,SKU-9732,OLIO EVO lt,Condimenti,16.98,L,9.9026,168.15,22,SI,28/01/2024
+50138,1,02/01/2024,Beverages Distribution,FORN-007,SKU-5205,Porcini freschi,Funghi,6.017,kilo,38.5151,231.75,10,SI,01/02/2024
+50138,2,02/01/2024,Beverages Distribution,FORN-007,SKU-4140,Branzino fresco,Pesce,15.426,1000g,16.2271,250.32,22,no,01/04/2024
+50138,3,02/01/2024,Beverages Distribution,FORN-007,SKU-9384,Pomodorini ciliegino,Verdure,11.536,kg,3.7358,43.1,22,NO,
+50138,4,02/01/2024,Beverages Distribution,FORN-007,SKU-2157,Filetto di manzo,,14.843,Kg,43.816,650.36,22,SI,
+50138,5,02/01/2024,Beverages Distribution,FORN-007,SKU-5825,Parmigiano Reggiano 24m ,Latticini,20.678,Kg,17.342,358.6,22,SI,01/02/2024
+50138,6,02/01/2024,Beverages Distribution,FORN-007,SKU-9999,Insalata mista,,11.39,g,2.5,28.48,10,SI,01/02/2024
+50138,7,02/01/2024,Beverages Distribution,FORN-007,SKU-8438,RISO CARNAROLI,Secchi,28.317,Kg,,,4,0,01/04/2024
+50138,8,02/01/2024,Beverages Distribution,FORN-007,SKU-5297,Vino Tignanello,Vini,41.0,BT,69.0332,2830.36,10,SI,02/03/2024
+50139,1,06/01/2024,Beverages Distribution,FORN-007,SKU-6882,Panna fresca,Latticini,3.79,lt,2.1779,8.25,10,NO,05/04/2024
+50139,2,06/01/2024,Beverages Distribution,FORN-007,SKU-9022,acqua minerale,Bevande,285.0,pezzi,0.3867,110.21,22,SI,06/03/2024
+50139,3,06/01/2024,Beverages Distribution,FORN-007,SKU-8658,Olio extra vergine,Condimenti,16.28,L,8.4113,136.94,4,SI,06/03/2024
+50139,4,06/01/2024,Beverages Distribution,FORN-007,SKU-7137,Filetto di manzo,Carni,24.008,KG,45.1502,1083.97,5,SI,05/04/2024
+50139,5,2024/01/06,Beverages Distribution,FORN-007,SKU-2320,Vino Tignanello,Vini,45.0,bt,81.4501,3665.25,22,,06/03/2024
+50140,1,08-01-2024,Macelleria Bianchi SRL,FORN-001,SKU-3686,Fil. Manzo,Carni,4.429,1000g,34.9791,154.92,,SI,07/02/2024
+50140,2,08/01/2024,Macelleria Bianchi SRL,FORN-001,SKU-9335,sale grosso,Condimenti,7.593,kg,0.4763,3.62,10,no,08/03/2024
+50140,3,08/01/2024,Macelleria Bianchi SRL,FORN-001,SKU-3455,Vongole fresche,Pesce,26.347,g,9.0,237.12,22,NO,08/03/2024
+50140,4,08/01/2024,Macelleria Bianchi SRL,FORN-001,SKU-5817,Caffe miscela bar,Bevande,10.047,1000g,13.1865,132.48,22,1,07/02/2024
+50140,5,08/01/2024,Macelleria Bianchi SRL,FORN-001,SKU-9945,Costata di manzo,Carni,26.011,Kg,24.5113,637.56,10,NO,07/02/2024
+50141,1,12/01/2024,Macelleria Bianchi SRL,FORN-001,SKU-5784,Salmone intero,Pesce,22.674,KG,,,22,SI,11/04/2024
+50141,2,12/01/2024,Macelleria Bianchi SRL,FORN-001,SKU-7882,latte intero lt,Latticini,11.84,0.75,1.0842,12.84,10,SI,12/03/2024
+50141,3,12/01/2024,Macelleria Bianchi SRL,FORN-001,SKU-3882,PROSECCO DOC,Vini,16.0,1,5.6464,90.34,10,no,11/04/2024
+50142,1,15/01/2024,Beverages Distribution,FORN-007,SKU-8627,Vino Tignanello,Vini,21.0,bottiglia,84.2949,1770.19,22,NO,14/02/2024
+50142,2,15/01/2024,Beverages Distribution,FORN-007,SKU-2276,UOVA,Latticini,30.0,cad,0.3094,9.28,4,0,15/03/2024
+50142,3,15/01/2024,Beverages Distribution,FORN-007,SKU-9674,Prosecco DOC,Vini,6.0,0.75,4.4792,26.88,4,SI,15/03/2024
+50142,4,15/01/2024,Beverages Distribution,FORN-007,SKU-6877,Parmigiano Reggiano,Latticini,22.251,Kg,14.9134,331.84,22,SI,15/03/2024
+50142,5,15/01/2024,Beverages Distribution,FORN-007,SKU-8240,Latte intero,,8.13,LT,1.2234,9.95,10,NO,15/03/2024
+50142,6,15/01/2024,Beverages Distribution,FORN-007,SKU-5551,  Salmone intero,Pesce,16.508,g,14.0,231.11,10,SI,
+50142,7,15/01/2024,Beverages Distribution,FORN-007,SKU-6974,Riso Carnaroli,Secchi,19.098,g,3.2,61.11,22,S,14/04/2024
+50143,1,19/01/2024,Latteria Alpina Coop,FORN-005,SKU-6045,Olio EVO,Condimenti,18.46,lt,9.8245,181.36,22,SI,19/03/2024
+50143,2,19/01/2024,Latteria Alpina Coop,FORN-005,SKU-9198,Vongole fresche,Pesce,29.94,g,9.0,269.46,,SI,18/02/2024
+50143,3,19/01/2024,Latteria Alpina Coop,FORN-005,SKU-2813,Panna fresca,Latticini,17.63,1000ml,2.4392,43.0,10,NO,18/02/2024
+50143,4,19/01/2024,Latteria Alpina Coop,FORN-005,SKU-7609,Burr@ta,Latticini,293.0,cad,3.0679,898.89,4,,19/03/2024
+50143,5,19/01/2024,Latteria Alpina Coop,FORN-005,SKU-6403,Rucola,Verdure,29.807,g,4.0,119.23,10,SI,18/02/2024
+50144,1,23/01/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-5412,Branzino fresco,Pesce,11.337,kilo,15.421,174.83,22,si,22/02/2024
+50144,2,2024/01/23,BIANCHI CARNI s.r.l.,FORN-001,SKU-7811,Porcini freschi kg,Funghi,1.33,1000g,44.5217,59.21,22,SI,22/04/2024
+50144,3,23/01/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-9455,Caffe miscela bar,Bevande,13.625,kg,15.3181,208.71,22,SI,22/04/2024
+50144,4,23/01/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-1812,Panna fresca,Latticini,2.01,ml,2.4,4.82,22,NO,22/02/2024
+50144,5,23/01/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2434,Burrata,Latticini,120.0,pezzi,2.5843,310.12,10,SI,22/04/2024
+50144,6,23/01/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-3725,Parmigiano Reggiano 24m,Latticini,5.557,kilo,14.7303,81.86,10,SI,
+50144,7,23/01/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7978,Rucola,Verdure,3.261,kilo,3.7307,12.17,22,SI,10/01/2024
+50145,1,26/01/2024,Latteria Alpina Coop,FORN-005,SKU-2072,Uova Cat.A 30pz,Latticini,52.0,PZ,,,5,SI,25/04/2024
+50145,2,26/01/2024,Latteria Alpina Coop,FORN-005,SKU-6024,chianti 75cl,Vini,25.0,bottiglia,6.5484,163.71,10,S,25/04/2024
+50145,3,26/01/2024,Latteria Alpina Coop,FORN-005,SKU-7018,parmigiano,Latticini,9.334,g,16.5,154.01,22,SI,25/02/2024
+50145,4,26/01/2024,Latteria Alpina Coop,FORN-005,SKU-1680,  Branzino fresco,Pesce,3.53,KG,20.3882,71.97,10,SI,25/04/2024
+50145,5,26/01/2024,Latteria Alpina Coop,FORN-005,SKU-3112,Caffe miscela bar,Bevande,7.249,KG,14.2073,102.99,10,SI,25/02/2024
+50146,1,30/01/2024,Pescheria Del Mare SNC,FORN-002,SKU-4950,Costata di manzo,Carni,11.906,Kg,26.432,314.7,4,SI,29/04/2024
+50146,2,30/01/2024,Pescheria Del Mare SNC,FORN-002,SKU-5788,Caffe miscela bar,Bevande,9.178,kg,15.4565,141.86,10,NO,29/04/2024
+50146,3,30/01/2024,Pescheria Del Mare SNC,FORN-002,SKU-6502,Burrata,Latticini,48.0,nr,3.1918,153.21,5,SI,29/04/2024
+50146,4,30/01/2024,Pescheria Del Mare SNC,FORN-002,SKU-4351,chianti 75cl,Vini,38.0,0.75,7.2954,277.23,5,NO,29/02/2024
+50146,5,30/01/2024,Pescheria Del Mare SNC,FORN-002,SKU-5963,LATTE 1L,Latticini,9.72,l,1.2495,12.15,22,NO,30/03/2024
+50147,1,03/02/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-9318,Caffe miscela bar,Bevande,16.967,kg,15.9014,269.8,5,SI,03/04/2024
+50147,2,03/02/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7513,Sale 100/kg,Condimenti,6.554,1000g,0.3648,2.39,22,SI,03/04/2024
+50147,3,03/02/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8446,Costata di manz,Carni,24.819,1000g,24.7136,613.37,22,SI,04/03/2024
+50147,4,03/02/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6403,Vongole fresche,Pesce,15.24,kg,8.4877,129.35,10,SI,04/03/2024
+50147,5,03/02/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-1053,Pasta tagliatelle,Secchi,11.883,KG,2.3036,27.37,10,NO,04/03/2024
+50147,6,03/02/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-4656,Rucola,Verdure,19.946,kilo,4.0388,80.56,10,NO,
+50148,1,05/02/2024,Beverages Distribution,FORN-007,SKU-4802,Vongole fresche,Pesce,27.748,kilo,8.5115,236.18,10,SI,05/05/2024
+50148,2,05/02/2024,Beverages Distribution,FORN-007,SKU-8381,Porcini kg,Funghi,18.763,Kg,45.998,863.06,22,SI,05/04/2024
+50148,3,05/02/2024,Beverages Distribution,FORN-007,SKU-4914,Riso Carnaroli,Secchi,10.225,1000g,3.0382,31.07,10,SI,05/04/2024
+50148,4,05/02/2024,Beverages Distribution,FORN-007,SKU-4133,Farina 00,Secchi,18.974,g,0.85,16.13,22,SI,05/04/2024
+50148,5,05/02/2024,Beverages Distribution,FORN-007,SKU-3331,Parmigiano Reggiano,Latticini,11.238,KG,16.8624,189.5,10,NO,06/03/2024
+50148,6,05/02/2024,Beverages Distribution,FORN-007,SKU-3029,Insalata mista,Verdure,10.713,1000g,2.7237,29.18,22,SI,05/05/2024
+50148,7,05/02/2024,Beverages Distribution,FORN-007,SKU-7382,filetto manzo kg,Carni,3.778,g,38.0,143.56,10,SI,05/05/2024
+50148,8,05/02/2024,Beverages Distribution,FORN-007,SKU-2310,Pasta tagliatelle,Secchi,14.489,kg,2.2912,33.2,5,0,06/03/2024
+50149,1,07/02/2024,Cantina Toscana SpA,FORN-004,SKU-6153,Latte fresco int,Latticini,4.51,l,1.0202,4.6,22,no,08/03/2024
+50149,2,07/02/2024,Cantina Toscana SpA,FORN-004,SKU-5725,Porcini  freschi,Funghi,21.968,kg,51.6146,1133.87,22,,08/03/2024
+50149,3,07/02/2024,Cantina Toscana SpA,FORN-004,SKU-1903,Vongole fresche,Pesce,29.767,kilo,9.7377,289.86,4,0,08/03/2024
+50149,4,07/02/2024,Cantina Toscana SpA,FORN-004,SKU-8502,Petto di pollo,Carni,13.912,g,8.5,118.25,4,SI,07/04/2024
+50150,1,08/02/2024,Distribuzione Generale,FORN-008,SKU-2262,Parmigiano Reggiano 24m,Latticini,13.78,1000g,14.5214,200.1,,SI,09/03/2024
+50150,2,2024/02/08,Distribuzione Generale,FORN-008,SKU-7015,FUNGHI PORCINI,Funghi,1.226,KG,53.1101,65.11,22,no,08/04/2024
+50150,3,08/02/2024,Distribuzione Generale,FORN-008,SKU-3021,Caffe miscela bar,,26.555,g,14.0,371.77,22,1,08/04/2024
+50150,4,08/02/2024,Distribuzione Generale,FORN-008,SKU-2697,Farina 00,Secchi,20.223,kg,0.7961,16.1,4,NO,
+50150,5,08/02/2024,Distribuzione Generale,FORN-008,SKU-2057,Chianti bt 0.75,Vini,48.0,1,7.406,355.49,10,NO,09/03/2024
+50150,6,08-02-2024,Distribuzione Generale,FORN-008,SKU-9521,Uova fresche cat. A,Latticini,66.0,1,0.3023,19.95,22,NO,08/04/2024
+50151,1,09/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8153,Rucola,,6.131,KG,3.4303,21.03,10,SI,09/05/2024
+50151,2,09/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7169,Caffe miscela bar,Bevande,20.495,KG,15.3123,313.83,10,SI,10/03/2024
+50151,3,09/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1896,Uova fresche cat. A,Latticini,268.0,cad,0.239,64.05,10,SI,10/03/2024
+50151,4,09/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2020,Petto di pollo,Carni,3.287,kilo,8.8972,29.25,4,SI,09/04/2024
+50151,5,09/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2873,Olio EVO,Condimenti,3.77,1000ml,7.6931,29.0,4,SI,10/03/2024
+50151,6,09/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-5928,Branzino fresco,Pesce,27.539,KG,15.3478,422.66,5,NO,09/05/2024
+50151,7,09/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1712,Filetto di manzo,Carni,9.08,g,38.0,345.04,10,SI,
+50152,1,10/02/2024,Latteria Alpina Coop,FORN-005,SKU-1915,Riso Carnaroli,,18.573,kilo,3.1315,58.16,10,NO,11/03/2024
+50152,2,10/02/2024,Latteria Alpina Coop,FORN-005,SKU-1500,Pomodorini ciliegino,,8.281,kg,3.4933,28.93,10,0,10/05/2024
+50152,3,10/02/2024,Latteria Alpina Coop,FORN-005,SKU-8602,Branzino fresco,Pesce,2.99,Kg,19.9353,59.61,22,no,10/04/2024
+50152,4,10/02/2024,Latteria Alpina Coop,FORN-005,SKU-1435,Costata di manzo,Carni,4.484,g,,,4,S,10/04/2024
+50153,1,13/02/2024,Beverages Distribution,FORN-007,SKU-6774,Costata di manzo,Carni,28.791,Kg,32.366,931.85,22,NO,13/05/2024
+50153,2,13/02/2024,Beverages Distribution,FORN-007,SKU-9894,Salmone intero,Pesce,23.381,KG,16.3043,381.21,22,NO,13/04/2024
+50153,3,13/02/2024,Beverages Distribution,FORN-007,SKU-3508,Vino Chianti DOCG bt,Vini,7.0,bott,,,,SI,13/05/2024
+50153,4,13/02/2024,Beverages Distribution,FORN-007,SKU-9305,Branzino fresco,Pesce,12.273,KG,20.8092,255.39,10,SI,13/04/2024
+50153,5,13/02/2024,Beverages Distribution,FORN-007,SKU-8796,Uova fresche cat. A,Latticini,129.0,pezzi,0.3021,38.97,10,si,14/03/2024
+50153,6,2024/02/13,Beverages Distribution,FORN-007,SKU-8379,Olio extra vergine,Condimenti,7.11,0.75,10.0312,71.32,22,SI,13/04/2024
+50153,7,2024/02/13,Beverages Distribution,FORN-007,SKU-1409,Petto di pollo,Carni,28.166,kg,8.0639,227.13,10,NO,13/04/2024
+50153,8,13/02/2024,Beverages Distribution,FORN-007,SKU-2314,Prosecco DOC,Vini,31.0,bott,4.6689,144.74,22,NO,14/03/2024
+50154,1,16/02/2024,Beverages Distribution,FORN-007,SKU-7075,Filetto di manzo,Carni,7.813,kg,44.3335,346.38,22,SI,16/05/2024
+50154,2,16/02/2024,Beverages Distribution,FORN-007,SKU-5171,Latte intero,Latticini,12.57,LT,1.273,16.0,10,NO,16/05/2024
+50154,3,16/02/2024,Beverages Distribution,FORN-007,SKU-7703,Pasta tagliatelle,Secchi,12.004,kilo,2.4915,29.91,4,SI,16/04/2024
+50154,4,16/02/2024,Beverages Distribution,FORN-007,SKU-7177,Sale fino,Condimenti,14.033,KG,0.342,4.8,22,SI,16/04/2024
+50154,5,16/02/2024,Beverages Distribution,FORN-007,SKU-9081,Insalata mista,Verdure,7.882,kilo,,,4,,17/03/2024
+50155,1,17/02/2024,Cantina Toscana SpA,FORN-004,SKU-9374,VINO TIGNANELLO,Vini,15.0,0.75,84.6865,1270.3,22,1,17/04/2024
+50155,2,17/02/2024,Cantina Toscana SpA,FORN-004,SKU-7413,Petto di pollo,Carni,10.215,KG,9.3206,95.21,,NO,18/03/2024
+50155,3,17-02-2024,Cantina Toscana SpA,FORN-004,SKU-7325,LATTE 1L,Latticini,7.87,lt,1.1192,8.81,10,1,18/03/2024
+50156,1,21/02/2024,Cantina Vinicola Toscana,FORN-004,SKU-8685,Riso Carnaroli,Secchi,21.642,kg,3.7834,81.88,10,SI,21/04/2024
+50156,2,21/02/2024,Cantina Vinicola Toscana,FORN-004,SKU-4774,Salmone intero,Pesce,18.479,1000g,0.14,2.59,,NO,21/04/2024
+50156,3,21/02/2024,Cantina Vinicola Toscana,FORN-004,SKU-6927,Prosecco DOC,Vini,34.0,bott,5.2549,178.67,10,SI,21/05/2024
+50157,1,25/02/2024,Latteria Alpina Coop,FORN-005,SKU-4691,Sale fino,Condimenti,8.0,Kg,0.4158,3.33,5,SI,25/05/2024
+50157,2,25/02/2024,Latteria Alpina Coop,FORN-005,SKU-4511,Caffe miscela bar,Bevande,15.539,g,14.0,217.55,10,NO,25/05/2024
+50157,3,25/02/2024,Latteria Alpina Coop,FORN-005,SKU-9192,Acqua 1000ml,Bevande,278.0,pz,0.3229,89.77,4,SI,25/04/2024
+50157,4,25/02/2024,Latteria Alpina Coop,FORN-005,SKU-6647,Insalata mista,Verdure,14.607,KG,2.7138,39.64,10,SI,26/03/2024
+50157,5,25/02/2024,Latteria Alpina Coop,FORN-005,SKU-8615,PARM.REGG.,Latticini,7.653,KG,14.306,109.48,22,SI,26/03/2024
+50158,1,28/02/2024,Molino Pasta Artigianale,FORN-006,SKU-3648,uova fresche,Latticini,212.0,1,0.2697,57.18,22,1,24/02/2024
+50158,2,28/02/2024,Molino Pasta Artigianale,FORN-006,SKU-2860,Vino Tignanello,Vini,47.0,bott,69.2222,3253.44,10,NO,29/03/2024
+50158,3,28/02/2024,Molino Pasta Artigianale,FORN-006,SKU-2797,Prosecco DOC,Vini,16.0,bott,4.254,68.06,,si,28/05/2024
+50158,4,28/02/2024,Molino Pasta Artigianale,FORN-006,SKU-1560,Insalata mista,Verdure,19.486,Kg,2.9553,57.59,4,NO,28/04/2024
+50158,5,28/02/2024,Molino Pasta Artigianale,FORN-006,SKU-9886,Panna fresca,Latticini,3.23,LT,2.4222,7.82,10,SI,28/04/2024
+50158,6,28/02/2024,Molino Pasta Artigianale,FORN-006,SKU-6939,Pomodorini ciliegino,Verdure,12.88,g,3.2,41.22,10,SI,28/05/2024
+50158,7,28/02/2024,Molino Pasta Artigianale,FORN-006,SKU-3840,Salmone intero,Pesce,25.956,1000g,12.2055,316.81,4,SI,29/03/2024
+50159,1,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6433,Insalata mista,,7.573,kg,2.7921,21.14,22,SI,29/04/2024
+50159,2,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3020,Riso Carnaroli,Secchi,7.228,g,3.2,23.13,4,NO,29/04/2024
+50159,3,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6333,Burrata ,Latticini,240.0,cad,2.9005,696.12,4,SI,30/03/2024
+50159,4,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6956,Vongole fresche,Pesce,1.107,g,9.0,9.96,10,NO,29/05/2024
+50159,5,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9254,Rucola,Verdure,29.124,kg,3.748,109.16,,NO,29/04/2024
+50159,6,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6529,Vino Tignanello,Vini,34.0,bt,84.9152,2887.12,4,SI,29/04/2024
+50159,7,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8092,Pasta tagliatell,Secchi,8.864,g,2.1,18.61,22,NO,29/05/2024
+50159,8,29/02/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9684,Parmigiano Reggiano 24m,Latticini,4.916,1000g,18.1797,89.37,4,NO,30/03/2024
+50160,1,03/03/2024,Molino Pasta Artigianale,FORN-006,SKU-9266,Prosecco DOC,Vini,23.0,bott,4.1598,95.68,,NO,02/05/2024
+50160,2,03/03/2024,Molino Pasta Artigianale,FORN-006,SKU-2926,Insalata mista,Verdure,29.733,KG,2.5756,76.58,,SI,02/05/2024
+50160,3,03/03/2024,Molino Pasta Artigianale,FORN-006,SKU-7345,Burrata,Latticini,273.0,1,3.3246,907.62,10,SI,
+50160,4,03/03/2024,Molino Pasta Artigianale,FORN-006,SKU-1766,Porcini kg,Funghi,28.753,kilo,48.0962,1382.91,22,NO,02/04/2024
+50160,5,03/03/2024,Molino Pasta Artigianale,FORN-006,SKU-3156,Parmigiano 24m,Latticini,8.896,KG,15.0315,133.72,4,1,01/06/2024
+50161,1,06/03/2024,Distribuzione Generale,FORN-008,SKU-2730,Acqua minerale 1L,Bevande,69.0,nr,,,10,no,05/05/2024
+50161,2,06/03/2024,Distribuzione Generale,FORN-008,SKU-9364,Rucola,,13.754,Kg,4.6752,64.3,10,NO,05/04/2024
+50161,3,06/03/2024,Distribuzione Generale,FORN-008,SKU-3630,Fil. Manzo,Carni,21.259,kg,42.9366,912.79,22,SI,05/04/2024
+50161,4,06/03/2024,Distribuzione Generale,FORN-008,SKU-6105,Vongole fresche,Pesce,3.419,KG,8.2949,28.36,22,NO,05/04/2024
+50161,5,06/03/2024,Distribuzione Generale,FORN-008,SKU-5045,Prosecco DOC,Vini,44.0,bott,4.7214,207.74,22,SI,05/04/2024
+50161,6,06/03/2024,Distribuzione Generale,FORN-008,SKU-1667,Porcini freschi kg,Funghi,6.973,1000g,42.1397,293.84,4,SI,04/06/2024
+50161,7,06/03/2024,Distribuzione Generale,FORN-008,SKU-5863,Costata di manzo,Carni,9.32,kg,,,10,SI,04/06/2024
+50161,8,06/03/2024,Distribuzione Generale,FORN-008,SKU-1425,Caffe miscela bar,Bevande,25.69,KG,15.2139,390.85,10,SI,05/04/2024
+50162,1,08/03/2024,Macelleria Bianchi SRL,FORN-001,SKU-5460,Branzino fresco,,28.493,1000g,18.1652,517.58,10,NO,06/06/2024
+50162,2,08/03/2024,Macelleria Bianchi SRL,FORN-001,SKU-1469,Prosecco DOC,Vini,23.0,0.75,5.6304,129.5,10,NO,07/05/2024
+50162,3,08/03/2024,Macelleria Bianchi SRL,FORN-001,SKU-5603,Riso Carnaroli,Secchi,5.445,g,3.2,17.42,10,NO,07/05/2024
+50162,4,08-03-2024,Macelleria Bianchi SRL,FORN-001,SKU-1607,Burrata,Latticini,146.0,1,3.1045,453.26,4,SI,07/05/2024
+50162,5,08/03/2024,Macelleria Bianchi SRL,FORN-001,SKU-5742,Vino Tignanello,Vini,25.0,750ml,66.8412,1671.03,22,SI,07/04/2024
+50162,6,08/03/2024,Macelleria Bianchi SRL,FORN-001,SKU-3921,Acqua minerale 1L,Bevande,214.0,pz,0.316,67.62,10,SI,07/04/2024
+50163,1,09/03/2024,Distribuzione Generale,FORN-008,SKU-5926,Panna fresca,Latticini,13.16,l,2.1923,28.85,10,SI,08/05/2024
+50163,2,09/03/2024,Distribuzione Generale,FORN-008,SKU-2394,Salmone intero,Pesce,12.885,g,14.0,180.39,22,NO,07/06/2024
+50163,3,09/03/2024,Distribuzione Generale,FORN-008,SKU-3377,LATTE 1L,Latticini,2.64,0.75,1.0492,2.77,4,SI,08/05/2024
+50163,4,09/03/2024,Distribuzione Generale,FORN-008,SKU-3806,Porcini freschi,Funghi,16.024,KG,43.4485,696.22,22,SI,08/04/2024
+50163,5,09/03/2024,Distribuzione Generale,FORN-008,SKU-5272,Acqua minerale 1L,Bevande,117.0,1,0.3703,43.33,10,SI,07/06/2024
+50163,6,09/03/2024,Distribuzione Generale,FORN-008,SKU-3794,Olio EVO,,4.65,L,7.9764,37.09,22,SI,08/04/2024
+50163,7,09/03/2024,Distribuzione Generale,FORN-008,SKU-9826,Riso Carnaroli,,1.641,g,3.2,5.25,22,NO,07/06/2024
+50164,1,12/03/2024,Beverages Distribution,FORN-007,SKU-7966,Rucola,Verdure,25.968,Kg,3.4298,89.07,10,SI,11/05/2024
+50164,2,12/03/2024,Beverages Distribution,FORN-007,SKU-9764,Vino Tignanello,Vini,33.0,bt,69.6478,2298.38,4,1,11/05/2024
+50164,3,12/03/2024,Beverages Distribution,FORN-007,SKU-4277,Latte intero,,3.74,L,1.2135,4.54,10,NO,02/03/2024
+50164,4,12/03/2024,Beverages Distribution,FORN-007,SKU-5705,Prosecco DOC,Vini,31.0,0.75,5.1954,161.06,10,0,11/04/2024
+50164,5,12/03/2024,Beverages Distribution,FORN-007,SKU-6768,Caffe miscela bar,Bevande,22.734,Kg,15.4785,351.89,10,SI,11/04/2024
+50164,6,12/03/2024,Beverages Distribution,FORN-007,SKU-9198,filetto manzo kg,Carni,21.85,kilo,38.1032,832.55,22,SI,11/05/2024
+50164,7,12/03/2024,Beverages Distribution,FORN-007,SKU-9244,Branzino fresco,Pesce,27.044,g,18.0,486.79,4,SI,11/05/2024
+50165,1,13/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-6928,Porcini freschi,Funghi,19.788,g,45.0,890.46,22,NO,11/06/2024
+50165,2,13/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-2328,Sale 100/kg,Condimenti,7.675,kg,0.4515,3.47,22,0,12/04/2024
+50165,3,13/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-6187,Caffe miscela bar,Bevande,9.18,Kg,12.3963,113.8,10,SI,11/06/2024
+50165,4,13/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-9244,Salmone intero,Pesce,15.611,Kg,12.1236,189.26,22,SI,11/06/2024
+50165,5,13/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-5909,Riso Carnaroli,Secchi,7.831,g,3.2,25.06,22,NO,
+50165,6,13/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-5397,Uova fresche cat. A,,232.0,cad,0.2515,58.35,10,NO,11/06/2024
+50166,1,15/03/2024,Distribuzione Generale,FORN-008,SKU-4066,Riso C@rnaroli,Secchi,26.469,g,3.2,84.7,10,SI,13/06/2024
+50166,2,2024/03/15,Distribuzione Generale,FORN-008,SKU-6224,Costata di manzo,Carni,24.366,g,28.0,682.25,22,si,14/05/2024
+50166,3,15/03/2024,Distribuzione Generale,FORN-008,SKU-1042,Filetto di manzo,Carni,5.967,KG,33.7362,201.3,22,NO,
+50166,4,15/03/2024,Distribuzione Generale,FORN-008,SKU-2901,Farina 00,Secchi,17.138,kg,0.9238,15.83,10,SI,14/04/2024
+50167,1,17/03/2024,Pescheria Del Mare SNC,FORN-002,SKU-2635,Filetto manzo,Carni,28.17,kg,37.1591,1046.77,,SI,15/06/2024
+50167,2,17/03/2024,Pescheria Del Mare SNC,FORN-002,SKU-8342,Latte fresco int,Latticini,17.11,L,1.2731,21.78,5,SI,15/06/2024
+50167,3,17/03/2024,Pescheria Del Mare SNC,FORN-002,SKU-2868,Vino Tignanello,Vini,35.0,bt,68.7489,2406.21,10,NO,16/04/2024
+50167,4,17/03/2024,Pescheria Del Mare SNC,FORN-002,SKU-6666,Vongole fresche,Pesce,27.085,kilo,10.0847,273.14,22,SI,16/04/2024
+50167,5,17/03/2024,Pescheria Del Mare SNC,FORN-002,SKU-1467,Riso Carnaroli,Secchi,6.027,kilo,2.9792,17.96,10,SI,16/04/2024
+50167,6,17/03/2024,Pescheria Del Mare SNC,FORN-002,SKU-9831,Pomodorini ciliegino,Verdure,23.286,g,160.0,3725.76,22,NO,16/05/2024
+50167,7,2024/03/17,Pescheria Del Mare SNC,FORN-002,SKU-4740,Sale fino,Condimenti,5.716,Kg,0.3677,2.1,10,NO,16/04/2024
+50167,8,17/03/2024,Pescheria Del Mare SNC,FORN-002,SKU-1153,  Pasta tagliatelle,Secchi,14.789,KG,2.2689,33.55,10,SI,15/06/2024
+50168,1,19/03/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7945,Sale fino,Condimenti,8.116,kg,0.4372,3.55,4,SI,18/04/2024
+50168,2,19-03-2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9916,Acqua minerale 1L,Bevande,193.0,nr,0.409,78.94,10,SI,17/06/2024
+50168,3,19-03-2024,Ortofrutta Rossi e Figli,FORN-003,SKU-4304,farina 00,Secchi,1.492,KG,0.9058,1.35,5,SI,18/04/2024
+50168,4,19/03/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6750,FILETTO DI MANZO,Carni,16.853,kilo,37.5919,633.54,10,SI,17/06/2024
+50169,1,23/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-9449,Acqua minerale 1L,Bevande,227.0,pezzi,0.2983,67.71,4,NO,22/05/2024
+50169,2,23/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-1561,Vongole fresche,Pesce,29.356,1000g,900.0,26420.4,4,SI,21/06/2024
+50169,3,23/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-9267,Panna fresca,Latticini,3.66,1000ml,2.7304,9.99,22,SI,22/05/2024
+50169,4,23/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-7849,Uova fresche cat. A,Latticini,167.0,PZ,0.3116,52.04,22,SI,
+50169,5,23/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-4941,Caffe miscela bar,Bevande,12.708,1000g,13.2019,167.77,4,1,22/05/2024
+50169,6,23/03/2024,Cantina Vinicola Toscana,FORN-004,SKU-7986,SALE,Condimenti,2.703,kg,0.3991,1.08,5,SI,22/04/2024
+50170,1,26/03/2024,Cantina Toscana SpA,FORN-004,SKU-9127,Caffe miscela bar,Bevande,15.059,kilo,12.3021,185.26,10,si,25/05/2024
+50170,2,26/03/2024,Cantina Toscana SpA,FORN-004,SKU-3516,Vongole fresche,Pesce,6.189,kilo,9.4463,58.46,22,SI,25/05/2024
+50170,3,2024/03/26,Cantina Toscana SpA,FORN-004,SKU-5759,Olio oliva EVO,Condimenti,12.2,LT,9.6105,117.25,10,SI,25/04/2024
+50170,4,26/03/2024,Cantina Toscana SpA,FORN-004,SKU-6332,Latte intero,Latticini,12.18,1000ml,1.0445,12.72,4,NO,
+50170,5,26/03/2024,Cantina Toscana SpA,FORN-004,SKU-9169,Pasta tagliatelle,Secchi,27.935,KG,2.0147,56.28,22,SI,25/05/2024
+50170,6,26/03/2024,Cantina Toscana SpA,FORN-004,SKU-6553,Costata di manzo,Carni,11.827,kilo,30.0033,354.85,10,si,24/06/2024
+50170,7,26/03/2024,Cantina Toscana SpA,FORN-004,SKU-5891,parmigiano,Latticini,19.308,g,16.5,318.58,4,NO,25/05/2024
+50170,8,26/03/2024,Cantina Toscana SpA,FORN-004,SKU-5579,Rucola,Verdure,5.018,Kg,4.5719,22.94,10,SI,21/03/2024
+50171,1,28/03/2024,Molino Pasta Artigianale,FORN-006,SKU-2911,Parmigiano 24m,Latticini,5.462,g,16.5,90.12,10,SI,27/05/2024
+50171,2,28/03/2024,Molino Pasta Artigianale,FORN-006,SKU-8382,Burrata,Latticini,127.0,pz,3.1968,405.99,10,,26/06/2024
+50171,3,28/03/2024,Molino Pasta Artigianale,FORN-006,SKU-6044,Panna fresca,Latticini,12.04,1000ml,2.8503,34.32,22,SI,26/06/2024
+50171,4,28/03/2024,Molino Pasta Artigianale,FORN-006,SKU-4618,Petto di pollo,Carni,10.221,g,8.5,86.88,10,NO,27/05/2024
+50171,5,28/03/2024,Molino Pasta Artigianale,FORN-006,SKU-5703,Olio oliva EVO,Condimenti,4.2,L,9.8394,41.33,22,SI,26/06/2024
+50171,6,28/03/2024,Molino Pasta Artigianale,FORN-006,SKU-6054,Latte intero,Latticini,7.46,1000ml,1.2432,9.27,10,S,27/04/2024
+50172,1,01/04/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8951,Salmone intero,Pesce,2.781,KG,13.0269,36.23,10,SI,31/05/2024
+50172,2,01/04/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6317,Pasta tagliatelle,Secchi,10.306,kg,1.9843,20.45,10,NO,
+50172,3,2024/04/01,BIANCHI CARNI s.r.l.,FORN-001,SKU-9309,Vongole fresche,Pesce,4.218,kilo,9.5021,40.08,10,SI,31/05/2024
+50172,4,01/04/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-5865,Costata di manzo,Carni,7.003,kilo,27.0181,189.21,22,NO,31/05/2024
+50172,5,01/04/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-5395,Filetto di manzo,Carni,3.411,kg,1900.0,6480.9,10,si,30/06/2024
+50172,6,01/04/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2967,Petto di pollo,,5.787,1000g,9.4973,54.96,22,,31/05/2024
+50172,7,01/04/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7515,Latte fresco int,Latticini,19.94,LT,1.1466,22.86,,NO,24/03/2024
+50173,1,04/04/2024,Distribuzione Generale,FORN-008,SKU-2464,Petto di pollo,Carni,27.433,KG,9.3176,255.61,,SI,03/07/2024
+50173,2,04/04/2024,Distribuzione Generale,FORN-008,SKU-8809,Costata di manzo,Carni,1.946,g,28.0,54.49,4,NO,03/06/2024
+50173,3,04/04/2024,Distribuzione Generale,FORN-008,SKU-8832,Porcini kg,Funghi,1.257,1000g,53.8858,67.73,4,SI,03/06/2024
+50173,4,04/04/2024,Distribuzione Generale,FORN-008,SKU-1364,Rucola,Verdure,16.818,kilo,4.6666,78.48,4,NO,03/06/2024
+50174,1,07/04/2024,Cantina Vinicola Toscana,FORN-004,SKU-6092,Uova fresche cat. A,Latticini,89.0,PZ,0.2666,23.73,10,SI,07/05/2024
+50174,2,07/04/2024,Cantina Vinicola Toscana,FORN-004,SKU-5123,OLIO EVO lt,,16.08,1000ml,8.7923,141.38,4,SI,07/05/2024
+50174,3,07/04/2024,Cantina Vinicola Toscana,FORN-004,SKU-6456,Filetto manzo,Carni,28.981,kilo,39.1289,1133.99,10,1,07/05/2024
+50174,4,07/04/2024,Cantina Vinicola Toscana,FORN-004,SKU-9525,Pomodorini ciliegino,Verdure,18.427,Kg,3.0297,55.83,22,si,06/06/2024
+50175,1,09-04-2024,Macelleria Bianchi SRL,FORN-001,SKU-1171,Filetto di manzo,Carni,9.583,1000g,43.5013,416.87,22,no,23/03/2024
+50175,2,09/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-2950,Olio oliva EVO,Condimenti,8.13,l,9.0126,73.27,22,1,08/07/2024
+50175,3,09/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-9247,Sale fino kg,Condimenti,16.463,Kg,0.4781,7.87,10,SI,08/07/2024
+50175,4,09/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-6685,Vongole  fresche,Pesce,20.894,kilo,9.1347,190.86,4,SI,08/07/2024
+50175,5,09/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-8268,Porcini kg,Funghi,9.382,1000g,39.8644,374.01,22,NO,08/07/2024
+50175,6,2024/04/09,Macelleria Bianchi SRL,FORN-001,SKU-5697,Insalata mista,Verdure,28.385,Kg,2.1351,60.6,10,si,09/05/2024
+50176,1,12/04/2024,Distribuzione Generale,FORN-008,SKU-1281,Panna fresca,Latticini,2.36,0.75,2.306,5.44,4,SI,11/07/2024
+50176,2,12/04/2024,Distribuzione Generale,FORN-008,SKU-7874,SALE,Condimenti,15.087,1000g,0.3969,5.99,10,SI,11/07/2024
+50176,3,12/04/2024,Distribuzione Generale,FORN-008,SKU-9495,Porcini freschi,Funghi,6.499,kilo,41.2312,267.96,22,NO,11/06/2024
+50176,4,12/04/2024,Distribuzione Generale,FORN-008,SKU-3515,Burrata,Latticini,124.0,cad,2.8968,359.2,4,,11/06/2024
+50176,5,12/04/2024,Distribuzione Generale,FORN-008,SKU-5230,Riso Carnaroli,Secchi,10.897,kg,3.1262,34.07,22,SI,11/06/2024
+50177,1,16/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-2159,Olio oliva EVO,Condimenti,2.03,1000ml,9.6821,19.65,22,SI,16/05/2024
+50177,2,16/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-1626,Pasta tagliatelle,Secchi,18.931,1000g,2.1169,40.08,10,SI,15/07/2024
+50177,3,16/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-7759,Filetto di manzo,Carni,17.714,kilo,32.9208,583.16,4,si,
+50177,4,16/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-2842,Sale fino,Condimenti,6.472,KG,0.4052,2.62,22,SI,16/05/2024
+50177,5,2024/04/16,Macelleria Bianchi SRL,FORN-001,SKU-3766,Petto di pollo,Carni,28.566,g,8.5,242.81,,NO,15/07/2024
+50178,1,17/04/2024,Molino Pasta Artigianale,FORN-006,SKU-9763,Parmigiano Reggiano 24m,,17.458,kilo,19.689,343.73,4,S,16/07/2024
+50178,2,17/04/2024,Molino Pasta Artigianale,FORN-006,SKU-6106,Riso Carnaroli,Secchi,27.843,kg,3.1365,87.33,10,si,17/05/2024
+50178,3,17/04/2024,Molino Pasta Artigianale,FORN-006,SKU-1143,Pomodorini ciliegino,Verdure,29.893,Kg,3.3296,99.53,10,SI,17/05/2024
+50178,4,17/04/2024,Molino Pasta Artigianale,FORN-006,SKU-4523,Salmone intero,Pesce,7.599,Kg,15.3469,116.62,22,SI,16/07/2024
+50178,5,17/04/2024,Molino Pasta Artigianale,FORN-006,SKU-5269,Farina 00,,28.09,kilo,0.9325,26.19,10,no,17/05/2024
+50178,6,17/04/2024,Molino Pasta Artigianale,FORN-006,SKU-7806,Olio oliva EVO,Condimenti,3.72,ml,8.5,31.62,,1,16/06/2024
+50179,1,20/04/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6653,Uova fresche cat. ,Latticini,215.0,pz,0.251,53.97,10,NO,
+50179,2,20/04/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2839,Vongole fresche,Pesce,18.717,g,9.0,168.45,22,NO,19/07/2024
+50179,3,20/04/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2305,Vino Tignanello,Vini,30.0,0.75,70.1975,2105.93,10,SI,20/05/2024
+50179,4,20/04/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-5851,Acqua minerale 1L,Bevande,156.0,nr,0.3161,49.31,10,SI,
+50180,1,22/04/2024,Latteria Alpina Coop,FORN-005,SKU-8122,Latte intero,Latticini,3.7,L,0.9847,3.64,22,NO,22/05/2024
+50180,2,2024/04/22,Latteria Alpina Coop,FORN-005,SKU-5379,Farina 00,Secchi,3.622,1000g,1.0066,3.65,22,SI,21/06/2024
+50180,3,22/04/2024,Latteria Alpina Coop,FORN-005,SKU-9364,Sale fino,Condimenti,28.134,KG,0.4078,11.47,22,NO,21/06/2024
+50180,4,22/04/2024,Latteria Alpina Coop,FORN-005,SKU-5938,COSTATA DI MANZO,Carni,23.129,g,28.0,647.61,10,S,21/06/2024
+50180,5,22/04/2024,Latteria Alpina Coop,FORN-005,SKU-2415,ACQUA NAT 1L,Bevande,139.0,pezzi,0.302,41.98,10,NO,21/06/2024
+50180,6,22/04/2024,Latteria Alpina Coop,FORN-005,SKU-2999,Riso Carnaroli,Secchi,1.447,KG,3.1591,4.57,4,SI,22/05/2024
+50180,7,22/04/2024,Latteria Alpina Coop,FORN-005,SKU-8995,Parmigiano 24m,Latticini,6.201,g,16.5,102.32,4,1,21/07/2024
+50181,1,25/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-3262,Prosecco DOC,Vini,31.0,BT,5.3721,166.54,22,SI,25/05/2024
+50181,2,25/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-3802,Costata di manzo,Carni,17.275,KG,27.2597,470.91,10,NO,25/05/2024
+50181,3,25/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-7750,Farina 00,,12.525,1000g,0.932,11.67,22,NO,24/06/2024
+50181,4,25/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-1957,Panna fresca,Latticini,9.23,lt,2.6873,24.8,22,SI,
+50181,5,25/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-1966,Parmigiano Reggiano 24m,Latticini,7.84,kg,14.8936,116.77,10,SI,25/05/2024
+50181,6,25/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-2556,Burrata,Latticini,129.0,cad,2.5534,329.39,10,SI,25/05/2024
+50181,7,25/04/2024,Macelleria Bianchi SRL,FORN-001,SKU-4306,Pasta tagliatelle,Secchi,16.35,g,2.1,34.34,22,SI,24/06/2024
+50182,1,28/04/2024,Beverages Distribution,FORN-007,SKU-2095,Costata di manzo,Carni,13.052,g,28.0,365.46,,NO,27/07/2024
+50182,2,2024/04/28,Beverages Distribution,FORN-007,SKU-9117,Caffe miscela bar,Bevande,19.064,1000g,12.8163,244.33,10,SI,28/05/2024
+50182,3,28/04/2024,Beverages Distribution,FORN-007,SKU-3552,Pomodorini ciliegino,Verdure,17.97,Kg,3.7205,66.86,22,1,27/07/2024
+50183,1,01/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-2775,sale grosso,Condimenti,21.896,kilo,0.4676,10.24,10,SI,30/06/2024
+50183,2,01/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-7315,Prosecco DOC,Vini,30.0,1,5.7059,171.18,10,si,31/05/2024
+50183,3,01/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-1879,  Filetto di manzo,Carni,2.652,g,38.0,100.78,5,NO,31/05/2024
+50183,4,01/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-3775,Rucola,Verdure,19.352,KG,3.9649,76.73,4,NO,30/07/2024
+50183,5,01/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-2714,Latte fresco int,Latticini,6.58,L,1.2707,8.36,10,S,31/05/2024
+50184,1,02/05/2024,Distribuzione Generale,FORN-008,SKU-2549,Porcini freschi,Funghi,20.112,1000g,53.3726,1073.43,22,NO,01/06/2024
+50184,2,02/05/2024,Distribuzione Generale,FORN-008,SKU-8761,Costata di manzo,Carni,3.605,1000g,24.1724,87.14,10,SI,01/06/2024
+50184,3,02/05/2024,Distribuzione Generale,FORN-008,SKU-9957,Riso Carnaroli,Secchi,6.012,g,,,4,SI,27/04/2024
+50185,1,06/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-2498,Costata di manzo,,22.365,kilo,27.1078,606.27,22,NO,05/06/2024
+50185,2,06/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-9035,Latte intero,,15.07,LT,0.9567,14.42,,,04/08/2024
+50185,3,06-05-2024,Macelleria Bianchi SRL,FORN-001,SKU-4779,Vongole fresche,Pesce,16.535,g,9.0,148.81,5,SI,05/07/2024
+50185,4,06/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-4005,Panna fresca,Latticini,9.99,L,2.1895,21.87,22,SI,04/08/2024
+50185,5,06/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-7162,Petto di pollo,Carni,23.12,kilo,9.0462,209.15,10,SI,05/07/2024
+50185,6,06/05/2024,Macelleria Bianchi SRL,FORN-001,SKU-1257,Parmigiano Reggiano 24m,,4.363,Kg,15.405,67.21,10,SI,04/08/2024
+50186,1,09/05/2024,Molino Pasta Artigianale,FORN-006,SKU-7844,Riso Carnaroli,Secchi,22.428,Kg,3.5484,79.58,22,SI,
+50186,2,09/05/2024,Molino Pasta Artigianale,FORN-006,SKU-9326,latte intero lt,Latticini,15.65,l,1.0851,16.98,10,SI,08/06/2024
+50186,3,09/05/2024,Molino Pasta Artigianale,FORN-006,SKU-5925,Parmigiano Reggiano,Latticini,1.87,Kg,14.9632,27.98,4,NO,07/08/2024
+50186,4,09/05/2024,Molino Pasta Artigianale,FORN-006,SKU-9137,Uova Cat.A 30pz,Latticini,264.0,PZ,14.0,3696.0,22,NO,08/07/2024
+50186,5,09/05/2024,Molino Pasta Artigianale,FORN-006,SKU-8192,Prosecco DOC,Vini,11.0,1,4.6649,51.31,10,SI,07/08/2024
+50186,6,09/05/2024,Molino Pasta Artigianale,FORN-006,SKU-4361,Costata di manzo,Carni,24.456,KG,32.6244,797.86,5,SI,07/08/2024
+50187,1,13/05/2024,Latteria Alpina Coop,FORN-005,SKU-4812,uova fresche,Latticini,47.0,PZ,0.3205,15.06,4,SI,12/06/2024
+50187,2,13/05/2024,Latteria Alpina Coop,FORN-005,SKU-7038,Acqua 1000ml,,132.0,pz,0.3268,43.14,10,SI,11/08/2024
+50187,3,13/05/2024,Latteria Alpina Coop,FORN-005,SKU-6377,Costata di manzo,Carni,25.142,Kg,23.9804,602.92,5,SI,11/08/2024
+50187,4,13/05/2024,Latteria Alpina Coop,FORN-005,SKU-3477,Farina 00,Secchi,12.78,kilo,0.7722,9.87,10,SI,11/08/2024
+50188,1,17/05/2024,Beverages Distribution,FORN-007,SKU-8470,Panna fresca,Latticini,9.99,ml,2.4,23.98,22,NO,16/07/2024
+50188,2,17/05/2024,Beverages Distribution,FORN-007,SKU-4043,sale grosso,Condimenti,11.179,KG,0.4444,4.97,10,NO,15/08/2024
+50188,3,2024/05/17,Beverages Distribution,FORN-007,SKU-4578,Rucola,Verdure,22.385,Kg,3.7259,83.4,22,NO,15/08/2024
+50188,4,17/05/2024,Beverages Distribution,FORN-007,SKU-4214,Vino Tignanello,Vini,28.0,BT,66.3947,1859.05,10,NO,16/07/2024
+50188,5,17/05/2024,Beverages Distribution,FORN-007,SKU-7267,Porcini freschi,Funghi,6.718,Kg,41.9912,282.1,4,SI,15/08/2024
+50188,6,17/05/2024,Beverages Distribution,FORN-007,SKU-5117,LATTE 1L,Latticini,17.55,0.75,1.0399,18.25,22,NO,16/07/2024
+50188,7,17/05/2024,Beverages Distribution,FORN-007,SKU-8316,PARM.REGG.,Latticini,19.504,1000g,15.9332,310.76,22,SI,15/08/2024
+50188,8,17/05/2024,Beverages Distribution,FORN-007,SKU-4374,olio evo lt,Condimenti,13.52,L,9.9849,135.0,22,1,16/07/2024
+50189,1,20/05/2024,Latteria Alpina Coop,FORN-005,SKU-3884,PARM.REGG.,Latticini,21.73,kilo,16.6094,360.92,22,NO,15/05/2024
+50189,2,20/05/2024,Latteria Alpina Coop,FORN-005,SKU-9826,Pomodorini  ciliegino,Verdure,6.744,Kg,2.9396,19.82,22,S,
+50189,3,20/05/2024,Latteria Alpina Coop,FORN-005,SKU-1041,Sale fino,Condimenti,1.299,1000g,0.3853,0.5,22,NO,
+50189,4,20/05/2024,Latteria Alpina Coop,FORN-005,SKU-2955,Latte fresco int,Latticini,15.43,ml,1.1,16.97,10,SI,19/07/2024
+50189,5,20/05/2024,Latteria Alpina Coop,FORN-005,SKU-5487,Insalata  mista,Verdure,5.198,KG,2.3058,11.99,10,SI,19/07/2024
+50189,6,2024/05/20,Latteria Alpina Coop,FORN-005,SKU-9364,Olio extra vergine,Condimenti,18.72,L,9.9154,185.62,5,SI,18/08/2024
+50190,1,21/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-9719,latte intero lt,,18.06,1000ml,1.3082,23.63,10,0,20/06/2024
+50190,2,21/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-6206,Petto di pollo,Carni,4.77,kilo,9.8185,46.83,10,SI,20/06/2024
+50190,3,21/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-1163,Rucola,Verdure,5.993,Kg,4.1927,25.13,22,SI,20/07/2024
+50190,4,21/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-9401,Farina 00,Secchi,13.883,KG,0.7438,10.33,10,SI,19/08/2024
+50190,5,21/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-9413,chianti 75cl,Vini,48.0,bott,6.7128,322.21,10,SI,20/07/2024
+50191,1,23/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-8078,Farina 00,Secchi,11.903,KG,0.8029,9.56,4,SI,22/06/2024
+50191,2,23/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-7801,Acqua 1lt,Bevande,46.0,pezzi,0.3642,16.75,4,SI,22/06/2024
+50191,3,23/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-8947,Salmone intero,Pesce,16.209,1000g,16.311,264.38,10,NO,21/08/2024
+50191,4,23/05/2024,Pescheria Del Mare SNC,FORN-002,SKU-6480,Riso Carnaroli,Secchi,19.293,Kg,3.6886,71.16,22,NO,22/06/2024
+50192,1,25/05/2024,Cantina Toscana SpA,FORN-004,SKU-7010,Panna fresca,Latticini,11.3,ml,2.4,27.12,4,SI,24/07/2024
+50192,2,25/05/2024,Cantina Toscana SpA,FORN-004,SKU-6159,Prosecco DOC,Vini,22.0,bottiglia,4.0914,90.01,22,SI,24/06/2024
+50192,3,25/05/2024,Cantina Toscana SpA,FORN-004,SKU-8506,Rucola,Verdure,13.386,KG,200.0,2677.2,22,SI,24/06/2024
+50192,4,25/05/2024,Cantina Toscana SpA,FORN-004,SKU-1071,Filetto di manzo,Carni,19.742,KG,1900.0,37509.8,5,SI,24/06/2024
+50192,5,25/05/2024,Cantina Toscana SpA,FORN-004,SKU-2138,Riso Carnaroli,Secchi,29.455,KG,3.1038,91.42,10,si,24/06/2024
+50192,6,25/05/2024,Cantina Toscana SpA,FORN-004,SKU-4643,Latte intero,Latticini,15.84,ml,1.1,17.42,4,NO,23/08/2024
+50193,1,29/05/2024,Beverages Distribution,FORN-007,SKU-4739,Sale 100/kg,Condimenti,11.728,1000g,,,22,no,
+50193,2,29/05/2024,Beverages Distribution,FORN-007,SKU-6129,chianti 75cl,Vini,44.0,BT,7.1379,314.07,22,SI,28/07/2024
+50193,3,29/05/2024,Beverages Distribution,FORN-007,SKU-2990,Vino Tignanello,Vini,41.0,750ml,64.6369,2650.11,22,SI,27/08/2024
+50193,4,29/05/2024,Beverages Distribution,FORN-007,SKU-7760,Vongole fresche,Pesce,11.893,Kg,9.1706,109.07,4,S,27/08/2024
+50193,5,29/05/2024,Beverages Distribution,FORN-007,SKU-7177,Riso Carnaroli,Secchi,12.041,1000g,3.0046,36.18,22,1,27/08/2024
+50193,6,29/05/2024,Beverages Distribution,FORN-007,SKU-5416,Olio EVO,Condimenti,9.67,ml,8.5,82.19,22,SI,27/08/2024
+50193,7,29/05/2024,Beverages Distribution,FORN-007,SKU-5012,Filetto di manzo,Carni,24.311,KG,45.5336,1106.97,10,SI,27/08/2024
+50193,8,29/05/2024,Beverages Distribution,FORN-007,SKU-8573,Parmigiano Reggiano 24m,Latticini,29.553,1000g,14.6431,432.75,10,SI,28/06/2024
+50194,1,31/05/2024,Beverages Distribution,FORN-007,SKU-6145,Salmone intero,Pesce,25.003,g,14.0,350.04,,SI,30/07/2024
+50194,2,31/05/2024,Beverages Distribution,FORN-007,SKU-8437,Porcini freschi,Funghi,9.188,Kg,47.6804,438.09,10,SI,30/06/2024
+50194,3,31/05/2024,Beverages Distribution,FORN-007,SKU-4267,Pomodorini ciliegino,Verdure,24.903,kg,3.7398,93.13,10,,30/06/2024
+50194,4,31/05/2024,Beverages Distribution,FORN-007,SKU-8711,Olio oliva EVO,Condimenti,12.2,ml,8.5,103.7,,NO,27/05/2024
+50194,5,31/05/2024,Beverages Distribution,FORN-007,SKU-5752,Riso Carnaroli,Secchi,14.454,g,3.2,46.25,22,NO,29/08/2024
+50194,6,31/05/2024,Beverages Distribution,FORN-007,SKU-9663,Farina 00,,8.549,kg,0.7652,6.54,4,SI,29/08/2024
+50194,7,31/05/2024,Beverages Distribution,FORN-007,SKU-4615,Panna fresca,Latticini,3.09,lt,2.3438,7.24,22,NO,30/07/2024
+50195,1,03/06/2024,Distribuzione Generale,FORN-008,SKU-5779,Caffe miscela bar,Bevande,3.815,KG,15.2855,58.31,10,si,03/07/2024
+50195,2,03/06/2024,Distribuzione Generale,FORN-008,SKU-3923,Burrata,Latticini,114.0,1,2.4562,280.01,10,SI,02/08/2024
+50195,3,03/06/2024,Distribuzione Generale,FORN-008,SKU-4955,Rucola,Verdure,28.4,1000g,4.1868,118.91,10,1,03/07/2024
+50195,4,03/06/2024,Distribuzione Generale,FORN-008,SKU-8123,Pomodorini ciliegino,Verdure,16.807,Kg,3.0905,51.94,,si,03/07/2024
+50195,5,03/06/2024,Distribuzione Generale,FORN-008,SKU-5864,FILETTO DI MANZO,Carni,14.619,1000g,40.4007,590.62,10,SI,01/09/2024
+50196,1,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2663,Olio EVO,Condimenti,19.51,lt,9.5917,187.13,22,SI,03/08/2024
+50196,2,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-5263,Riso Carnaroli,Secchi,9.813,Kg,3.2351,31.75,10,SI,
+50196,3,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-4041,Pasta tagliatell,Secchi,27.621,1000g,2.3421,64.69,10,NO,04/07/2024
+50196,4,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8750,Panna fresca,Latticini,7.35,lt,2.559,18.81,4,0,03/08/2024
+50196,5,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-4269,Vino Tignanello,Vini,31.0,bt,83.7207,2595.34,10,si,02/09/2024
+50196,6,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8912,Pomodorini ciliegino,Verdure,6.93,Kg,3.7201,25.78,4,SI,04/07/2024
+50196,7,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8994,Salmone intero,Pesce,21.716,1000g,12.3947,269.16,10,SI,04/07/2024
+50196,8,04/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-4962,Insalata mist,Verdure,16.749,kilo,2.2946,38.43,10,NO,03/08/2024
+50197,1,06/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-7021,Acqua minerale 1L,Bevande,192.0,pz,0.3166,60.79,,SI,06/07/2024
+50197,2,06/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-4913,Vongole fresche,Pesce,22.017,1000g,9.8493,216.85,4,SI,01/06/2024
+50197,3,06/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-4282,Prosecco DOC,Vini,25.0,bott,4.4239,110.6,10,SI,06/07/2024
+50198,1,09/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-7274,Prosecco DOC,Vini,27.0,bt,5.4223,146.4,10,NO,07/09/2024
+50198,2,09/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-6329,Olio  EVO,Condimenti,9.08,0.75,7.9127,71.85,,NO,07/09/2024
+50198,3,09/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-7759,Insalata mista,Verdure,21.99,1000g,2.6419,58.1,10,SI,09/07/2024
+50198,4,09/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-2822,Pomodorini ciliegino,Verdure,3.992,kilo,3.7021,14.78,10,no,08/08/2024
+50198,5,09/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-4151,Caffe miscela bar,Bevande,1.984,Kg,12.6524,25.1,10,NO,08/08/2024
+50199,1,11/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-6142,Olio EVO,Condimenti,9.51,L,850.0,8083.5,10,NO,11/07/2024
+50199,2,11/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-9470,Caffe miscela bar,Bevande,14.446,kg,12.7333,183.95,10,SI,10/08/2024
+50199,3,11/06/2024,Cantina Vinicola Toscana,FORN-004,SKU-8318,Rucola,Verdure,14.573,Kg,3.6678,53.45,10,SI,10/08/2024
+50200,1,14/06/2024,Beverages Distribution,FORN-007,SKU-5414,Vino Tignanello,Vini,7.0,750ml,76.1854,533.3,4,SI,13/08/2024
+50200,2,14/06/2024,Beverages Distribution,FORN-007,SKU-2861,Branzino fresco,Pesce,26.909,kg,20.3129,546.6,22,SI,12/09/2024
+50200,3,14/06/2024,Beverages Distribution,FORN-007,SKU-2630,Burrata,Latticini,94.0,cad,3.092,290.65,22,SI,13/08/2024
+50200,4,14/06/2024,Beverages Distribution,FORN-007,SKU-5070,Insalata  mista,Verdure,13.819,1000g,2.8684,39.64,10,1,12/09/2024
+50201,1,15/06/2024,Cantina Toscana SpA,FORN-004,SKU-9632,Caffe miscela bar,Bevande,5.136,KG,16.1229,82.81,22,SI,13/09/2024
+50201,2,15/06/2024,Cantina Toscana SpA,FORN-004,SKU-3102,olio evo lt,Condimenti,18.53,LT,7.6066,140.95,4,NO,14/08/2024
+50201,3,15/06/2024,Cantina Toscana SpA,FORN-004,SKU-6028,Sale 100/kg,Condimenti,17.559,kg,0.3726,6.54,10,NO,15/07/2024
+50201,4,15/06/2024,Cantina Toscana SpA,FORN-004,SKU-8943,Farina 00,Secchi,8.666,1000g,0.886,7.68,4,SI,14/08/2024
+50202,1,17/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-8472,Parmigiano Reggiano 24m,Latticini,7.637,kilo,15.767,120.41,10,SI,17/07/2024
+50202,2,17/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-2311,Porcini freschi kg,Funghi,12.777,kilo,51.7918,661.74,4,SI,16/08/2024
+50202,3,17/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-8300,Acqua 1000ml,Bevande,256.0,1,0.3196,81.82,10,SI,17/07/2024
+50202,4,17/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-6413,Costata di manzo,Carni,17.72,KG,28.2,499.7,,NO,15/09/2024
+50202,5,17/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-6123,Vongole fresche,Pesce,27.349,kg,8.1451,222.76,22,,15/09/2024
+50202,6,17/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-9261,Petto di pollo,Carni,3.188,Kg,8.4587,26.97,5,NO,16/08/2024
+50203,1,18/06/2024,Beverages Distribution,FORN-007,SKU-8644,LATTE 1L,Latticini,18.26,1000ml,1.2585,22.98,10,S,23/05/2024
+50203,2,18/06/2024,Beverages Distribution,FORN-007,SKU-1687,Vongole fresche,Pesce,18.384,KG,,,10,SI,17/08/2024
+50203,3,18/06/2024,Beverages Distribution,FORN-007,SKU-2590,Panna fresca,Latticini,17.06,lt,2.4076,41.07,10,S,16/09/2024
+50203,4,18/06/2024,Beverages Distribution,FORN-007,SKU-6084,ACQUA NAT 1L,Bevande,122.0,pezzi,0.3282,40.04,22,S,18/07/2024
+50203,5,18/06/2024,Beverages Distribution,FORN-007,SKU-5232,Insalata mista,Verdure,23.126,g,2.5,57.82,5,SI,18/07/2024
+50203,6,18/06/2024,Beverages Distribution,FORN-007,SKU-4571,Prosecco DOC,Vini,10.0,bottiglia,5.5565,55.56,4,SI,18/07/2024
+50203,7,18/06/2024,Beverages Distribution,FORN-007,SKU-9791,Parmigiano Reggiano 24m,Latticini,27.08,kg,15.7425,426.31,10,,17/08/2024
+50203,8,18/06/2024,Beverages Distribution,FORN-007,SKU-3564,Burrata,Latticini,36.0,1,2.5233,90.84,10,SI,14/06/2024
+50204,1,21/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-6749,PARM.REGG.,Latticini,8.66,kg,,,22,NO,19/09/2024
+50204,2,21/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-8241,Vongole fresche,Pesce,11.799,1000g,8.4035,99.15,10,NO,20/08/2024
+50204,3,21/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-5924,Salmone intero,Pesce,15.332,kilo,16.4191,251.74,22,NO,21/07/2024
+50204,4,21/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-3846,Vino rosso Chianti,Vini,43.0,bottiglia,6.0183,258.79,22,SI,19/09/2024
+50204,5,21/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-1173,Costata di manzo,Carni,29.072,g,28.0,814.02,22,SI,19/09/2024
+50204,6,21/06/2024,Macelleria Bianchi SRL,FORN-001,SKU-1083,Vino Tignanello,Vini,15.0,1,78.228,1173.42,22,S,22/05/2024
+50205,1,24/06/2024,Cantina Toscana SpA,FORN-004,SKU-8660,Filetto manzo,Carni,7.344,KG,42.2013,309.93,22,NO,22/09/2024
+50205,2,24/06/2024,Cantina Toscana SpA,FORN-004,SKU-2571,Burrata,Latticini,146.0,cad,2.6522,387.22,22,0,22/09/2024
+50205,3,2024/06/24,Cantina Toscana SpA,FORN-004,SKU-1008,Rucol@,Verdure,14.83,Kg,,,10,SI,
+50205,4,24/06/2024,Cantina Toscana SpA,FORN-004,SKU-5865,Caffe miscela bar,Bevande,10.6,1000g,12.3123,130.51,4,SI,22/09/2024
+50205,5,24/06/2024,Cantina Toscana SpA,FORN-004,SKU-5511,Farina 00,Secchi,19.258,KG,0.829,15.96,5,SI,24/07/2024
+50205,6,24/06/2024,Cantina Toscana SpA,FORN-004,SKU-8037,Pasta tagliatelle,Secchi,26.188,kg,1.8015,47.18,22,SI,24/07/2024
+50205,7,24/06/2024,Cantina Toscana SpA,FORN-004,SKU-6018,Branzino fresco,Pesce,28.985,g,18.0,521.73,10,SI,22/09/2024
+50205,8,24/06/2024,Cantina Toscana SpA,FORN-004,SKU-5490,Vino Chianti DOCG bt,Vini,30.0,1,5.8671,176.01,4,SI,24/07/2024
+50206,1,27-06-2024,Pescheria Del Mare SNC,FORN-002,SKU-5859,Caffe miscela bar,Bevande,13.295,1000g,15.8292,210.45,22,SI,25/09/2024
+50206,2,27/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-2164,Panna fresca,Latticini,5.36,lt,2.4552,13.16,,NO,26/08/2024
+50206,3,27/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-8722,Salmone intero,Pesce,5.493,Kg,15.8275,86.94,4,SI,26/08/2024
+50206,4,27/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-2654,latte intero lt,Latticini,5.32,L,0.9725,5.17,22,SI,26/08/2024
+50206,5,27/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-5159,Chianti bt 0.75,Vini,40.0,750ml,6.0494,241.98,10,NO,27/07/2024
+50206,6,27/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-5022,ACQUA NAT 1L,Bevande,91.0,pz,0.3754,34.16,22,SI,27/07/2024
+50206,7,27/06/2024,Pescheria Del Mare SNC,FORN-002,SKU-2411,Olio EVO,Condimenti,3.51,lt,9.5842,33.64,10,SI,25/09/2024
+50207,1,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-5089,Parmigiano Reggiano 24m,Latticini,26.52,KG,15.0846,400.04,4,0,30/07/2024
+50207,2,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8465,Vino Tignanello,Vini,10.0,1,70.9443,709.44,10,NO,
+50207,3,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-1432,Caffe miscela bar,Bevande,25.641,KG,14.6575,375.83,10,SI,30/07/2024
+50207,4,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6859,P@nna fresca,Latticini,2.98,0.75,2.8147,8.39,22,NO,30/07/2024
+50207,5,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2141,Burrata,,222.0,PZ,2.818,625.6,5,0,29/08/2024
+50207,6,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2338,Rucola,Verdure,7.498,Kg,4.5891,34.41,22,SI,29/08/2024
+50207,7,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-1684,Prosecco DOC,Vini,37.0,1,5.5578,205.64,10,SI,29/08/2024
+50207,8,30/06/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-4861,Pomodorini ciliegino,Verdure,21.458,Kg,3.1185,66.92,10,S,
+50208,1,03/07/2024,Beverages Distribution,FORN-007,SKU-1667,Farina 00,Secchi,26.142,g,0.85,22.22,5,NO,01/09/2024
+50208,2,03/07/2024,Beverages Distribution,FORN-007,SKU-1696,Pasta tagliatelle,Secchi,10.792,1000g,2.4722,26.68,22,si,01/09/2024
+50208,3,03/07/2024,Beverages Distribution,FORN-007,SKU-6999,Riso Carnaroli,Secchi,4.27,kilo,2.9236,12.48,10,SI,01/10/2024
+50208,4,03/07/2024,Beverages Distribution,FORN-007,SKU-9794,Rucola,Verdure,8.555,KG,3.6937,31.6,10,SI,02/08/2024
+50209,1,07/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1758,Uova fresche cat. A,Latticini,205.0,pz,0.2683,55.0,5,1,06/08/2024
+50209,2,07/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7448,Vino Tignanello,Vini,43.0,bt,78.1348,3359.8,22,NO,06/08/2024
+50209,3,07/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2410,  Costata di manzo,Carni,13.375,KG,32.5742,435.68,10,SI,05/10/2024
+50209,4,07/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3260,OLIO EVO lt,Condimenti,5.87,lt,7.936,46.58,10,SI,05/10/2024
+50209,5,07/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1808,Prosecco DOC ,,14.0,0.75,0.048,0.67,22,SI,06/08/2024
+50210,1,11/07/2024,Beverages Distribution,FORN-007,SKU-2818,Petto di pollo,Carni,4.017,KG,7.6854,30.87,22,SI,09/09/2024
+50210,2,11/07/2024,Beverages Distribution,FORN-007,SKU-3317,Prosecco DOC,Vini,44.0,BT,,,4,NO,10/08/2024
+50210,3,11/07/2024,Beverages Distribution,FORN-007,SKU-1351,Vongole fresche,Pesce,5.13,KG,10.6935,54.86,22,SI,10/08/2024
+50211,1,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-8909,olio evo lt,Condimenti,8.85,1000ml,7.8772,69.71,22,NO,11/08/2024
+50211,2,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-1960,uova fresche,Latticini,127.0,nr,0.2892,36.73,22,SI,10/09/2024
+50211,3,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-9202,Vongole fresche,Pesce,20.975,KG,450.0,9438.75,10,no,10/10/2024
+50211,4,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-9754,sale grosso,Condimenti,14.742,1000g,0.3626,5.35,4,NO,11/08/2024
+50211,5,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-9449,Parmigiano 24m,Latticini,4.893,g,16.5,80.73,10,SI,10/10/2024
+50211,6,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-4545,Riso Carnaroli,Secchi,22.275,kilo,3.7739,84.06,22,NO,11/08/2024
+50211,7,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-4086,Caffe miscela bar,Bevande,6.851,Kg,12.2492,83.92,22,si,10/09/2024
+50211,8,12/07/2024,Latteria Alpina Coop,FORN-005,SKU-2880,Porcini freschi,Funghi,4.85,KG,45.229,219.36,22,NO,10/09/2024
+50212,1,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1328,Riso Carnaroli,Secchi,24.809,g,3.2,79.39,10,SI,12/10/2024
+50212,2,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6881,Olio EVO,Condimenti,14.63,0.75,8.5891,125.66,22,NO,12/09/2024
+50212,3,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7131,Petto di pollo,Carni,17.734,1000g,9.7539,172.98,4,si,12/09/2024
+50212,4,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2833,costata di manzo,Carni,2.67,kilo,25.9922,69.4,10,NO,13/08/2024
+50212,5,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8018,Pasta tagliatelle,Secchi,12.705,kilo,1.8166,23.08,22,SI,13/08/2024
+50212,6,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3634,Salmone intero,Pesce,9.564,g,14.0,133.9,22,1,12/09/2024
+50212,7,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6455,Prosecco DOC,Vini,37.0,1,5.355,198.14,10,SI,13/08/2024
+50212,8,14/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2689,porcini fr.,Funghi,1.312,1000g,49.1091,64.43,10,NO,12/09/2024
+50213,1,15/07/2024,Distribuzione Generale,FORN-008,SKU-6317,Vino rosso Chianti,Vini,40.0,1,6.9818,279.27,22,SI,
+50213,2,15/07/2024,Distribuzione Generale,FORN-008,SKU-3345,Riso Carnaroli,Secchi,22.503,KG,3.5068,78.91,5,SI,14/08/2024
+50213,3,2024/07/15,Distribuzione Generale,FORN-008,SKU-9761,Caffe  miscela  bar,Bevande,11.059,Kg,14.1514,156.5,22,no,13/09/2024
+50213,4,15/07/2024,Distribuzione Generale,FORN-008,SKU-1849,Vino Tignanello,Vini,32.0,1,64.7286,2071.32,4,,13/09/2024
+50213,5,15/07/2024,Distribuzione Generale,FORN-008,SKU-8191,Branzino fresco,,10.439,kg,17.2312,179.88,4,NO,13/10/2024
+50213,6,15/07/2024,Distribuzione Generale,FORN-008,SKU-5219,Pomodorini ciliegino,Verdure,19.002,kg,3.603,68.46,4,SI,
+50213,7,15/07/2024,Distribuzione Generale,FORN-008,SKU-7899,Filetto di manzo,Carni,24.141,KG,42.1008,1016.36,22,1,13/09/2024
+50214,1,17/07/2024,Pescheria Del Mare SNC,FORN-002,SKU-5684,Rucola,Verdure,7.045,g,4.0,28.18,22,0,16/08/2024
+50214,2,17/07/2024,Pescheria Del Mare SNC,FORN-002,SKU-4815,olio evo lt,Condimenti,13.01,LT,,,4,NO,16/08/2024
+50214,3,17/07/2024,Pescheria Del Mare SNC,FORN-002,SKU-1794,Latte intero,Latticini,9.18,lt,0.9566,8.78,22,0,16/08/2024
+50214,4,17/07/2024,Pescheria Del Mare SNC,FORN-002,SKU-9837,porcini freschi,,14.984,kilo,38.6509,579.15,10,1,15/09/2024
+50214,5,17/07/2024,Pescheria Del Mare SNC,FORN-002,SKU-3106,Branzino fresco,,16.557,g,18.0,298.03,10,si,16/08/2024
+50214,6,17/07/2024,Pescheria Del Mare SNC,FORN-002,SKU-3201,Vino rosso Chianti,Vini,9.0,bottiglia,5.6962,51.27,22,SI,16/08/2024
+50215,1,20/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7260,parmigiano,Latticini,13.885,KG,,,4,SI,19/08/2024
+50215,2,20/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7434,Costata di manzo,Carni,15.027,1000g,24.5103,368.32,22,SI,19/08/2024
+50215,3,20/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1667,Caffe miscela bar,Bevande,26.68,kilo,13.4195,358.03,22,0,19/08/2024
+50215,4,20/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9123,Pomodorini ciliegino,Verdure,2.081,kilo,3.7661,7.84,22,SI,18/10/2024
+50215,5,20/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7242,Salmone intero,Pesce,8.189,g,14.0,114.65,10,SI,16/07/2024
+50215,6,20/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7351,Petto di pollo,Carni,4.944,kg,7.7032,38.08,10,SI,18/10/2024
+50216,1,24/07/2024,Macelleria Bianchi SRL,FORN-001,SKU-1758,Petto di pollo,Carni,9.263,Kg,8.1856,75.82,10,si,22/09/2024
+50216,2,24/07/2024,Macelleria Bianchi SRL,FORN-001,SKU-3696,Insalata mista,,25.37,1000g,2.9382,74.54,4,SI,23/08/2024
+50216,3,24/07/2024,Macelleria Bianchi SRL,FORN-001,SKU-7122,Parmigiano 24m,Latticini,14.769,Kg,14.6817,216.83,,NO,22/10/2024
+50216,4,24-07-2024,Macelleria Bianchi SRL,FORN-001,SKU-3469,Olio extra vergine,Condimenti,7.05,0.75,7.8064,55.04,22,si,
+50216,5,24/07/2024,Macelleria Bianchi SRL,FORN-001,SKU-9298,Vino Chianti DOCG bt,Vini,34.0,1,5.6946,193.62,10,SI,22/09/2024
+50216,6,24/07/2024,Macelleria Bianchi SRL,FORN-001,SKU-2866,Costata di manzo,Carni,11.39,kg,32.376,368.76,10,no,22/10/2024
+50217,1,28/07/2024,Cantina Toscana SpA,FORN-004,SKU-4626,Uova 30pz,Latticini,228.0,cad,,,22,SI,26/10/2024
+50217,2,28/07/2024,Cantina Toscana SpA,FORN-004,SKU-1415,Farina 00,Secchi,6.534,g,0.85,5.55,4,NO,27/08/2024
+50217,3,28/07/2024,Cantina Toscana SpA,FORN-004,SKU-9901,Panna fresca,Latticini,17.29,ml,2.4,41.5,22,NO,27/08/2024
+50217,4,28/07/2024,Cantina Toscana SpA,FORN-004,SKU-7999,latte intero lt,Latticini,11.35,L,1.0942,12.42,22,SI,26/09/2024
+50218,1,31/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6705,Petto di pollo,Carni,26.541,kg,7.6031,201.79,10,si,30/08/2024
+50218,2,31/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7219,Uova XL,Latticini,255.0,1,0.2718,69.31,10,SI,29/10/2024
+50218,3,31/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6583,Olio EVO,Condimenti,4.54,lt,8.5911,39.0,10,1,30/08/2024
+50218,4,31/07/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3471,Caffe miscela bar,Bevande,28.759,Kg,14.1243,406.2,10,NO,29/10/2024
+50219,1,04/08/2024,Latteria Alpina Coop,FORN-005,SKU-3066,Parmigiano Reggiano 24m,Latticini,3.191,1000g,17.1315,54.67,22,SI,02/11/2024
+50219,2,04/08/2024,Latteria Alpina Coop,FORN-005,SKU-6472,  Costata di manzo,Carni,5.04,kilo,26.8952,135.55,10,NO,02/11/2024
+50219,3,04/08/2024,Latteria Alpina Coop,FORN-005,SKU-3970,Salmone intero,Pesce,11.281,Kg,16.6448,187.77,22,SI,03/10/2024
+50219,4,04/08/2024,Latteria Alpina Coop,FORN-005,SKU-3438,SALE,Condimenti,3.368,kg,0.3561,1.2,10,NO,03/10/2024
+50219,5,04/08/2024,Latteria Alpina Coop,FORN-005,SKU-4932,Caffe  miscela  bar,Bevande,17.29,g,14.0,242.06,10,NO,
+50219,6,04/08/2024,Latteria Alpina Coop,FORN-005,SKU-6152,Petto di pollo,,13.752,Kg,8.7535,120.38,22,0,03/10/2024
+50219,7,04/08/2024,Latteria Alpina Coop,FORN-005,SKU-8651,Riso Carnaroli,Secchi,16.154,g,3.2,51.69,10,SI,03/09/2024
+50220,1,05/08/2024,Cantina Toscana SpA,FORN-004,SKU-6191,Riso Carnaroli,Secchi,22.238,KG,3.7483,83.35,22,SI,04/10/2024
+50220,2,05/08/2024,Cantina Toscana SpA,FORN-004,SKU-5920,Caffe miscela bar,,10.693,g,14.0,149.7,4,SI,04/09/2024
+50220,3,2024/08/05,Cantina Toscana SpA,FORN-004,SKU-9540,Petto di pollo,Carni,20.402,kilo,10.1884,207.86,4,S,03/11/2024
+50220,4,05/08/2024,Cantina Toscana SpA,FORN-004,SKU-9319,Acqua minerale 1L,Bevande,91.0,1,0.3188,29.01,10,SI,04/09/2024
+50220,5,05/08/2024,Cantina Toscana SpA,FORN-004,SKU-8387,Porcini freschi,Funghi,29.971,g,45.0,1348.69,10,NO,04/09/2024
+50220,6,05/08/2024,Cantina Toscana SpA,FORN-004,SKU-1062,FILETTO DI MANZO,Carni,3.01,kg,37.0124,111.41,22,SI,04/10/2024
+50220,7,05/08/2024,Cantina Toscana SpA,FORN-004,SKU-2191,Costata di manzo,,29.961,kilo,30.2953,907.68,22,SI,03/11/2024
+50220,8,2024/08/05,Cantina Toscana SpA,FORN-004,SKU-7929,Parmigiano Reggiano 24m,Latticini,23.63,g,16.5,389.89,4,NO,03/11/2024
+50221,1,07/08/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6124,Pasta tagliatelle,Secchi,23.407,1000g,1.8341,42.93,10,NO,05/11/2024
+50221,2,07/08/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-4349,OLIO EVO lt,Condimenti,13.14,ml,8.5,111.69,22,SI,06/10/2024
+50221,3,07/08/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-3372,Vino Tignanello,Vini,47.0,bt,74.2029,3487.54,10,SI,05/11/2024
+50222,1,08/08/2024,Beverages Distribution,FORN-007,SKU-5261,Prosecco DOC,Vini,35.0,BT,4.8412,169.44,10,SI,07/09/2024
+50222,2,2024/08/08,Beverages Distribution,FORN-007,SKU-5763,Filetto manzo,Carni,3.95,kilo,41.9311,165.63,10,SI,06/11/2024
+50222,3,08/08/2024,Beverages Distribution,FORN-007,SKU-5539,Costata di manzo,Carni,24.696,Kg,27.5623,680.68,10,si,07/09/2024
+50222,4,08/08/2024,Beverages Distribution,FORN-007,SKU-9305,porcini fr.,Funghi,10.635,kilo,51.1688,544.18,10,SI,07/10/2024
+50222,5,08/08/2024,Beverages Distribution,FORN-007,SKU-7514,Riso Carnaroli,Secchi,13.342,KG,3.0497,40.69,10,SI,06/11/2024
+50222,6,08/08/2024,Beverages Distribution,FORN-007,SKU-6150,Pomodorini ciliegino,Verdure,19.772,1000g,2.9517,58.36,10,,06/11/2024
+50223,1,11/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-3985,Riso Carnaroli,Secchi,23.228,Kg,3.141,72.96,10,NO,10/09/2024
+50223,2,11/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-3550,Caffe miscela bar,Bevande,14.124,KG,15.8138,223.35,10,no,10/10/2024
+50223,3,11/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-6052,CHIANTI DOCG,Vini,48.0,bottiglia,7.468,358.46,10,SI,09/11/2024
+50223,4,11/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-5417,Vongole fresche,Pesce,22.419,Kg,10.432,233.88,10,SI,29/07/2024
+50224,1,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-2576,Vongole fresche,,12.932,kg,8.8526,114.48,,,12/10/2024
+50224,2,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-1114,Vino Tignanello,Vini,45.0,0.75,85.9871,3869.42,22,0,11/11/2024
+50224,3,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-3651,Rucola,Verdure,2.614,g,4.0,10.46,4,S,12/10/2024
+50224,4,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-6187,Parmigiano Reggiano 24m,Latticini,22.298,KG,17.6068,392.6,4,NO,
+50224,5,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-1431,Pasta tagliatelle,Secchi,4.271,KG,2.2969,9.81,22,SI,12/10/2024
+50224,6,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-3520,Latte fresco int,Latticini,16.72,1000ml,1.1971,20.02,22,SI,12/10/2024
+50224,7,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-7353,Acqua 1lt,Bevande,186.0,pz,0.3613,67.2,22,SI,12/10/2024
+50224,8,13/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-6071,Farina 00,Secchi,24.173,kilo,0.8934,21.6,4,NO,12/09/2024
+50225,1,14/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-7961,Filetto di manzo,Carni,23.017,g,,,10,NO,12/11/2024
+50225,2,14/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-8121,Vino Tignanello,Vini,23.0,0.75,72.3313,1663.62,4,SI,13/10/2024
+50225,3,14/08/2024,Macelleria Bianchi SRL,FORN-001,SKU-3556,Uova fresche cat. A,Latticini,261.0,1,0.3063,79.94,4,NO,13/09/2024
+50226,1,15/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-5883,Branzino fresco,Pesce,14.237,kilo,20.9015,297.57,10,NO,13/11/2024
+50226,2,15/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-4286,Costata di manzo,Carni,6.731,g,28.0,188.47,10,S,14/10/2024
+50226,3,15/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1452,Farina 00,Secchi,14.207,kilo,0.085,1.21,10,SI,13/11/2024
+50226,4,15/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6434,Sale 100/kg,Condimenti,16.167,kg,0.444,7.18,10,SI,14/10/2024
+50226,5,15/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8742,Pasta tagliatelle,Secchi,4.269,Kg,1.8494,7.9,22,NO,14/09/2024
+50227,1,18/08/2024,Molino Pasta Artigianale,FORN-006,SKU-6514,Olio extra vergine,Condimenti,8.15,L,7.7017,62.77,10,NO,16/11/2024
+50227,2,18/08/2024,Molino Pasta Artigianale,FORN-006,SKU-8664,  Burrata,Latticini,287.0,pz,2.6214,752.34,4,SI,
+50227,3,2024/08/18,Molino Pasta Artigianale,FORN-006,SKU-4813,Sale fino,Condimenti,16.673,g,0.4,6.67,10,SI,17/10/2024
+50227,4,18/08/2024,Molino Pasta Artigianale,FORN-006,SKU-9688,Parmigiano Reggiano 24m,Latticini,16.49,g,16.5,272.08,10,NO,17/10/2024
+50227,5,18/08/2024,Molino Pasta Artigianale,FORN-006,SKU-3694,CHIANTI DOCG,Vini,17.0,0.75,6.5654,111.61,10,SI,17/09/2024
+50227,6,18/08/2024,Molino Pasta Artigianale,FORN-006,SKU-6708,Salmone intero,Pesce,19.743,kilo,15.9047,314.01,22,NO,16/11/2024
+50227,7,18/08/2024,Molino Pasta Artigianale,FORN-006,SKU-9352,Branzino fresco,Pesce,28.56,g,18.0,514.08,10,SI,17/09/2024
+50228,1,19/08/2024,Beverages Distribution,FORN-007,SKU-2228,Panna fresca,,2.92,lt,2.7834,8.13,10,NO,18/10/2024
+50228,2,19/08/2024,Beverages Distribution,FORN-007,SKU-5875,Pomodorini ciliegino,Verdure,13.668,1000g,3.1174,42.61,10,SI,17/11/2024
+50228,3,19/08/2024,Beverages Distribution,FORN-007,SKU-1267,Burrata,Latticini,202.0,cad,2.5053,506.07,22,NO,17/11/2024
+50228,4,19/08/2024,Beverages Distribution,FORN-007,SKU-8407,Caffe miscela bar,,20.509,g,14.0,287.13,10,SI,18/09/2024
+50228,5,2024/08/19,Beverages Distribution,FORN-007,SKU-1480,Vino Tignanello,Vini,23.0,bottiglia,74.8739,1722.1,10,NO,18/10/2024
+50229,1,20/08/2024,Cantina Toscana SpA,FORN-004,SKU-5263,FUNGHI PORCINI,Funghi,4.657,kg,,,22,SI,19/10/2024
+50229,2,20/08/2024,Cantina Toscana SpA,FORN-004,SKU-5176,Latte fresco int,Latticini,10.23,0.75,1.0269,10.51,10,NO,
+50229,3,20/08/2024,Cantina Toscana SpA,FORN-004,SKU-2900,Sale fino kg,Condimenti,12.182,Kg,,,22,no,19/10/2024
+50230,1,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8231,Caffe miscela bar,Bevande,1.036,kilo,13.8411,14.34,10,NO,23/09/2024
+50230,2,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7453,Farina 00,Secchi,21.654,KG,0.7841,16.98,5,NO,23/09/2024
+50230,3,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8393,Acqua minerale 1L,Bevande,146.0,cad,0.3325,48.55,4,NO,23/10/2024
+50230,4,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2123,Pomodorini ciliegino,Verdure,12.841,g,3.2,41.09,5,NO,23/10/2024
+50230,5,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7119,sale grosso,Condimenti,17.833,KG,,,10,NO,23/10/2024
+50230,6,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2046,Filetto di manzo,Carni,20.981,KG,44.7633,939.18,10,0,23/10/2024
+50230,7,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-5042,Salmone intero,Pesce,1.881,g,14.0,26.33,22,SI,22/11/2024
+50230,8,24/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1727,Rucola,Verdure,25.024,Kg,4.505,112.73,22,1,22/11/2024
+50231,1,27/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-5680,Olio EVO,Condimenti,15.01,l,9.3376,140.16,10,NO,26/10/2024
+50231,2,27/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-9626,salmone intero,Pesce,14.39,Kg,14.1864,204.14,10,NO,26/09/2024
+50231,3,27/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-1394,Pomodorini ciliegino,Verdure,21.015,Kg,3.2859,69.05,4,SI,26/09/2024
+50231,4,27/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-5641,  Vongole fresche,Pesce,28.334,kilo,9.8727,279.73,10,NO,25/11/2024
+50231,5,27/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-4467,Farina 00,Secchi,17.249,Kg,0.9331,16.1,4,NO,25/11/2024
+50231,6,27/08/2024,Pescheria Del Mare SNC,FORN-002,SKU-5927,Riso Carnaroli,Secchi,18.153,Kg,3.0616,55.58,,SI,26/10/2024
+50232,1,30/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1650,Burrata,Latticini,222.0,cad,2.4877,552.27,4,SI,29/09/2024
+50232,2,30/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1990,Pasta tagliatelle,Secchi,17.634,kg,1.8225,32.14,10,SI,28/11/2024
+50232,3,30/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2869,Latte fresco int,Latticini,11.6,LT,1.2624,14.64,22,NO,29/09/2024
+50232,4,30/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6695,Riso Carnaroli,,25.752,kilo,3.7004,95.29,22,NO,29/10/2024
+50232,5,30/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8730,Caffe miscela bar,Bevande,12.843,1000g,15.8515,203.58,10,1,29/10/2024
+50232,6,30/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9324,Porcini freschi kg,Funghi,9.09,KG,38.3333,348.45,10,SI,29/10/2024
+50232,7,30/08/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7227,Fil. Manzo,Carni,14.083,kilo,32.4713,457.29,,SI,28/11/2024
+50233,1,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-7334,LATTE 1L,Latticini,10.5,l,0.011,0.12,22,SI,30/09/2024
+50233,2,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-3896,Petto di pollo,Carni,5.863,KG,9.0319,52.95,10,SI,30/10/2024
+50233,3,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-7935,Vino Tignanello,Vini,27.0,1,88.4986,2389.46,4,NO,29/11/2024
+50233,4,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-1657,Prosecco DOC,Vini,20.0,1,5.688,113.76,10,NO,30/09/2024
+50233,5,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-1450,Farina 0,Secchi,29.793,KG,0.8941,26.64,10,no,28/08/2024
+50233,6,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-9955,Sale fino,Condimenti,4.659,KG,0.3778,1.76,10,SI,29/11/2024
+50233,7,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-2874,Porcini freschi,,27.341,1000g,52.2924,1429.73,22,SI,29/11/2024
+50233,8,31/08/2024,Latteria Alpina Coop,FORN-005,SKU-9692,Vongole fresche,Pesce,2.404,Kg,8.6155,20.71,10,si,30/10/2024
+50234,1,01/09/2024,Macelleria Bianchi SRL,FORN-001,SKU-4339,Pomodorini ciliegino,Verdure,21.77,1000g,2.8657,62.39,,1,31/10/2024
+50234,2,01/09/2024,Macelleria Bianchi SRL,FORN-001,SKU-2511,Prosecco DOC,Vini,42.0,1,,,10,si,30/11/2024
+50234,3,01/09/2024,Macelleria Bianchi SRL,FORN-001,SKU-6956,Burrata,Latticini,168.0,pz,3.0571,513.59,10,SI,01/10/2024
+50234,4,01/09/2024,Macelleria Bianchi SRL,FORN-001,SKU-9585,Panna fresca,Latticini,9.81,0.75,2.1591,21.18,4,NO,30/11/2024
+50234,5,01/09/2024,Macelleria Bianchi SRL,FORN-001,SKU-6362,Acqua 1000ml,Bevande,33.0,nr,0.3109,10.26,22,SI,31/10/2024
+50234,6,2024/09/01,Macelleria Bianchi SRL,FORN-001,SKU-6953,Sale fino kg,Condimenti,24.756,kg,0.424,10.5,,NO,01/10/2024
+50235,1,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-8856,Acqua 1000ml,Bevande,219.0,pezzi,0.3641,79.74,4,SI,05/10/2024
+50235,2,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-8728,Pomodorini ciliegino,Verdure,14.348,kilo,3.814,54.72,22,NO,04/11/2024
+50235,3,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-9348,Branzino fresco,Pesce,29.495,kg,15.924,469.68,22,0,04/11/2024
+50235,4,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-9369,Panna fresca,Latticini,18.28,LT,2.3181,42.37,10,NO,04/11/2024
+50235,5,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-7831,Petto di pollo,,15.792,Kg,7.3102,115.44,10,SI,05/10/2024
+50235,6,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-6848,Uova fresche cat. A,Latticini,293.0,1,0.3243,95.02,10,SI,04/12/2024
+50235,7,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-1923,CHIANTI DOCG,Vini,15.0,BT,7.0589,105.88,22,S,04/12/2024
+50235,8,05/09/2024,Molino Pasta Artigianale,FORN-006,SKU-9062,Prosecco DOC,Vini,23.0,0.75,4.538,104.37,22,0,04/11/2024
+50236,1,06/09/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1145,Burrata,Latticini,182.0,pz,2.7169,494.48,10,NO,05/12/2024
+50236,2,06/09/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3706,Branzino fresco,Pesce,24.757,KG,15.7715,390.46,10,1,06/10/2024
+50236,3,06/09/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-4362,Prosecco DOC,Vini,16.0,bottiglia,5.3113,84.98,22,SI,05/11/2024
+50237,1,07/09/2024,Beverages Distribution,FORN-007,SKU-7725,Burrata,,190.0,cad,2.6093,495.77,4,NO,06/12/2024
+50237,2,07/09/2024,Beverages Distribution,FORN-007,SKU-3654,acqua minerale,Bevande,130.0,1,0.3546,46.1,10,si,06/12/2024
+50237,3,07/09/2024,Beverages Distribution,FORN-007,SKU-6234,Costata  di  manzo,Carni,23.185,1000g,27.8506,645.72,4,si,06/11/2024
+50238,1,10/09/2024,Latteria Alpina Coop,FORN-005,SKU-4122,parmigiano,Latticini,2.375,1000g,18.6319,44.25,10,SI,09/11/2024
+50238,2,10/09/2024,Latteria Alpina Coop,FORN-005,SKU-9648,ACQUA NAT 1L,Bevande,209.0,PZ,,,10,SI,10/10/2024
+50238,3,10/09/2024,Latteria Alpina Coop,FORN-005,SKU-2504,Prosecco DOC,Vini,20.0,bott,4.5174,90.35,10,SI,09/11/2024
+50238,4,10/09/2024,Latteria Alpina Coop,FORN-005,SKU-6009,OLIO EVO lt,Condimenti,13.14,LT,9.3873,123.35,10,SI,09/12/2024
+50238,5,10/09/2024,Latteria Alpina Coop,FORN-005,SKU-8593,Panna fresca,Latticini,16.75,l,2.1613,36.2,22,,10/10/2024
+50239,1,14/09/2024,Latteria Alpina Coop,FORN-005,SKU-8123,Rucola,Verdure,2.004,KG,3.4075,6.83,22,SI,13/12/2024
+50239,2,14/09/2024,Latteria Alpina Coop,FORN-005,SKU-8248,Vino Tignanello,Vini,34.0,bt,84.7256,2880.67,22,SI,14/10/2024
+50239,3,14/09/2024,Latteria Alpina Coop,FORN-005,SKU-3441,Latte intero,Latticini,5.45,l,1.177,6.41,10,SI,14/10/2024
+50239,4,14/09/2024,Latteria Alpina Coop,FORN-005,SKU-9433,Insalata mista,Verdure,6.422,1000g,2.3459,15.07,22,SI,14/10/2024
+50240,1,15/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7742,Latte intero,Latticini,13.12,L,1.1542,15.14,4,NO,15/10/2024
+50240,2,15/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6834,Riso Carnaroli,,29.455,KG,3.2408,95.46,22,SI,14/12/2024
+50240,3,15/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-5831,Branzino fresco,,13.455,KG,17.9969,242.15,22,SI,14/11/2024
+50241,1,18/09/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1264,Olio EVO,Condimenti,18.02,1000ml,8.9577,161.42,10,no,17/11/2024
+50241,2,18/09/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6395,Panna fresca,Latticini,6.13,0.75,2.4225,14.85,10,no,17/12/2024
+50241,3,2024/09/18,Ortofrutta Rossi e Figli,FORN-003,SKU-7425,Prosecco DOC,Vini,12.0,1,5.4249,65.1,10,SI,17/12/2024
+50241,4,18/09/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2226,porcini fr.,Funghi,11.946,kilo,46.4092,554.4,10,NO,18/10/2024
+50242,1,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8263,Farina 00,,10.327,KG,0.9465,9.77,10,SI,22/10/2024
+50242,2,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7703,Acqua 1000ml,Bevande,274.0,cad,0.3977,108.97,22,NO,22/10/2024
+50242,3,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8839,Uova XL,Latticini,133.0,PZ,0.292,38.84,10,SI,21/11/2024
+50242,4,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7305,Filetto di manzo,Carni,1.773,KG,40.1093,71.11,22,SI,21/12/2024
+50242,5,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6956,Pasta tagliatelle,,20.278,1000g,2.1761,44.13,10,SI,21/11/2024
+50242,6,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6200,Rucola,Verdure,22.04,KG,3.9547,87.16,10,NO,22/10/2024
+50242,7,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2301,Vino Tignanello,,29.0,750ml,87.2013,2528.84,10,SI,22/10/2024
+50242,8,22/09/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6225,Burrata,Latticini,127.0,1,2.7449,348.6,10,SI,21/12/2024
+50243,1,25/09/2024,Beverages Distribution,FORN-007,SKU-9905,  Rucola,Verdure,28.195,KG,4.196,118.31,10,NO,25/10/2024
+50243,2,25/09/2024,Beverages Distribution,FORN-007,SKU-6422,Vongole fresche,Pesce,9.854,Kg,8.8628,87.33,10,1,24/12/2024
+50243,3,25/09/2024,Beverages Distribution,FORN-007,SKU-6938,Pasta tagliatelle,Secchi,12.32,Kg,,,22,SI,24/11/2024
+50243,4,2024/09/25,Beverages Distribution,FORN-007,SKU-6963,Petto di pollo,Carni,16.812,1000g,8.4341,141.79,4,SI,24/11/2024
+50243,5,25/09/2024,Beverages Distribution,FORN-007,SKU-2698,Costata di manzo,Carni,7.482,KG,29.0819,217.59,22,no,01/09/2024
+50243,6,25/09/2024,Beverages Distribution,FORN-007,SKU-3126,Caffe miscela bar,Bevande,15.391,KG,16.1596,248.71,22,SI,24/11/2024
+50244,1,26-09-2024,Macelleria Bianchi SRL,FORN-001,SKU-7262,Insalata mista,Verdure,4.368,Kg,2.6828,11.72,22,NO,25/12/2024
+50244,2,26/09/2024,Macelleria Bianchi SRL,FORN-001,SKU-9373,Branzino fresco,Pesce,28.43,1000g,19.034,541.14,22,SI,25/12/2024
+50244,3,26/09/2024,Macelleria Bianchi SRL,FORN-001,SKU-2039,Olio EVO,Condimenti,5.27,1000ml,8.1395,42.9,10,NO,25/11/2024
+50245,1,27/09/2024,Pescheria Del Mare SNC,FORN-002,SKU-3603,Vino Tignanello,Vini,25.0,1,85.9978,2149.95,10,SI,26/12/2024
+50245,2,27/09/2024,Pescheria Del Mare SNC,FORN-002,SKU-8226,FUNGHI PORCINI,Funghi,27.174,Kg,53.0771,1442.32,10,SI,26/12/2024
+50245,3,27/09/2024,Pescheria Del Mare SNC,FORN-002,SKU-5070,SALE,Condimenti,21.403,1000g,0.4171,8.93,10,NO,27/10/2024
+50245,4,27/09/2024,Pescheria Del Mare SNC,FORN-002,SKU-3508,CHIANTI DOCG,Vini,46.0,bottiglia,,,10,si,26/11/2024
+50245,5,27/09/2024,Pescheria Del Mare SNC,FORN-002,SKU-1449,Panna fresca,Latticini,5.79,0.75,2.2374,12.95,10,SI,26/11/2024
+50245,6,27/09/2024,Pescheria Del Mare SNC,FORN-002,SKU-6608,Costata di manzo,Carni,25.975,kg,29.3334,761.94,22,SI,27/10/2024
+50245,7,27/09/2024,Pescheria Del Mare SNC,FORN-002,SKU-4093,Filetto di manzo,Carni,25.535,KG,34.3311,876.64,22,SI,27/10/2024
+50246,1,29/09/2024,Beverages Distribution,FORN-007,SKU-7276,sale grosso,,5.035,kg,0.4525,2.28,10,no,29/10/2024
+50246,2,2024/09/29,Beverages Distribution,FORN-007,SKU-8515,Petto di pollo,Carni,4.845,Kg,7.81,37.84,4,1,29/10/2024
+50246,3,29/09/2024,Beverages Distribution,FORN-007,SKU-6245,Costata di manzo,Carni,25.224,g,28.0,706.27,10,SI,28/12/2024
+50246,4,29/09/2024,Beverages Distribution,FORN-007,SKU-7284,Uova 30pz,Latticini,146.0,nr,0.2471,36.08,4,SI,29/10/2024
+50246,5,29/09/2024,Beverages Distribution,FORN-007,SKU-3447,Rucola,Verdure,4.941,kg,4.3563,21.52,5,SI,28/12/2024
+50246,6,29/09/2024,Beverages Distribution,FORN-007,SKU-9761,Caffe miscela bar,Bevande,4.564,1000g,0.14,0.64,4,SI,28/12/2024
+50246,7,29/09/2024,Beverages Distribution,FORN-007,SKU-4990,Farina 00,Secchi,20.702,Kg,0.9134,18.91,22,S,28/11/2024
+50246,8,29/09/2024,Beverages Distribution,FORN-007,SKU-5576,Burrata,Latticini,59.0,pezzi,3.1657,186.78,22,SI,16/09/2024
+50247,1,30/09/2024,Beverages Distribution,FORN-007,SKU-5768,Petto di pollo,Carni,27.661,kilo,9.6792,267.74,22,0,20/09/2024
+50247,2,30/09/2024,Beverages Distribution,FORN-007,SKU-7126,Branzino fresco,Pesce,25.334,g,18.0,456.01,22,NO,
+50247,3,30/09/2024,Beverages Distribution,FORN-007,SKU-3821,Burrata,Latticini,98.0,PZ,3.0547,299.36,,NO,29/11/2024
+50247,4,30/09/2024,Beverages Distribution,FORN-007,SKU-2527,Latte intero,,19.37,ml,1.1,21.31,10,SI,29/12/2024
+50247,5,30/09/2024,Beverages Distribution,FORN-007,SKU-4933,Costata di manzo,Carni,3.397,1000g,33.353,113.3,10,si,30/10/2024
+50247,6,30/09/2024,Beverages Distribution,FORN-007,SKU-2219,Pasta tagliatelle,Secchi,26.742,g,2.1,56.16,10,SI,29/11/2024
+50248,1,01/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6712,Burrata,,278.0,cad,3.0785,855.82,10,SI,30/11/2024
+50248,2,01/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7666,Vongole fresche,Pesce,9.46,KG,7.8605,74.36,10,SI,30/12/2024
+50248,3,01/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-8594,Pomodorini ciliegino,Verdure,14.86,kg,2.9862,44.37,10,SI,30/11/2024
+50249,1,03/10/2024,Distribuzione Generale,FORN-008,SKU-3511,FUNGHI PORCINI,Funghi,15.888,kg,43.2238,686.74,22,0,01/01/2025
+50249,2,03/10/2024,Distribuzione Generale,FORN-008,SKU-5507,Vino Tignanello,Vini,27.0,0.75,75.1329,2028.59,10,SI,01/01/2025
+50249,3,03/10/2024,Distribuzione Generale,FORN-008,SKU-6702,Pomodorini ciliegino,Verdure,19.952,kilo,3.1589,63.03,22,SI,02/11/2024
+50249,4,03/10/2024,Distribuzione Generale,FORN-008,SKU-6483,Salmone intero,Pesce,4.818,KG,15.6207,75.26,22,SI,01/01/2025
+50250,1,05/10/2024,Beverages Distribution,FORN-007,SKU-8126,Filetto di manzo,Carni,27.957,1000g,36.6965,1025.92,10,1,03/01/2025
+50250,2,05/10/2024,Beverages Distribution,FORN-007,SKU-2443,parmigiano,Latticini,27.21,1000g,15.542,422.9,10,SI,04/11/2024
+50250,3,05/10/2024,Beverages Distribution,FORN-007,SKU-2360,Rucola,Verdure,26.695,g,4.0,106.78,10,SI,03/01/2025
+50250,4,05/10/2024,Beverages Distribution,FORN-007,SKU-9593,Branzino fresco,Pesce,1.375,Kg,15.4326,21.22,22,SI,03/01/2025
+50250,5,05/10/2024,Beverages Distribution,FORN-007,SKU-3977,Prosecco DOC,Vini,21.0,1,,,22,NO,04/12/2024
+50250,6,2024/10/05,Beverages Distribution,FORN-007,SKU-5692,Riso Carnaroli,Secchi,21.782,KG,3.6014,78.45,10,NO,04/12/2024
+50251,1,06/10/2024,Cantina Toscana SpA,FORN-004,SKU-5301,Riso Carnaroli,Secchi,24.905,kilo,3.4924,86.98,22,SI,04/01/2025
+50251,2,06/10/2024,Cantina Toscana SpA,FORN-004,SKU-4695,LATTE 1L,Latticini,18.15,ml,1.1,19.96,,no,05/12/2024
+50251,3,06/10/2024,Cantina Toscana SpA,FORN-004,SKU-9513,Costata di manzo,Carni,29.067,kilo,33.1161,962.59,10,SI,04/01/2025
+50252,1,2024/10/09,BIANCHI CARNI s.r.l.,FORN-001,SKU-7228,Branzino fresco,Pesce,11.043,kilo,19.8536,219.24,4,SI,07/01/2025
+50252,2,09/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6284,Insalata mista,Verdure,17.407,kilo,2.1674,37.73,22,NO,08/12/2024
+50252,3,09/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7532,Prosecco DOC,,29.0,750ml,5.0553,146.6,10,SI,07/01/2025
+50252,4,09/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6708,Vino Tignanello,Vini,14.0,1,84.668,1185.35,10,SI,29/09/2024
+50252,5,09/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-4751,latte intero lt,Latticini,18.54,lt,1.0153,18.82,5,SI,08/12/2024
+50252,6,09/10/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7995,Farina 00,Secchi,24.374,kg,0.8535,20.8,22,SI,07/01/2025
+50253,1,10/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-5430,Riso Carnaroli,Secchi,18.484,kg,3.7706,69.7,4,SI,09/11/2024
+50253,2,2024/10/10,Pescheria Del Mare SNC,FORN-002,SKU-6549,Caffe miscela bar,Bevande,3.478,1000g,0.14,0.49,22,SI,09/12/2024
+50253,3,10/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-4308,Burrata,Latticini,72.0,nr,2.5648,184.67,4,SI,09/12/2024
+50253,4,10/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-3793,Olio EVO,,16.7,LT,8.2187,137.25,4,NO,09/12/2024
+50254,1,12/10/2024,Cantina Toscana SpA,FORN-004,SKU-4990,Prosecco DOC,Vini,19.0,1,4.795,91.11,10,,11/11/2024
+50254,2,12/10/2024,Cantina Toscana SpA,FORN-004,SKU-3931,Burrata,Latticini,53.0,nr,2.9206,154.79,10,SI,
+50254,3,12/10/2024,Cantina Toscana SpA,FORN-004,SKU-5401,Riso Carnaroli,Secchi,6.677,1000g,3.6028,24.06,4,S,10/01/2025
+50254,4,12/10/2024,Cantina Toscana SpA,FORN-004,SKU-1161,Uova fresche cat. A,Latticini,98.0,nr,0.315,30.87,,NO,11/11/2024
+50254,5,12/10/2024,Cantina Toscana SpA,FORN-004,SKU-1462,Fil. Manzo,Carni,19.908,Kg,37.0583,737.76,,SI,11/11/2024
+50255,1,13/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-4316,Rucola,Verdure,8.82,kilo,3.8006,33.52,10,SI,12/11/2024
+50255,2,13/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-4297,Pasta tagliatelle,Secchi,12.843,1000g,2.031,26.08,4,SI,11/01/2025
+50255,3,13/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-5675,Pomodorini ciliegino,Verdure,2.648,kilo,3.4042,9.01,,NO,23/09/2024
+50255,4,13/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-1401,LATTE 1L,Latticini,9.34,0.75,1.0501,9.81,5,NO,11/01/2025
+50256,1,14/10/2024,Latteria Alpina Coop,FORN-005,SKU-4123,Costata di manzo,Carni,22.508,kilo,32.0261,720.84,22,NO,13/11/2024
+50256,2,14/10/2024,Latteria Alpina Coop,FORN-005,SKU-5820,Parmigiano Reggiano 24m,Latticini,28.85,g,16.5,476.03,10,NO,12/01/2025
+50256,3,14/10/2024,Latteria Alpina Coop,FORN-005,SKU-8213,Petto di pollo,Carni,12.246,kg,9.2929,113.8,10,si,13/11/2024
+50257,1,16-10-2024,Beverages Distribution,FORN-007,SKU-1890,Insalata mista,Verdure,18.061,Kg,2.8994,52.37,5,SI,14/01/2025
+50257,2,16/10/2024,Beverages Distribution,FORN-007,SKU-4841,Olio EVO,Condimenti,18.08,1000ml,850.0,15368.0,10,NO,15/12/2024
+50257,3,16/10/2024,Beverages Distribution,FORN-007,SKU-4450,Caffe miscela bar,Bevande,20.628,kg,1400.0,28879.2,22,NO,14/01/2025
+50257,4,2024/10/16,Beverages Distribution,FORN-007,SKU-9406,Panna fresca,Latticini,3.86,lt,2.2825,8.81,22,SI,15/11/2024
+50258,1,17/10/2024,Beverages Distribution,FORN-007,SKU-3081,Acqua minerale 1L,,188.0,pz,0.3802,71.48,10,NO,16/11/2024
+50258,2,17/10/2024,Beverages Distribution,FORN-007,SKU-6266,Farina 00,Secchi,21.59,kg,0.8712,18.81,22,SI,16/11/2024
+50258,3,17/10/2024,Beverages Distribution,FORN-007,SKU-4477,Costata di manzo,Carni,20.478,kilo,2.8,57.34,10,SI,16/11/2024
+50259,1,21/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-9153,  Panna fresca,Latticini,16.01,l,2.6983,43.2,10,NO,20/12/2024
+50259,2,21/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-4422,Prosecco DOC,,15.0,bott,5.0158,75.24,4,SI,20/11/2024
+50259,3,21/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-8804,Vino Tignanello,Vini,33.0,0.75,66.6098,2198.12,5,1,20/12/2024
+50259,4,2024/10/21,Pescheria Del Mare SNC,FORN-002,SKU-2640,Riso Carnaroli,Secchi,15.077,1000g,3.5317,53.25,22,SI,19/01/2025
+50259,5,21/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-3645,Burrata,Latticini,241.0,1,2.5083,604.5,,SI,20/11/2024
+50259,6,2024/10/21,Pescheria Del Mare SNC,FORN-002,SKU-5224,Acqua 1lt,Bevande,139.0,nr,0.3481,48.39,10,NO,19/01/2025
+50260,1,25/10/2024,Distribuzione Generale,FORN-008,SKU-2896,  Vino Tignanello,Vini,17.0,bott,87.101,1480.72,10,SI,24/11/2024
+50260,2,25/10/2024,Distribuzione Generale,FORN-008,SKU-4828,Salmone intero,Pesce,19.577,1000g,13.3044,260.46,10,SI,23/01/2025
+50260,3,25/10/2024,Distribuzione Generale,FORN-008,SKU-9872,Petto di pollo,Carni,21.436,kg,10.1964,218.57,10,SI,23/01/2025
+50260,4,25/10/2024,Distribuzione Generale,FORN-008,SKU-3413,Vino Chianti DOCG bt,Vini,42.0,BT,7.0519,296.18,22,SI,24/11/2024
+50260,5,25/10/2024,Distribuzione Generale,FORN-008,SKU-7569,  Caffe miscela bar,,18.465,g,14.0,258.51,22,SI,23/01/2025
+50260,6,25-10-2024,Distribuzione Generale,FORN-008,SKU-6314,Pasta tagliatelle,Secchi,5.414,g,2.1,11.37,10,SI,23/01/2025
+50260,7,25/10/2024,Distribuzione Generale,FORN-008,SKU-8970,Insalata mista,Verdure,16.767,1000g,,,22,SI,
+50260,8,25/10/2024,Distribuzione Generale,FORN-008,SKU-9831,Panna fresca,Latticini,14.16,lt,2.8619,40.52,10,SI,23/01/2025
+50261,1,28/10/2024,Distribuzione Generale,FORN-008,SKU-5791,Parmigiano 24m,Latticini,18.144,kilo,14.1,255.83,22,,27/12/2024
+50261,2,28/10/2024,Distribuzione Generale,FORN-008,SKU-5394,F@rina 00,Secchi,21.891,kg,0.8833,19.34,10,NO,27/11/2024
+50261,3,28/10/2024,Distribuzione Generale,FORN-008,SKU-8264,Salmone intero,Pesce,12.312,KG,16.1025,198.25,,SI,27/12/2024
+50261,4,28/10/2024,Distribuzione Generale,FORN-008,SKU-7870,Caffe miscela bar ,Bevande,27.885,KG,12.5714,350.55,10,SI,27/12/2024
+50261,5,28/10/2024,Distribuzione Generale,FORN-008,SKU-2912,Vino Tignanello,Vini,23.0,0.75,68.6478,1578.9,22,NO,27/11/2024
+50261,6,28/10/2024,Distribuzione Generale,FORN-008,SKU-6082,FUNGHI PORCINI,Funghi,15.079,kilo,46.5296,701.62,22,NO,27/12/2024
+50261,7,28/10/2024,Distribuzione Generale,FORN-008,SKU-2935,Filetto di manzo,Carni,15.104,kg,35.1919,531.54,10,NO,
+50262,1,29/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-4299,Caffe miscela bar,Bevande,4.88,kilo,13.4355,65.57,4,SI,28/12/2024
+50262,2,29/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-3770,Farina 00,Secchi,2.103,g,0.85,1.79,4,SI,28/12/2024
+50262,3,29/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-8197,Vino Tignanello,Vini,32.0,1,72.1839,2309.88,10,SI,27/01/2025
+50262,4,2024/10/29,Pescheria Del Mare SNC,FORN-002,SKU-7181,Olio extra vergine,Condimenti,6.84,0.75,10.0722,68.89,22,NO,28/12/2024
+50262,5,29/10/2024,Pescheria Del Mare SNC,FORN-002,SKU-1037,Vino Chianti DOCG bt,Vini,47.0,BT,6.5526,307.97,10,SI,28/11/2024
+50262,6,2024/10/29,Pescheria Del Mare SNC,FORN-002,SKU-8124,Fil. Manzo,Carni,15.897,g,38.0,604.09,22,NO,28/11/2024
+50263,1,31/10/2024,Latteria Alpina Coop,FORN-005,SKU-4373,Pasta tagliatelle,,5.645,kg,2.3596,13.32,10,SI,29/01/2025
+50263,2,31/10/2024,Latteria Alpina Coop,FORN-005,SKU-1268,Rucol@,,24.526,g,4.0,98.1,22,SI,29/01/2025
+50263,3,31/10/2024,Latteria Alpina Coop,FORN-005,SKU-2592,Olio EVO,Condimenti,4.06,l,9.008,36.57,22,NO,30/11/2024
+50263,4,31/10/2024,Latteria Alpina Coop,FORN-005,SKU-7673,Vongole fresche,Pesce,3.752,kg,8.1564,30.6,10,NO,29/01/2025
+50263,5,31/10/2024,Latteria Alpina Coop,FORN-005,SKU-3318,Insalata mista,Verdure,19.813,g,2.5,49.53,10,SI,29/01/2025
+50263,6,31/10/2024,Latteria Alpina Coop,FORN-005,SKU-8451,Uova fresche cat. A,Latticini,68.0,cad,0.3255,22.13,10,NO,29/01/2025
+50264,1,04-11-2024,Macelleria Bianchi SRL,FORN-001,SKU-7941,Pomodorini ciliegino,Verdure,17.681,kg,2.7922,49.37,10,SI,03/01/2025
+50264,2,04/11/2024,Macelleria Bianchi SRL,FORN-001,SKU-9325,Prosecco DOC,Vini,47.0,bt,4.2321,198.91,22,SI,04/12/2024
+50264,3,04/11/2024,Macelleria Bianchi SRL,FORN-001,SKU-8915,Riso Carnaroli,Secchi,12.355,kg,,,10,NO,02/02/2025
+50264,4,04/11/2024,Macelleria Bianchi SRL,FORN-001,SKU-4724,Farina 00,Secchi,22.787,1000g,0.7785,17.74,10,SI,03/01/2025
+50265,1,07/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-5284,Panna fresca,Latticini,4.73,l,2.1039,9.95,22,S,05/02/2025
+50265,2,07/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3441,parmigiano,Latticini,19.892,g,16.5,328.22,22,SI,06/01/2025
+50265,3,07/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-4739,Riso Carnaroli,Secchi,3.838,kilo,2.8871,11.08,22,SI,07/12/2024
+50265,4,07/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1467,Olio EVO,Condimenti,3.95,ml,8.5,33.58,22,SI,07/12/2024
+50265,5,07/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6031,Pasta tagliatelle,Secchi,19.844,kilo,2.5101,49.81,10,NO,07/12/2024
+50265,6,07/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-5793,Vino Tignanello,Vini,6.0,bott,66.6737,400.04,10,SI,06/01/2025
+50265,7,07/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8771,Costata di manzo,Carni,23.973,kilo,,,22,SI,06/01/2025
+50265,8,2024/11/07,Ortofrutta Rossi e Figli,FORN-003,SKU-2936,acqua minerale,Bevande,252.0,1,0.3195,80.51,22,SI,07/12/2024
+50266,1,08/11/2024,Pescheria Del Mare SNC,FORN-002,SKU-1210,Rucola,,24.214,kg,3.5883,86.89,10,NO,06/02/2025
+50266,2,08/11/2024,Pescheria Del Mare SNC,FORN-002,SKU-7737,Pomodorini ciliegino,Verdure,13.414,kilo,3.7009,49.64,10,S,07/01/2025
+50266,3,08/11/2024,Pescheria Del Mare SNC,FORN-002,SKU-8723,Caffe miscela bar,Bevande,4.13,kilo,14.1119,58.28,10,si,08/12/2024
+50266,4,08/11/2024,Pescheria Del Mare SNC,FORN-002,SKU-7815,parmigiano,Latticini,29.729,Kg,16.4508,489.07,10,NO,06/02/2025
+50266,5,08/11/2024,Pescheria Del Mare SNC,FORN-002,SKU-6239,Branzino fresco,,10.117,kilo,18.191,184.04,22,no,08/12/2024
+50266,6,08/11/2024,Pescheria Del Mare SNC,FORN-002,SKU-5571,SALE,Condimenti,20.762,KG,0.3638,7.55,4,no,08/12/2024
+50266,7,08/11/2024,Pescheria Del Mare SNC,FORN-002,SKU-8861,ACQUA NAT 1L,Bevande,222.0,1,0.3596,79.83,10,NO,07/01/2025
+50267,1,12/11/2024,Latteria Alpina Coop,FORN-005,SKU-1678,Salmone intero,,5.969,1000g,15.3601,91.68,5,NO,10/02/2025
+50267,2,12/11/2024,Latteria Alpina Coop,FORN-005,SKU-7433,  Olio EVO,Condimenti,2.52,ml,8.5,21.42,10,SI,20/10/2024
+50267,3,12/11/2024,Latteria Alpina Coop,FORN-005,SKU-5060,Petto di pollo,Carni,17.198,kg,9.0601,155.82,4,SI,12/12/2024
+50267,4,2024/11/12,Latteria Alpina Coop,FORN-005,SKU-4950,Branzino fresco,Pesce,10.535,kilo,18.4183,194.04,10,SI,12/12/2024
+50267,5,12/11/2024,Latteria Alpina Coop,FORN-005,SKU-6246,Farina 00,Secchi,24.628,kilo,0.9856,24.27,10,si,12/12/2024
+50267,6,12/11/2024,Latteria Alpina Coop,FORN-005,SKU-7568,Vongole fresche,Pesce,14.33,KG,9.6188,137.84,22,SI,11/01/2025
+50267,7,12/11/2024,Latteria Alpina Coop,FORN-005,SKU-2744,filetto manzo kg,Carni,8.39,KG,44.8819,376.56,4,SI,11/01/2025
+50267,8,12/11/2024,Latteria Alpina Coop,FORN-005,SKU-2218,Caffe miscela bar,Bevande,13.779,g,14.0,192.91,22,S,11/01/2025
+50268,1,15/11/2024,Beverages Distribution,FORN-007,SKU-7829,Latte intero,Latticini,5.88,lt,0.9768,5.74,10,NO,14/01/2025
+50268,2,15/11/2024,Beverages Distribution,FORN-007,SKU-7927,Farina 00,Secchi,20.484,1000g,0.8695,17.81,10,SI,
+50268,3,15/11/2024,Beverages Distribution,FORN-007,SKU-8877,Parmigiano Reggiano,Latticini,14.828,kg,14.3046,212.11,4,NO,15/12/2024
+50268,4,15/11/2024,Beverages Distribution,FORN-007,SKU-6046,petto di pollo,Carni,17.941,kg,7.6097,136.53,10,si,14/01/2025
+50269,1,18/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9870,Caffe miscela bar,Bevande,27.204,1000g,14.9584,406.93,10,NO,16/02/2025
+50269,2,18/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2147,Riso Carnaroli,Secchi,17.607,kg,2.7854,49.04,,0,16/02/2025
+50269,3,18/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9599,Petto di pollo,Carni,4.875,kg,7.3062,35.62,10,,18/12/2024
+50270,1,22-11-2024,Latteria Alpina Coop,FORN-005,SKU-3213,Olio EVO,Condimenti,16.51,l,0.85,14.03,22,SI,21/01/2025
+50270,2,22/11/2024,Latteria Alpina Coop,FORN-005,SKU-8313,Porcini kg,Funghi,2.408,g,45.0,108.36,22,NO,20/02/2025
+50270,3,22/11/2024,Latteria Alpina Coop,FORN-005,SKU-8266,  Latte intero,Latticini,19.57,L,1.1013,21.55,4,SI,
+50270,4,22/11/2024,Latteria Alpina Coop,FORN-005,SKU-2030,Burrata,Latticini,76.0,pezzi,2.8314,215.19,10,NO,22/12/2024
+50270,5,22/11/2024,Latteria Alpina Coop,FORN-005,SKU-5199,Uova 30pz,Latticini,270.0,PZ,0.2494,67.34,22,NO,20/02/2025
+50270,6,22/11/2024,Latteria Alpina Coop,FORN-005,SKU-4389,Panna fresca,Latticini,10.21,0.75,2.5221,25.75,4,NO,21/01/2025
+50270,7,22/11/2024,Latteria Alpina Coop,FORN-005,SKU-4802,Sale fino,Condimenti,11.895,kg,0.4437,5.28,22,SI,22/12/2024
+50271,1,23/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-5146,Porcini freschi kg,Funghi,10.393,kilo,39.8288,413.94,10,SI,23/12/2024
+50271,2,23/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3872,Uova XL,Latticini,297.0,cad,0.304,90.29,10,SI,23/12/2024
+50271,3,23/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8384,Petto di pollo,Carni,7.749,kilo,9.3596,72.53,,SI,23/12/2024
+50271,4,2024/11/23,Ortofrutta Rossi e Figli,FORN-003,SKU-3261,Prosecco DOC,Vini,42.0,750ml,5.6937,239.14,22,0,21/02/2025
+50271,5,23/11/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1841,Riso Carnaroli,,4.326,g,3.2,13.84,4,NO,22/01/2025
+50272,1,24/11/2024,Latteria Alpina Coop,FORN-005,SKU-3531,Salmone intero,Pesce,25.851,g,14.0,361.91,22,SI,22/02/2025
+50272,2,24/11/2024,Latteria Alpina Coop,FORN-005,SKU-2626,Costata di manzo,Carni,23.553,kilo,26.1131,615.04,10,SI,24/12/2024
+50272,3,24/11/2024,Latteria Alpina Coop,FORN-005,SKU-6315,Insalata mista,Verdure,2.74,kilo,2.7061,7.41,10,SI,23/01/2025
+50273,1,27/11/2024,Molino Pasta Artigianale,FORN-006,SKU-7186,Vongole fresche,Pesce,20.857,kg,9.8255,204.93,10,NO,27/12/2024
+50273,2,27/11/2024,Molino Pasta Artigianale,FORN-006,SKU-8966,Vino Chianti DOCG bt,Vini,31.0,bott,6.0618,187.92,22,NO,25/02/2025
+50273,3,27/11/2024,Molino Pasta Artigianale,FORN-006,SKU-1316,FILETTO DI MANZO,Carni,28.229,Kg,35.759,1009.44,22,SI,26/01/2025
+50273,4,27/11/2024,Molino Pasta Artigianale,FORN-006,SKU-6202,Salmone intero,Pesce,18.401,kg,15.6019,287.09,4,si,25/02/2025
+50273,5,27/11/2024,Molino Pasta Artigianale,FORN-006,SKU-1270,Riso Carnaroli,Secchi,7.549,Kg,3.6485,27.54,5,si,27/12/2024
+50273,6,27/11/2024,Molino Pasta Artigianale,FORN-006,SKU-8408,Vino Tignanello,,45.0,bt,88.421,3978.95,22,SI,26/01/2025
+50273,7,27/11/2024,Molino Pasta Artigianale,FORN-006,SKU-8489,Petto di pollo,Carni,1.806,Kg,9.427,17.03,10,SI,25/02/2025
+50274,1,28/11/2024,Cantina Vinicola Toscana,FORN-004,SKU-1132,Vino rosso Chianti,Vini,29.0,bottiglia,6.6914,194.05,10,SI,
+50274,2,28/11/2024,Cantina Vinicola Toscana,FORN-004,SKU-1701,Costata di manzo,Carni,22.001,kg,26.4976,582.97,10,NO,27/01/2025
+50274,3,28/11/2024,Cantina Vinicola Toscana,FORN-004,SKU-2941,Salmone intero,Pesce,14.028,kg,14.2715,200.2,,SI,26/02/2025
+50274,4,28/11/2024,Cantina Vinicola Toscana,FORN-004,SKU-2277,Prosecco DOC,Vini,47.0,0.75,5.3711,252.44,22,SI,26/02/2025
+50274,5,28/11/2024,Cantina Vinicola Toscana,FORN-004,SKU-7064,Caffe miscela ba,Bevande,21.231,Kg,16.3279,346.66,5,SI,27/01/2025
+50275,1,29/11/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2858,Insalata mista,Verdure,19.53,KG,2.9503,57.62,4,S,28/01/2025
+50275,2,29/11/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6431,Pomodorini ciliegino,Verdure,17.261,kilo,3.4302,59.21,10,SI,29/12/2024
+50275,3,29/11/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-6242,Porcini freschi,,8.057,KG,47.6385,383.82,10,SI,28/01/2025
+50275,4,29/11/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-2464,uova fresche,Latticini,181.0,nr,0.2656,48.07,,0,27/02/2025
+50275,5,29/11/2024,BIANCHI CARNI s.r.l.,FORN-001,SKU-7818,Farina 00,Secchi,2.725,Kg,0.7596,2.07,22,NO,27/02/2025
+50275,6,2024/11/29,BIANCHI CARNI s.r.l.,FORN-001,SKU-4488,Riso Carnaroli,Secchi,12.135,kilo,3.0132,36.57,4,NO,27/02/2025
+50276,1,03/12/2024,Beverages Distribution,FORN-007,SKU-8186,Pasta tagliatelle,Secchi,19.802,g,2.1,41.58,22,SI,01/02/2025
+50276,2,03/12/2024,Beverages Distribution,FORN-007,SKU-3696,Salmone intero,Pesce,6.502,kilo,0.14,0.91,5,NO,01/02/2025
+50276,3,03/12/2024,Beverages Distribution,FORN-007,SKU-8663,Panna fresca,Latticini,3.92,lt,2.0571,8.06,10,SI,01/02/2025
+50276,4,03/12/2024,Beverages Distribution,FORN-007,SKU-9412,Vino Chianti DOCG bt,Vini,13.0,BT,7.6702,99.71,10,SI,02/01/2025
+50276,5,03/12/2024,Beverages Distribution,FORN-007,SKU-5780,Caffe miscela bar,Bevande,9.571,Kg,15.687,150.14,22,0,
+50276,6,03/12/2024,Beverages Distribution,FORN-007,SKU-7625,Porcini freschi,Funghi,23.527,kilo,50.2811,1182.96,10,NO,01/02/2025
+50277,1,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7898,Parmigiano Reggiano,Latticini,2.82,kilo,17.0593,48.11,4,si,03/02/2025
+50277,2,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6106,Prosecco DOC,Vini,34.0,bottiglia,5.1372,174.66,10,SI,04/01/2025
+50277,3,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9406,Uova Cat.A 30pz,Latticini,127.0,pezzi,0.3258,41.38,10,SI,04/01/2025
+50277,4,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-4280,Branzino fresco,Pesce,6.158,Kg,19.0127,117.08,22,NO,04/01/2025
+50277,5,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6813,Vongole fresche,Pesce,23.995,Kg,8.4617,203.04,22,NO,04/01/2025
+50277,6,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9355,Petto di pollo,Carni,25.925,kg,8.4828,219.92,10,NO,03/02/2025
+50277,7,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3447,  Pomodorini ciliegino,Verdure,14.74,kg,2.9662,43.72,10,NO,03/02/2025
+50277,8,05/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-1723,Pasta tagliatelle,Secchi,14.832,kilo,2.0658,30.64,10,SI,
+50278,1,08/12/2024,Cantina Toscana SpA,FORN-004,SKU-8949,Caffe miscela bar,Bevande,14.302,g,14.0,200.23,22,NO,08/03/2025
+50278,2,08/12/2024,Cantina Toscana SpA,FORN-004,SKU-7852,Rucola,,3.536,1000g,4.6272,16.36,4,NO,07/01/2025
+50278,3,08/12/2024,Cantina Toscana SpA,FORN-004,SKU-2852,Filetto di manzo,Carni,2.985,g,38.0,113.43,10,0,07/01/2025
+50279,1,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-7360,Chianti bt 0.75,Vini,39.0,bt,6.3908,249.24,10,SI,10/03/2025
+50279,2,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-1194,Farina 00,Secchi,28.146,g,0.85,23.92,22,NO,09/01/2025
+50279,3,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-9586,Vino Tignanello,Vini,7.0,1,82.032,574.22,10,SI,08/02/2025
+50279,4,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-4385,Costata di manzo,Carni,18.172,KG,28.9762,526.56,10,0,
+50279,5,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-3788,Filetto di manzo,Carni,28.436,kilo,,,10,SI,09/01/2025
+50279,6,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-1656,Parmigiano Reggiano 24m,Latticini,22.64,g,16.5,373.56,10,SI,
+50279,7,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-2657,acqua minerale,Bevande,278.0,PZ,0.3034,84.35,4,S,10/03/2025
+50279,8,10/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-7862,Uova 30pz,Latticini,283.0,PZ,0.3186,90.16,22,SI,08/02/2025
+50280,1,13/12/2024,Beverages Distribution,FORN-007,SKU-6706,Farina 00,Secchi,26.674,g,0.85,22.67,4,NO,12/01/2025
+50280,2,13/12/2024,Beverages Distribution,FORN-007,SKU-1129,FILETTO DI MANZO,Carni,23.678,g,38.0,899.76,4,,11/02/2025
+50280,3,13/12/2024,Beverages Distribution,FORN-007,SKU-6526,Pomodorini ciliegino,Verdure,18.937,kilo,3.4519,65.37,22,SI,12/01/2025
+50280,4,2024/12/13,Beverages Distribution,FORN-007,SKU-3408,Costata di manzo,Carni,26.089,kilo,33.1538,864.95,22,SI,11/02/2025
+50280,5,13/12/2024,Beverages Distribution,FORN-007,SKU-9059,Parmigiano Reggiano 24m,Latticini,8.483,KG,16.7217,141.85,22,SI,24/11/2024
+50280,6,13/12/2024,Beverages Distribution,FORN-007,SKU-9572,Olio EVO,Condimenti,7.23,lt,7.276,52.61,22,SI,13/03/2025
+50280,7,13/12/2024,Beverages Distribution,FORN-007,SKU-3644,Prosecco DOC,Vini,40.0,bott,5.1971,207.88,22,SI,12/01/2025
+50280,8,13/12/2024,Beverages Distribution,FORN-007,SKU-8123,  Petto di pollo,Carni,5.698,KG,9.8699,56.24,10,1,12/01/2025
+50281,1,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-3107,Insalata mista,Verdure,18.031,kg,2.4852,44.81,4,SI,16/01/2025
+50281,2,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-6184,Latte intero,Latticini,14.88,0.75,1.1093,16.51,22,SI,17/03/2025
+50281,3,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-5064,Rucola,Verdure,9.159,kg,3.7919,34.73,,SI,16/01/2025
+50281,4,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-4066,Salmone intero,Pesce,13.181,Kg,16.3522,215.54,22,NO,17/03/2025
+50281,5,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-5280,Riso Carnaroli,Secchi,24.051,1000g,3.6367,87.47,10,SI,15/02/2025
+50281,6,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-4128,Olio EVO,Condimenti,15.26,L,8.0386,122.67,10,si,15/02/2025
+50281,7,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-1146,Vino Tignanello,Vini,25.0,bottiglia,78.4983,1962.46,22,SI,17/03/2025
+50281,8,17/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-2306,Parmigiano Reggiano 24m,Latticini,26.706,kilo,16.1221,430.56,22,SI,15/02/2025
+50282,1,19/12/2024,Distribuzione Generale,FORN-008,SKU-2492,Vino Tignanello,Vini,20.0,BT,84.0454,1680.91,22,SI,17/02/2025
+50282,2,19/12/2024,Distribuzione Generale,FORN-008,SKU-1925,Pasta tagliatelle,,21.548,g,2.1,45.25,10,SI,19/03/2025
+50282,3,19/12/2024,Distribuzione Generale,FORN-008,SKU-2921,Insalata mista,Verdure,19.129,g,2.5,47.82,5,SI,18/01/2025
+50282,4,19/12/2024,Distribuzione Generale,FORN-008,SKU-9151,LATTE 1L,Latticini,12.25,LT,1.2905,15.81,22,NO,09/12/2024
+50282,5,19/12/2024,Distribuzione Generale,FORN-008,SKU-2248,Parmigiano Reggiano 24m,Latticini,17.711,kilo,14.8636,263.25,10,NO,19/03/2025
+50282,6,19/12/2024,Distribuzione Generale,FORN-008,SKU-8146,Prosecco DOC,Vini,35.0,bottiglia,5.603,196.1,10,SI,18/01/2025
+50282,7,19/12/2024,Distribuzione Generale,FORN-008,SKU-4840,Rucola,Verdure,1.228,Kg,4.6475,5.71,22,SI,17/02/2025
+50282,8,19/12/2024,Distribuzione Generale,FORN-008,SKU-3169,Acqua 1000ml,Bevande,152.0,nr,,,5,SI,18/01/2025
+50283,1,21/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-3606,Branzino fresco,Pesce,24.413,kg,900.0,21971.7,22,NO,19/02/2025
+50283,2,21/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-5925,FUNGHI PORCINI,,24.542,kg,51.4353,1262.33,22,SI,20/01/2025
+50283,3,21/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-4341,Sale fino,Condimenti,10.529,g,0.4,4.21,22,SI,20/01/2025
+50283,4,21/12/2024,Pescheria Del Mare SNC,FORN-002,SKU-8917,Olio EVO,Condimenti,14.81,lt,8.5842,127.13,10,SI,21/03/2025
+50284,1,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-8992,Burrata,Latticini,189.0,pz,2.9366,555.02,22,SI,22/01/2025
+50284,2,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7130,Vino Tignanello,Vini,12.0,bt,72.2551,867.06,5,SI,21/02/2025
+50284,3,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-7387,Panna fresca,Latticini,12.49,l,2.7761,34.67,10,SI,23/03/2025
+50284,4,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-2243,Uova fresche cat. A,Latticini,86.0,pezzi,0.2754,23.68,,SI,21/02/2025
+50284,5,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3410,PARM.REGG.,Latticini,16.152,kilo,14.1818,229.06,22,SI,23/11/2024
+50284,6,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-3599,Costata di manzo,Carni,28.129,1000g,23.802,669.53,4,NO,23/03/2025
+50284,7,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-6163,Latte intero,Latticini,6.67,ml,1.1,7.34,10,NO,22/01/2025
+50284,8,23/12/2024,Ortofrutta Rossi e Figli,FORN-003,SKU-9677,Petto di pollo,Carni,22.465,g,8.5,190.95,10,NO,23/03/2025
+50285,1,27/12/2024,Beverages Distribution,FORN-007,SKU-2366,Panna fresca,Latticini,10.18,0.75,2.8602,29.12,22,S,26/01/2025
+50285,2,27/12/2024,Beverages Distribution,FORN-007,SKU-3877,latte intero lt,Latticini,13.92,l,1.1101,15.45,22,no,27/03/2025
+50285,3,27/12/2024,Beverages Distribution,FORN-007,SKU-9627,Burrata,Latticini,266.0,pezzi,3.0623,814.57,4,NO,27/03/2025
+50285,4,27/12/2024,Beverages Distribution,FORN-007,SKU-9888,Prosecco DOC,Vini,9.0,BT,4.5303,40.77,10,si,25/02/2025
+50285,5,27/12/2024,Beverages Distribution,FORN-007,SKU-1340,  Salmone intero,Pesce,5.45,Kg,15.783,86.02,10,NO,26/01/2025
+50285,6,27-12-2024,Beverages Distribution,FORN-007,SKU-1915,Ins@lata mista,Verdure,1.914,g,2.5,4.79,22,NO,25/02/2025
+50285,7,27/12/2024,Beverages Distribution,FORN-007,SKU-2828,Costata di manzo,,3.9,kg,26.5836,103.68,5,SI,26/01/2025

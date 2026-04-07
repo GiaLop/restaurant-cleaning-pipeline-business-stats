@@ -1,0 +1,65 @@
+﻿ricetta_id,nome_piatto,ingrediente,quantita_per_porzione,unita_misura,note_chef,costo_stimato_eur,allergeni
+1,Risotto ai funghi porcini,Riso Carnaroli,0.08,kg,qty da aggiustare,2.1472,
+1,Risotto ai funghi porcini,PORCINI FRESCHI,0.05,kg,,0.9344,
+1,Risotto ai funghi porcini,Cipolla bianca,0.02,kg,km0,0.2452,
+1,Risotto ai funghi porcini,Brodo vegetale,0.25,lt,,1.7,
+1,Risotto ai funghi porcini,Burro,0.015,kg,best quality,0.1385,latte
+1,Risotto ai funghi porcini,Parmigiano,0.02,kg,stagionale,0.3705,latte
+1,Risotto ai funghi porcini,Olio di oliva EVO,0.01,lt,IGP,0.3969,
+1,Risotto ai funghi porcini,Sale,0.002,kg,,0.0151,
+2,Tagliatelle al ragu,pasta fresca tagliatelle,0.09,kg,bio,2.3104,"glutine,uova"
+2,Tagliatelle al ragu,Manzo macinato,0.08,kg,km0,1.5685,
+2,Tagliatelle al ragu,Carota,0.02,kg,,0.3172,
+2,Tagliatelle al ragu,Sedano,0.01,kg,best quality,0.1218,
+2,Tagliatelle al ragu,Cipolle dorate,0.02,kg,bio,0.4336,
+2,Tagliatelle al ragu,Pomodoro pelato,0.06,kg,km0,2.3933,
+2,Tagliatelle al ragu,Vino rosso,0.03,l,qty da aggiustare,0.4964,solfiti
+2,Tagliatelle al ragu,olio evo,0.01,l,qty da aggiustare,0.2673,
+3,Spaghetti alle vongole,Spaghetti,0.09,kg,stagionale,2.7442,glutine
+3,Spaghetti alle vongole,vongole,0.15,kg,se disponibile,2.9869,molluschi
+3,Spaghetti alle vongole,Aglio,0.005,kg,best quality,0.0536,
+3,Spaghetti alle vongole,Prezzemolo fresco,0.005,kg,alternativa: surgelato,0.1985,
+3,Spaghetti alle vongole,Vino bianco secco,0.04,l,IGP,0.3249,solfiti
+3,Spaghetti alle vongole,Olio EVO lt,0.015,l,alternativa: surgelato,0.0079,
+3,Spaghetti alle vongole,Peperoncino,0.001,kg,qty da aggiustare,0.0073,
+4,Bistecca alla fiorentina,Costata T-bone manzo,0.6,kg,,6.5224,
+4,Bistecca alla fiorentina,Sale grosso marino,0.005,kg,stagionale,0.1521,
+4,Bistecca alla fiorentina,Rosmarino fresco,0.005,kg,alternativa: surgelato,0.1685,
+4,Bistecca alla fiorentina,Olio extravergine,0.015,l,,0.1058,
+4,Bistecca alla fiorentina,Pepe nero macinato,0.001,kg,alternativa: surgelato,0.0321,
+5,Branzino al forno,Branzino fresco intero,0.4,Kg,,8.9478,pesce
+5,Branzino al forno,Limone,0.05,kg,km0,0.2428,
+5,Branzino al forno,Erbe aromatiche miste,0.01,kg,se disponibile,0.3932,
+5,Branzino al forno,Olio EVO,0.02,l,IGP,0.6157,
+5,Branzino al forno,Sale,0.003,kg,stagionale,,
+5,Branzino al forno,Pomodorini datterini,0.05,kg,IGP,1.9378,
+6,Carpaccio di manzo,Filetto manzo crudo,0.12,kg,DOP,3.1191,
+6,Carpaccio di manzo,Rucola fresca,0.02,kg,best quality,0.1611,
+6,Carpaccio di manzo,Grana Padano scaglie,0.015,kg,,0.1111,latte
+6,Carpaccio di manzo,Olio EVO,0.015,l,qty da aggiustare,,
+6,Carpaccio di manzo,Limone succo,0.02,l,stagionale,0.2179,
+6,Carpaccio di manzo,Sale e pepe,0.002,kg,stagionale,0.0163,
+7,Burrata con pomodorini,Burrata pugliese,0.125,pz,DOP,,latte
+7,Burrata con pomodorini,Pomodorini ciliegia,0.08,kg,km0,0.337,
+7,Burrata con pomodorini,Basilico fresco,0.005,kg,bio,0.0553,
+7,Burrata con pomodorini,Olio extravergine d oliva,0.015,l,DOP,0.1451,
+7,Burrata con pomodorini,Sale,0.001,kg,IGP,0.0312,
+8,Tiramisu,Mascarpone,0.08,kg,stagionale,1.2065,latte
+8,Tiramisu,Uova fresche,0.06,kg,best quality,,uova
+8,Tiramisu,Zucchero semolato,0.025,kg,IGP,0.7041,
+8,Tiramisu,Savoiardi,0.035,kg,,0.9732,"glutine,uova"
+8,Tiramisu,Caffe espresso,0.04,l,,0.1847,
+8,Tiramisu,Cacao amaro,0.005,kg,DOP,0.1609,
+8,Tiramisu,Marsala secco,0.015,l,,0.1303,solfiti
+9,Panna cotta frutti bosco,Panna fresca liquida,0.15,lt,,5.5193,latte
+9,Panna cotta frutti bosco,Zucchero,0.025,kg,stagionale,0.1132,
+9,Panna cotta frutti bosco,Gelatina in fogli,0.003,kg,se disponibile,,
+9,Panna cotta frutti bosco,Frutti di bosco misti,0.05,kg,best quality,1.2487,
+9,Panna cotta frutti bosco,Vaniglia estratto,0.002,l,best quality,,
+10,Cannolo siciliano,Farina tipo 00,0.04,kg,km0,1.5898,glutine
+10,Cannolo siciliano,Ricotta di pecora,0.06,kg,,0.9255,latte
+10,Cannolo siciliano,Gocce cioccolato fondente,0.015,kg,km0,0.5383,
+10,Cannolo siciliano,Zucchero a velo,0.01,kg,stagionale,0.3755,
+10,Cannolo siciliano,Marsala,0.01,l,qty da aggiustare,0.0958,solfiti
+10,Cannolo siciliano,Cannella,0.001,kg,DOP,,
+10,Cannolo siciliano,Olio semi frittura,0.03,l,se disponibile,1.0754,
